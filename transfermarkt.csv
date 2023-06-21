@@ -1,0 +1,2001 @@
+Name,Position,Age,Player Nationality,Market Value,Club,League,Transfer Type,Fee
+Erling Haaland,Centre-Forward,21,Norway,150.0,Man City,Premier League,Permanent,60.0
+Enzo Fernández,Defensive Midfield,22,Argentina,55.0,Chelsea,Premier League,Permanent,121.0
+Antony,Right Winger,22,Brazil,35.0,Man Utd,Premier League,Permanent,95.0
+Wesley Fofana,Centre-Back,21,France,40.0,Chelsea,Premier League,Permanent,80.4
+Aurélien Tchouaméni,Defensive Midfield,22,France,60.0,Real Madrid,LaLiga,Permanent,80.0
+Casemiro,Defensive Midfield,30,Brazil,40.0,Man Utd,Premier League,Permanent,70.65
+Mykhaylo Mudryk,Left Winger,22,Ukraine,40.0,Chelsea,Premier League,Permanent,70.0
+Alexander Isak,Centre-Forward,22,Sweden,30.0,Newcastle,Premier League,Permanent,70.0
+Matthijs de Ligt,Centre-Back,22,Netherlands,70.0,Bayern Munich,Bundesliga,Permanent,67.0
+Raheem Sterling,Left Winger,27,England,70.0,Chelsea,Premier League,Permanent,56.2
+Sadio Mané,Left Winger,30,Senegal,70.0,Bayern Munich,Bundesliga,Permanent,32.0
+Romelu Lukaku,Centre-Forward,29,Belgium,70.0,Inter,Serie A,Loan,
+João Cancelo,Right-Back,28,Portugal,70.0,Bayern Munich,Bundesliga,Loan,
+Marc Cucurella,Left-Back,24,Spain,28.0,Chelsea,Premier League,Permanent,65.3
+Federico Chiesa,Left Winger,24,Italy,65.0,Juventus,Serie A,Permanent,42.5
+Jules Koundé,Centre-Back,23,France,60.0,Barcelona,LaLiga,Permanent,50.0
+Cody Gakpo,Left Winger,23,Netherlands,60.0,Liverpool,Premier League,Permanent,42.0
+Raphinha,Right Winger,25,Brazil,45.0,Barcelona,LaLiga,Permanent,58.0
+Richarlison,Centre-Forward,25,Brazil,48.0,Tottenham,Premier League,Permanent,58.0
+Lisandro Martínez,Centre-Back,24,Argentina,32.0,Man Utd,Premier League,Permanent,57.37
+Darwin Núñez,Centre-Forward,23,Uruguay,55.0,Liverpool,Premier League,Permanent,80.0
+Fabián Ruiz,Central Midfield,26,Spain,55.0,Paris SG,Ligue 1,Permanent,23.0
+Gabriel Jesus,Centre-Forward,25,Brazil,50.0,Arsenal,Premier League,Permanent,52.2
+Cristian Romero,Centre-Back,24,Argentina,48.0,Tottenham,Premier League,Permanent,50.0
+Kalvin Phillips,Defensive Midfield,26,England,50.0,Man City,Premier League,Permanent,49.0
+Carlos Soler,Central Midfield,25,Spain,50.0,Paris SG,Ligue 1,Permanent,18.0
+João Félix,Second Striker,23,Portugal,50.0,Chelsea,Premier League,Loan,
+Paul Pogba,Central Midfield,29,France,48.0,Juventus,Serie A,Free,
+Anthony Gordon,Left Winger,21,England,40.0,Newcastle,Premier League,Permanent,45.6
+Robert Lewandowski,Centre-Forward,33,Poland,45.0,Barcelona,LaLiga,Permanent,45.0
+Matheus Nunes,Central Midfield,23,Portugal,35.0,Wolves,Premier League,Permanent,45.0
+Franck Kessié,Central Midfield,25,Cote d'Ivoire,45.0,Barcelona,LaLiga,Free,
+Enzo Fernández,Defensive Midfield,21,Argentina,15.0,Benfica,Liga Portugal,Permanent,44.25
+Lucas Paquetá,Attacking Midfield,25,Brazil,35.0,West Ham,Premier League,Permanent,42.95
+Amine Gouiri,Centre-Forward,22,France,42.0,Rennes,Ligue 1,Permanent,28.0
+Vitinha,Central Midfield,22,Portugal,30.0,Paris SG,Ligue 1,Permanent,41.5
+Bremer,Centre-Back,25,Brazil,35.0,Juventus,Serie A,Permanent,41.0
+Nuno Mendes,Left-Back,20,Portugal,40.0,Paris SG,Ligue 1,Permanent,38.0
+Benoît Badiashile,Centre-Back,21,France,40.0,Chelsea,Premier League,Permanent,38.0
+Gonçalo Guedes,Second Striker,25,Portugal,40.0,Wolves,Premier League,Permanent,32.6
+Diego Carlos,Centre-Back,29,Brazil,40.0,Aston Villa,Premier League,Permanent,31.0
+Antonio Rüdiger,Centre-Back,29,Germany,40.0,Real Madrid,LaLiga,Free,
+Kalidou Koulibaly,Centre-Back,31,Senegal,35.0,Chelsea,Premier League,Permanent,38.0
+Sven Botman,Centre-Back,22,Netherlands,30.0,Newcastle,Premier League,Permanent,37.0
+Gianluca Scamacca,Centre-Forward,23,Italy,30.0,West Ham,Premier League,Permanent,36.0
+Fábio Vieira,Attacking Midfield,22,Portugal,25.0,Arsenal,Premier League,Permanent,35.0
+Oleksandr Zinchenko,Left-Back,25,Ukraine,25.0,Arsenal,Premier League,Permanent,35.0
+Amadou Onana,Defensive Midfield,20,Belgium,10.0,Everton,Premier League,Permanent,35.0
+Nayef Aguerd,Centre-Back,26,Morocco,12.0,West Ham,Premier League,Permanent,35.0
+Noni Madueke,Right Winger,20,England,15.0,Chelsea,Premier League,Permanent,35.0
+Sébastien Haller,Centre-Forward,28,Cote d'Ivoire,35.0,Bor. Dortmund,Bundesliga,Permanent,31.0
+Karim Adeyemi,Left Winger,20,Germany,35.0,Bor. Dortmund,Bundesliga,Permanent,30.0
+Yves Bissouma,Central Midfield,25,Mali,35.0,Tottenham,Premier League,Permanent,29.2
+Timo Werner,Centre-Forward,26,Germany,35.0,RB Leipzig,Bundesliga,Permanent,20.0
+Ryan Gravenberch,Central Midfield,20,Netherlands,35.0,Bayern Munich,Bundesliga,Permanent,18.5
+Jorginho,Defensive Midfield,31,Italy,35.0,Arsenal,Premier League,Permanent,11.3
+Arnaut Danjuma,Left Winger,25,Netherlands,35.0,Tottenham,Premier League,Loan,
+Paulo Dybala,Second Striker,28,Argentina,35.0,AS Roma,Serie A,Free,
+Niklas Süle,Centre-Back,26,Germany,35.0,Bor. Dortmund,Bundesliga,Free,
+Andreas Christensen,Centre-Back,26,Denmark,35.0,Barcelona,LaLiga,Free,
+Nico Schlotterbeck,Centre-Back,22,Germany,33.0,Bor. Dortmund,Bundesliga,Permanent,20.0
+Brenden Aaronson,Attacking Midfield,21,United States,25.0,Leeds,Premier League,Permanent,32.84
+Vitinha,Centre-Forward,22,Portugal,15.0,Marseille,Ligue 1,Permanent,32.0
+Gonçalo Guedes,Second Striker,26,Portugal,32.0,Benfica,Liga Portugal,Loan,
+Steven Bergwijn,Left Winger,24,Netherlands,18.0,Ajax,Eredivisie,Permanent,31.25
+Charles De Ketelaere,Attacking Midfield,21,Belgium,30.0,AC Milan,Serie A,Permanent,35.5
+Malo Gusto,Right-Back,19,France,15.0,Chelsea,Premier League,Permanent,30.0
+Leandro Trossard,Left Winger,28,Belgium,30.0,Arsenal,Premier League,Permanent,24.0
+Manuel Akanji,Centre-Back,27,Switzerland,30.0,Man City,Premier League,Permanent,17.5
+Frank Anguissa,Central Midfield,26,Cameroon,30.0,SSC Napoli,Serie A,Permanent,16.0
+Nicolò Zaniolo,Attacking Midfield,23,Italy,30.0,Galatasaray,Süper Lig,Permanent,15.0
+Renan Lodi,Left-Back,24,Brazil,30.0,Nottm Forest,Premier League,Loan,
+Tanguy Ndombélé,Central Midfield,25,France,30.0,SSC Napoli,Serie A,Loan,
+Angeliño,Left-Back,25,Spain,30.0,TSG Hoffenheim,Bundesliga,Loan,
+Morgan Gibbs-White,Attacking Midfield,22,England,11.0,Nottm Forest,Premier League,Permanent,29.5
+Leander Dendoncker,Defensive Midfield,27,Belgium,28.0,Aston Villa,Premier League,Permanent,15.0
+Renato Sanches,Central Midfield,24,Portugal,28.0,Paris SG,Ligue 1,Permanent,15.0
+Giacomo Raspadori,Second Striker,22,Italy,28.0,SSC Napoli,Serie A,Loan,
+Hugo Ekitiké,Centre-Forward,20,France,28.0,Paris SG,Ligue 1,Loan,
+Mohamed Camara,Defensive Midfield,22,Mali,27.0,Monaco,Ligue 1,Permanent,15.0
+Xaver Schlager,Central Midfield,24,Austria,27.0,RB Leipzig,Bundesliga,Permanent,12.0
+Denis Zakaria,Defensive Midfield,25,Switzerland,27.0,Chelsea,Premier League,Loan,
+David Raum,Left-Back,24,Germany,20.0,RB Leipzig,Bundesliga,Permanent,26.0
+Jakub Kiwior,Centre-Back,22,Poland,8.0,Arsenal,Premier League,Permanent,25.0
+Kamaldeen Sulemana,Left Winger,20,Ghana,18.0,Southampton,Premier League,Permanent,25.0
+Luis Sinisterra,Left Winger,23,Colombia,25.0,Leeds,Premier League,Permanent,25.0
+Merih Demiral,Centre-Back,24,Turkey,25.0,Atalanta BC,Serie A,Permanent,21.0
+Danilo,Defensive Midfield,21,Brazil,25.0,Nottm Forest,Premier League,Permanent,20.0
+João Palhinha,Defensive Midfield,26,Portugal,25.0,Fulham,Premier League,Permanent,20.0
+Sasa Kalajdzic,Centre-Forward,25,Austria,25.0,Wolves,Premier League,Permanent,18.0
+Mattéo Guendouzi,Central Midfield,23,France,25.0,Marseille,Ligue 1,Permanent,11.0
+Pedro Porro,Right-Back,22,Spain,25.0,Sporting CP,Liga Portugal,Permanent,8.77
+Raúl de Tomás,Centre-Forward,27,Spain,25.0,Rayo Vallecano,LaLiga,Permanent,8.0
+Pedro Porro,Right-Back,23,Spain,25.0,Tottenham,Premier League,Loan,
+Lucas Ocampos,Right Winger,28,Argentina,25.0,Ajax,Eredivisie,Loan,
+Sergio Reguilón,Left-Back,25,Spain,25.0,Atlético Madrid,LaLiga,Loan,
+Callum Hudson-Odoi,Left Winger,21,England,25.0,B. Leverkusen,Bundesliga,Loan,
+Conor Coady,Centre-Back,29,England,25.0,Everton,Premier League,Loan,
+Boubacar Kamara,Defensive Midfield,22,France,25.0,Aston Villa,Premier League,Free,
+Nicolas Pépé,Right Winger,27,Cote d'Ivoire,25.0,OGC Nice,Ligue 1,Loan,
+Lorenzo Insigne,Left Winger,31,Italy,25.0,Toronto,MLS,Free,
+Nathan Collins,Centre-Back,21,Ireland,10.0,Wolves,Premier League,Permanent,24.3
+Filip Kostic,Left Midfield,29,Serbia,24.0,Juventus,Serie A,Permanent,13.0
+Joaquín Correa,Second Striker,27,Argentina,23.0,Inter,Serie A,Permanent,27.3
+Calvin Bassey,Centre-Back,22,Nigeria,10.0,Ajax,Eredivisie,Permanent,23.0
+Ilya Zabarnyi,Centre-Back,20,Ukraine,15.0,Bournemouth,Premier League,Permanent,22.7
+Sofiane Diop,Left Winger,22,France,20.0,OGC Nice,Ligue 1,Permanent,22.0
+Jérémie Boga,Left Winger,25,Cote d'Ivoire,19.0,Atalanta BC,Serie A,Permanent,22.0
+Thilo Kehrer,Centre-Back,25,Germany,22.0,West Ham,Premier League,Permanent,12.0
+Cengiz Ünder,Right Winger,24,Turkey,22.0,Marseille,Ligue 1,Permanent,8.4
+Viktor Tsygankov,Right Winger,25,Ukraine,22.0,Girona,LaLiga,Permanent,5.0
+Julian Weigl,Defensive Midfield,26,Germany,22.0,Bor. M'gladbach,Bundesliga,Loan,
+James Tarkowski,Centre-Back,29,England,22.0,Everton,Premier League,Free,
+Mauro Icardi,Centre-Forward,29,Argentina,22.0,Galatasaray,Süper Lig,Loan,
+Jan Bednarek,Centre-Back,26,Poland,22.0,Aston Villa,Premier League,Loan,
+Hamed Junior Traorè,Attacking Midfield,22,Cote d'Ivoire,22.0,Bournemouth,Premier League,Loan,
+Giovani Lo Celso,Central Midfield,26,Argentina,22.0,Villarreal,LaLiga,Loan,
+Weston McKennie,Central Midfield,24,United States,21.0,Leeds,Premier League,Loan,
+Maxwel Cornet,Left Winger,25,Cote d'Ivoire,15.0,West Ham,Premier League,Permanent,20.7
+Taiwo Awoniyi,Centre-Forward,24,Nigeria,20.0,Nottm Forest,Premier League,Permanent,20.5
+David Carmo,Centre-Back,22,Portugal,15.0,FC Porto,Liga Portugal,Permanent,20.28
+Nahuel Molina,Right-Back,24,Argentina,20.0,Atlético Madrid,LaLiga,Permanent,20.0
+Mathys Tel,Centre-Forward,17,France,2.0,Bayern Munich,Bundesliga,Permanent,20.0
+Arnaud Kalimuendo,Centre-Forward,20,France,18.0,Rennes,Ligue 1,Permanent,20.0
+Philippe Coutinho,Left Winger,30,Brazil,20.0,Aston Villa,Premier League,Permanent,20.0
+Umar Sadiq,Centre-Forward,25,Nigeria,18.0,Real Sociedad,LaLiga,Permanent,20.0
+Neco Williams,Right-Back,21,Wales,8.0,Nottm Forest,Premier League,Permanent,20.0
+Pervis Estupiñán,Left-Back,24,Ecuador,20.0,Brighton,Premier League,Permanent,17.8
+David Neres,Right Winger,25,Brazil,20.0,Benfica,Liga Portugal,Permanent,15.3
+Dodô,Right-Back,23,Brazil,20.0,Fiorentina,Serie A,Permanent,14.5
+Álex Moreno,Left-Back,29,Spain,20.0,Aston Villa,Premier League,Permanent,13.5
+Adam Hlozek,Centre-Forward,19,Czech Republic,20.0,B. Leverkusen,Bundesliga,Permanent,13.0
+Nordi Mukiele,Right-Back,24,France,20.0,Paris SG,Ligue 1,Permanent,12.0
+Remo Freuler,Central Midfield,30,Switzerland,20.0,Nottm Forest,Premier League,Permanent,9.0
+Lucas Torreira,Defensive Midfield,26,Uruguay,20.0,Galatasaray,Süper Lig,Permanent,6.0
+Pablo Sarabia,Right Winger,30,Spain,20.0,Wolves,Premier League,Permanent,5.0
+Memphis Depay,Centre-Forward,28,Netherlands,20.0,Atlético Madrid,LaLiga,Permanent,3.0
+Trincão,Right Winger,22,Portugal,20.0,Sporting CP,Liga Portugal,Loan,
+Antonin Barak,Attacking Midfield,27,Czech Republic,20.0,Fiorentina,Serie A,Loan,
+Andrea Belotti,Centre-Forward,28,Italy,20.0,AS Roma,Serie A,Free,
+Noussair Mazraoui,Right-Back,24,Morocco,20.0,Bayern Munich,Bundesliga,Free,
+Héctor Bellerín,Right-Back,27,Spain,20.0,Barcelona,LaLiga,Free,
+Matheus Cunha,Centre-Forward,23,Brazil,20.0,Wolves,Premier League,Loan,
+Marcel Sabitzer,Central Midfield,28,Austria,20.0,Man Utd,Premier League,Loan,
+Christian Eriksen,Central Midfield,30,Denmark,20.0,Man Utd,Premier League,Free,
+Nico González,Central Midfield,20,Spain,20.0,Valencia,LaLiga,Loan,
+Andrea Pinamonti,Centre-Forward,23,Italy,20.0,Sassuolo,Serie A,Loan,
+Arthur Theate,Centre-Back,22,Belgium,15.0,Rennes,Ligue 1,Permanent,19.0
+Hassane Kamara,Left-Back,28,Cote d'Ivoire,4.0,Udinese Calcio,Serie A,Permanent,19.0
+Keane Lewis-Potter,Left Winger,21,England,12.0,Brentford,Premier League,Permanent,19.0
+João Gomes,Central Midfield,21,Brazil,15.0,Wolves,Premier League,Permanent,18.7
+Min-jae Kim,Centre-Back,25,"Korea, South",14.0,SSC Napoli,Serie A,Permanent,18.05
+Destiny Udogie,Left-Back,19,Italy,17.0,Tottenham,Premier League,Permanent,18.0
+Paul Onuachu,Centre-Forward,28,Nigeria,15.0,Southampton,Premier League,Permanent,18.0
+Carney Chukwuemeka,Central Midfield,18,England,6.0,Chelsea,Premier League,Permanent,18.0
+Dwight McNeil,Left Winger,22,England,18.0,Everton,Premier League,Permanent,17.0
+Aaron Hickey,Left-Back,20,Scotland,18.0,Brentford,Premier League,Permanent,16.5
+Gaëtan Laborde,Centre-Forward,28,France,18.0,OGC Nice,Ligue 1,Permanent,15.0
+Gerson,Central Midfield,25,Brazil,18.0,Flamengo,Série A,Permanent,15.0
+Brais Méndez,Attacking Midfield,25,Spain,18.0,Real Sociedad,LaLiga,Permanent,14.0
+Neal Maupay,Centre-Forward,26,France,18.0,Everton,Premier League,Permanent,11.8
+Moussa Niakhaté,Centre-Back,26,Senegal,18.0,Nottm Forest,Premier League,Permanent,10.0
+Mattia Zaccagni,Left Winger,27,Italy,18.0,Lazio,Serie A,Permanent,7.1
+Zeki Celik,Right-Back,25,Turkey,18.0,AS Roma,Serie A,Permanent,7.0
+Arthur Melo,Central Midfield,26,Brazil,18.0,Liverpool,Premier League,Loan,
+Julian Draxler,Left Winger,28,Germany,18.0,Benfica,Liga Portugal,Loan,
+Abdou Diallo,Centre-Back,26,Senegal,18.0,RB Leipzig,Bundesliga,Loan,
+Sergiño Dest,Right-Back,21,United States,18.0,AC Milan,Serie A,Loan,
+Georginio Wijnaldum,Central Midfield,31,Netherlands,18.0,AS Roma,Serie A,Loan,
+Matthias Ginter,Centre-Back,28,Germany,18.0,SC Freiburg,Bundesliga,Free,
+Nathan Redmond,Right Winger,28,England,18.0,Besiktas,Süper Lig,Free,
+Ruslan Malinovskyi,Attacking Midfield,29,Ukraine,18.0,Marseille,Ligue 1,Loan,
+Alex Telles,Left-Back,29,Brazil,18.0,Sevilla FC,LaLiga,Loan,
+Jesse Lingard,Attacking Midfield,29,England,18.0,Nottm Forest,Premier League,Free,
+Dean Henderson,Goalkeeper,25,England,18.0,Nottm Forest,Premier League,Loan,
+Daniel James,Right Winger,24,Wales,18.0,Fulham,Premier League,Loan,
+André Gomes,Central Midfield,29,Portugal,18.0,LOSC Lille,Ligue 1,Loan,
+Issa Diop,Centre-Back,25,France,10.0,Fulham,Premier League,Permanent,17.8
+Matt Targett,Left-Back,26,England,17.0,Newcastle,Premier League,Permanent,17.5
+Tyler Adams,Defensive Midfield,23,United States,17.0,Leeds,Premier League,Permanent,17.0
+Harry Souttar,Centre-Back,24,Australia,6.0,Leicester,Premier League,Permanent,17.0
+Wout Faes,Centre-Back,24,Belgium,10.0,Leicester,Premier League,Permanent,17.0
+Roman Yaremchuk,Centre-Forward,26,Ukraine,15.0,Club Brugge,Jupiler Pro League,Permanent,17.0
+Tyrell Malacia,Left-Back,22,Netherlands,17.0,Man Utd,Premier League,Permanent,15.0
+Marcos Senesi,Centre-Back,25,Argentina,17.0,Bournemouth,Premier League,Permanent,15.0
+Jordan Veretout,Defensive Midfield,29,France,17.0,Marseille,Ligue 1,Permanent,11.0
+Giovanni Simeone,Centre-Forward,26,Argentina,17.0,Hellas Verona,Serie A,Permanent,10.5
+Destiny Udogie,Left-Back,19,Italy,17.0,Udinese Calcio,Serie A,Permanent,4.0
+Giovanni Simeone,Centre-Forward,27,Argentina,17.0,SSC Napoli,Serie A,Loan,
+Yusuf Yazici,Attacking Midfield,25,Turkey,17.0,Trabzonspor,Süper Lig,Loan,
+Chancel Mbemba,Centre-Back,27,DR Congo,17.0,Marseille,Ligue 1,Free,
+Pedrinho,Right Winger,24,Brazil,17.0,Atlético-MG,Série A,Loan,
+Kasper Dolberg,Centre-Forward,24,Denmark,17.0,Sevilla FC,LaLiga,Loan,
+Alessio Romagnoli,Centre-Back,27,Italy,17.0,Lazio,Serie A,Free,
+Destiny Udogie,Left-Back,19,Italy,17.0,Udinese Calcio,Serie A,Loan,
+Leandro Paredes,Defensive Midfield,28,Argentina,17.0,Juventus,Serie A,Loan,
+Hee-chan Hwang,Centre-Forward,26,"Korea, South",16.0,Wolves,Premier League,Permanent,16.7
+Jhon Durán,Centre-Forward,19,Colombia,6.0,Aston Villa,Premier League,Permanent,16.64
+Mathías Olivera,Left-Back,24,Uruguay,15.0,SSC Napoli,Serie A,Permanent,16.5
+Brian Brobbey,Centre-Forward,20,Netherlands,9.0,Ajax,Eredivisie,Permanent,16.35
+Georginio Rutter,Centre-Forward,20,France,16.0,Leeds,Premier League,Permanent,28.0
+Tanguy Nianzou,Centre-Back,20,France,9.0,Sevilla FC,LaLiga,Permanent,16.0
+Danny Ings,Centre-Forward,30,England,16.0,West Ham,Premier League,Permanent,12.0
+Jerry St. Juste,Centre-Back,25,Netherlands,16.0,Sporting CP,Liga Portugal,Permanent,10.0
+Duje Caleta-Car,Centre-Back,25,Croatia,16.0,Southampton,Premier League,Permanent,8.0
+Arkadiusz Milik,Centre-Forward,28,Poland,16.0,Marseille,Ligue 1,Permanent,8.0
+Matteo Pessina,Central Midfield,25,Italy,16.0,Monza,Serie A,Loan,
+Arkadiusz Milik,Centre-Forward,28,Poland,16.0,Juventus,Serie A,Loan,
+Randal Kolo Muani,Centre-Forward,23,France,16.0,E. Frankfurt,Bundesliga,Free,
+Dele Alli,Attacking Midfield,26,England,16.0,Besiktas,Süper Lig,Loan,
+Luiz Felipe,Centre-Back,25,Italy,16.0,Real Betis,LaLiga,Free,
+Yuri Alberto,Centre-Forward,21,Brazil,16.0,Corinthians,Série A,Free,
+Yuri Alberto,Centre-Forward,21,Brazil,16.0,Corinthians,Série A,Loan,
+Luka Jovic,Centre-Forward,24,Serbia,16.0,Fiorentina,Serie A,Free,
+Diadié Samassékou,Defensive Midfield,26,Mali,16.0,Olympiacos,Super League 1,Loan,
+Bertrand Traoré,Right Winger,26,Burkina Faso,16.0,Basaksehir,Süper Lig,Loan,
+Cheick Doucouré,Defensive Midfield,22,Mali,15.0,Crystal Palace,Premier League,Permanent,22.6
+Takumi Minamino,Left Winger,27,Japan,12.0,Monaco,Ligue 1,Permanent,15.0
+Mikkel Damsgaard,Left Winger,22,Denmark,15.0,Brentford,Premier League,Permanent,15.0
+Cesare Casadei,Central Midfield,19,Italy,1.0,Chelsea U21,Premier League 2,Permanent,15.0
+Everton,Left Winger,26,Brazil,15.0,Flamengo,Série A,Permanent,14.0
+Rasmus Kristensen,Right-Back,24,Denmark,15.0,Leeds,Premier League,Permanent,13.0
+Orel Mangala,Central Midfield,24,Belgium,15.0,Nottm Forest,Premier League,Permanent,13.0
+Breel Embolo,Centre-Forward,25,Switzerland,15.0,Monaco,Ligue 1,Permanent,12.5
+Pierre-Emerick Aubameyang,Centre-Forward,33,Gabon,15.0,Chelsea,Premier League,Permanent,12.0
+Nick Pope,Goalkeeper,30,England,15.0,Newcastle,Premier League,Permanent,11.5
+Khvicha Kvaratskhelia,Left Winger,21,Georgia,15.0,SSC Napoli,Serie A,Permanent,11.5
+Mohamed-Ali Cho,Centre-Forward,18,France,15.0,Real Sociedad,LaLiga,Permanent,11.0
+Mattias Svanberg,Central Midfield,23,Sweden,15.0,VfL Wolfsburg,Bundesliga,Permanent,9.0
+Azzedine Ounahi,Central Midfield,22,Morocco,15.0,Marseille,Ligue 1,Permanent,8.0
+Jonathan Clauss,Right-Back,29,France,15.0,Marseille,Ligue 1,Permanent,7.5
+Arthur Theate,Centre-Back,22,Belgium,15.0,Bologna,Serie A,Permanent,6.75
+Konstantinos Mavropanos,Centre-Back,24,Greece,15.0,VfB Stuttgart,Bundesliga,Permanent,3.2
+Terem Moffi,Centre-Forward,23,Nigeria,15.0,OGC Nice,Ligue 1,Loan,
+Héctor Bellerín,Right-Back,27,Spain,15.0,Sporting CP,Liga Portugal,Permanent,1.0
+Fábio Silva,Centre-Forward,20,Portugal,15.0,RSC Anderlecht,Jupiler Pro League,Loan,
+Nuno Tavares,Left-Back,22,Portugal,15.0,Marseille,Ligue 1,Loan,
+Amad Diallo,Right Winger,20,Cote d'Ivoire,15.0,Sunderland,Championship,Loan,
+Albert Sambi Lokonga,Central Midfield,23,Belgium,15.0,Crystal Palace,Premier League,Loan,
+Harry Winks,Defensive Midfield,26,England,15.0,Sampdoria,Serie A,Loan,
+Alexandre Lacazette,Centre-Forward,31,France,15.0,Olympique Lyon,Ligue 1,Free,
+Corentin Tolisso,Central Midfield,27,France,15.0,Olympique Lyon,Ligue 1,Free,
+Justin Kluivert,Left Winger,23,Netherlands,15.0,Valencia,LaLiga,Loan,
+Emmanuel Dennis,Centre-Forward,24,Nigeria,14.0,Nottm Forest,Premier League,Permanent,14.8
+Djed Spence,Right-Back,21,England,8.0,Tottenham,Premier League,Permanent,14.7
+Diego Rossi,Left Winger,24,Uruguay,14.5,Fenerbahce,Süper Lig,Permanent,5.5
+Emerson,Left-Back,28,Italy,14.0,West Ham,Premier League,Permanent,15.4
+Gavin Bazunu,Goalkeeper,20,Ireland,5.0,Southampton,Premier League,Permanent,14.0
+Victor Kristiansen,Left-Back,20,Denmark,4.0,Leicester,Premier League,Permanent,14.0
+Mohamed Bayo,Centre-Forward,24,Guinea,12.0,LOSC Lille,Ligue 1,Permanent,14.0
+Marcão,Centre-Back,26,Brazil,14.0,Sevilla FC,LaLiga,Permanent,12.0
+Wout Weghorst,Centre-Forward,30,Netherlands,14.0,Man Utd,Premier League,Loan,
+Sebastian Szymanski,Attacking Midfield,23,Poland,14.0,Feyenoord,Eredivisie,Loan,
+Wout Weghorst,Centre-Forward,29,Netherlands,14.0,Besiktas,Süper Lig,Loan,
+Walter Benítez,Goalkeeper,29,Argentina,14.0,PSV Eindhoven,Eredivisie,Free,
+Kayky,Right Winger,19,Brazil,14.0,Paços Ferreira,Liga Portugal,Loan,
+Yangel Herrera,Central Midfield,24,Venezuela,14.0,Girona,LaLiga,Loan,
+Jason Denayer,Centre-Back,27,Belgium,14.0,Shabab Al-Ahli,UAE Pro League,Free,
+Carlos Alcaraz,Central Midfield,20,Argentina,8.5,Southampton,Premier League,Permanent,13.65
+Éderson,Central Midfield,22,Brazil,13.0,Atalanta BC,Serie A,Permanent,21.4
+Sékou Mara,Centre-Forward,19,France,3.0,Southampton,Premier League,Permanent,13.0
+Sergio Gómez,Left-Back,21,Spain,10.0,Man City,Premier League,Permanent,13.0
+Fredrik Aursnes,Defensive Midfield,26,Norway,12.0,Benfica,Liga Portugal,Permanent,13.0
+Lucas Gourna-Douath,Defensive Midfield,18,France,10.0,RB Salzburg,Bundesliga,Permanent,13.0
+Mattia Viti,Centre-Back,20,Italy,7.0,OGC Nice,Ligue 1,Permanent,13.0
+Sasa Lukic,Central Midfield,26,Serbia,13.0,Fulham,Premier League,Permanent,9.8
+Salih Özcan,Defensive Midfield,24,Turkey,13.0,Bor. Dortmund,Bundesliga,Permanent,5.0
+Djed Spence,Right-Back,22,England,13.0,Rennes,Ligue 1,Loan,
+Fábio Silva,Centre-Forward,20,Portugal,13.0,PSV Eindhoven,Eredivisie,Loan,
+Ivan Ilic,Central Midfield,21,Serbia,13.0,Torino,Serie A,Loan,
+James Rodríguez,Attacking Midfield,31,Colombia,13.0,Olympiacos,Super League 1,Free,
+Calvin Stengs,Right Winger,23,Netherlands,13.0,Royal Antwerp,Jupiler Pro League,Loan,
+Ethan Ampadu,Centre-Back,21,Wales,13.0,Spezia Calcio,Serie A,Loan,
+Andrey Santos,Central Midfield,18,Brazil,10.0,Chelsea,Premier League,Permanent,12.5
+Roméo Lavia,Defensive Midfield,18,Belgium,2.0,Southampton,Premier League,Permanent,12.3
+Fernando Gorriarán,Central Midfield,28,Uruguay,9.0,Tigres UANL,Liga MX Clausura,Permanent,12.2
+Pau López,Goalkeeper,27,Spain,12.0,Marseille,Ligue 1,Permanent,12.0
+Maximilian Wöber,Centre-Back,24,Austria,12.0,Leeds,Premier League,Permanent,12.0
+Marc Roca,Defensive Midfield,25,Spain,7.0,Leeds,Premier League,Permanent,12.0
+Alexis Beka Beka,Defensive Midfield,21,France,3.0,OGC Nice,Ligue 1,Permanent,12.0
+Stanley Nsoki,Centre-Back,23,France,7.0,TSG Hoffenheim,Bundesliga,Permanent,12.0
+David Datro Fofana,Centre-Forward,20,Cote d'Ivoire,7.0,Chelsea,Premier League,Permanent,12.0
+Naouirou Ahamada,Central Midfield,20,France,5.5,Crystal Palace,Premier League,Permanent,12.0
+Chris Richards,Centre-Back,22,United States,7.5,Crystal Palace,Premier League,Permanent,12.0
+Agustín Álvarez,Centre-Forward,21,Uruguay,4.0,Sassuolo,Serie A,Permanent,12.0
+Luís Maximiano,Goalkeeper,23,Portugal,12.0,Lazio,Serie A,Permanent,10.26
+Gabriel Veron,Right Winger,19,Brazil,12.0,FC Porto,Liga Portugal,Permanent,10.25
+Willian José,Centre-Forward,30,Brazil,12.0,Real Betis,LaLiga,Permanent,10.0
+Owen Wijndal,Left-Back,22,Netherlands,12.0,Ajax,Eredivisie,Permanent,10.0
+Marko Grujic,Defensive Midfield,26,Serbia,12.0,FC Porto,Liga Portugal,Permanent,9.0
+Samuele Ricci,Defensive Midfield,20,Italy,12.0,Torino,Serie A,Permanent,8.5
+Antonin Barak,Attacking Midfield,28,Czech Republic,12.0,Fiorentina,Serie A,Permanent,8.5
+Billy Gilmour,Central Midfield,21,Scotland,12.0,Brighton,Premier League,Permanent,8.33
+Luiz Henrique,Right Winger,21,Brazil,12.0,Real Betis,LaLiga,Permanent,8.0
+Angelo Fulgini,Attacking Midfield,25,France,12.0,1.FSV Mainz 05,Bundesliga,Permanent,6.0
+Fábio Carvalho,Attacking Midfield,19,Portugal,12.0,Liverpool,Premier League,Permanent,5.9
+João Pedro,Centre-Forward,30,Italy,12.0,Fenerbahce,Süper Lig,Permanent,4.68
+Idrissa Gueye,Central Midfield,32,Senegal,12.0,Everton,Premier League,Permanent,4.0
+Sérgio Oliveira,Central Midfield,30,Portugal,12.0,Galatasaray,Süper Lig,Permanent,3.0
+Maxi Gómez,Centre-Forward,26,Uruguay,12.0,Trabzonspor,Süper Lig,Permanent,3.0
+Andrea Petagna,Centre-Forward,27,Italy,12.0,Monza,Serie A,Loan,
+Karl Toko Ekambi,Left Winger,30,Cameroon,12.0,Rennes,Ligue 1,Loan,
+Boulaye Dia,Centre-Forward,25,Senegal,12.0,Salernitana,Serie A,Loan,
+Krzysztof Piatek,Centre-Forward,27,Poland,12.0,Salernitana,Serie A,Loan,
+Razvan Marin,Central Midfield,26,Romania,12.0,FC Empoli,Serie A,Loan,
+Kevin Schade,Right Winger,21,Germany,12.0,Brentford,Premier League,Loan,
+Diego Llorente,Centre-Back,29,Spain,12.0,AS Roma,Serie A,Loan,
+Divock Origi,Centre-Forward,27,Belgium,12.0,AC Milan,Serie A,Free,
+Matt Doherty,Right-Back,31,Ireland,12.0,Atlético Madrid,LaLiga,Free,
+André Onana,Goalkeeper,26,Cameroon,12.0,Inter,Serie A,Free,
+Marcos Alonso,Left-Back,31,Spain,12.0,Barcelona,LaLiga,Free,
+Clément Lenglet,Centre-Back,27,France,12.0,Tottenham,Premier League,Loan,
+Bryan Gil,Left Winger,21,Spain,12.0,Sevilla FC,LaLiga,Loan,
+Adnan Januzaj,Right Winger,27,Belgium,12.0,Sevilla FC,LaLiga,Free,
+Ángel Di María,Right Winger,34,Argentina,12.0,Juventus,Serie A,Free,
+Kasper Dolberg,Centre-Forward,25,Denmark,12.0,TSG Hoffenheim,Bundesliga,Loan,
+Sergi Canós,Right Winger,25,Spain,12.0,Olympiacos,Super League 1,Loan,
+Gustavo Scarpa,Attacking Midfield,28,Brazil,12.0,Nottm Forest,Premier League,Free,
+Loïc Badé,Centre-Back,22,France,12.0,Nottm Forest,Premier League,Loan,
+Sam Johnstone,Goalkeeper,29,England,12.0,Crystal Palace,Premier League,Free,
+Andrey Santos,Central Midfield,18,Brazil,12.0,Vasco da Gama,Série A,Loan,
+Taty Castellanos,Centre-Forward,23,Argentina,12.0,Girona,LaLiga,Loan,
+Marcus Tavernier,Left Midfield,23,England,4.5,Bournemouth,Premier League,Permanent,11.9
+Loïs Openda,Centre-Forward,22,Belgium,7.5,Lens,Ligue 1,Permanent,11.8
+Julio Enciso,Centre-Forward,18,Paraguay,11.0,Brighton,Premier League,Permanent,11.6
+Youssouf Ndayishimiye,Centre-Back,24,Burundi,7.0,OGC Nice,Ligue 1,Permanent,11.5
+Máximo Perrone,Defensive Midfield,20,Argentina,8.5,Man City,Premier League,Permanent,11.0
+Mario Lemina,Defensive Midfield,29,Gabon,7.0,Wolves,Premier League,Permanent,11.0
+Amin Sarr,Centre-Forward,21,Sweden,3.5,Olympique Lyon,Ligue 1,Permanent,11.0
+Lyle Foster,Centre-Forward,22,South Africa,2.0,Burnley,Championship,Permanent,11.0
+Joshua Zirkzee,Centre-Forward,21,Netherlands,11.0,Bologna,Serie A,Permanent,8.5
+Matheus Henrique,Central Midfield,24,Brazil,11.0,Sassuolo,Serie A,Permanent,7.0
+Ludovic Ajorque,Centre-Forward,28,France,11.0,1.FSV Mainz 05,Bundesliga,Permanent,6.0
+Nicolás Tagliafico,Left-Back,29,Argentina,11.0,Olympique Lyon,Ligue 1,Permanent,4.2
+Mady Camara,Central Midfield,25,Guinea,11.0,AS Roma,Serie A,Loan,
+Flynn Downes,Central Midfield,23,England,2.0,West Ham,Premier League,Permanent,10.65
+Gabriel Sara,Central Midfield,23,Brazil,6.5,Norwich,Championship,Permanent,10.5
+James Garner,Defensive Midfield,21,England,7.0,Everton,Premier League,Permanent,10.4
+Antoine Semenyo,Centre-Forward,23,Ghana,3.0,Bournemouth,Premier League,Permanent,10.25
+Nicolás Ibáñez,Centre-Forward,28,Argentina,7.5,Tigres UANL,Liga MX Clausura,Permanent,10.1
+Dango Ouattara,Right Winger,20,Burkina Faso,10.0,Bournemouth,Premier League,Permanent,22.5
+Armel Bella-Kotchap,Centre-Back,20,Germany,10.0,Southampton,Premier League,Permanent,11.0
+Jakub Kaminski,Left Winger,20,Poland,10.0,VfL Wolfsburg,Bundesliga,Permanent,10.0
+Luis Suárez,Centre-Forward,24,Colombia,9.0,Marseille,Ligue 1,Permanent,10.0
+Rúben Vinagre,Left-Back,23,Portugal,5.0,Sporting CP,Liga Portugal,Permanent,10.0
+Giulian Biancone,Right-Back,22,France,4.0,Nottm Forest,Premier League,Permanent,10.0
+Jeffinho,Left Winger,23,Brazil,1.5,Olympique Lyon,Ligue 1,Permanent,10.0
+Junya Ito,Right Winger,29,Japan,7.5,Stade Reims,Ligue 1,Permanent,10.0
+Borja Mayoral,Centre-Forward,25,Spain,9.0,Getafe,LaLiga,Permanent,10.0
+Ademola Lookman,Second Striker,24,Nigeria,10.0,Atalanta BC,Serie A,Permanent,9.2
+Guglielmo Vicario,Goalkeeper,25,Italy,10.0,FC Empoli,Serie A,Permanent,8.5
+Rolando Mandragora,Defensive Midfield,25,Italy,10.0,Fiorentina,Serie A,Permanent,8.2
+Gerónimo Rulli,Goalkeeper,30,Argentina,10.0,Ajax,Eredivisie,Permanent,8.0
+Artur,Right Winger,25,Brazil,10.0,Palmeiras,Série A,Permanent,8.0
+Joe Aribo,Attacking Midfield,25,Nigeria,10.0,Southampton,Premier League,Permanent,7.1
+Beto,Centre-Forward,24,Portugal,10.0,Udinese Calcio,Serie A,Permanent,7.0
+Ozan Kabak,Centre-Back,22,Turkey,10.0,TSG Hoffenheim,Bundesliga,Permanent,7.0
+Sofiane Boufal,Left Winger,29,Morocco,10.0,Al-Rayyan SC,Stars League,Permanent,6.0
+Mislav Orsic,Left Winger,30,Croatia,10.0,Southampton,Premier League,Permanent,5.75
+Gianluca Caprari,Second Striker,28,Italy,10.0,Hellas Verona,Serie A,Permanent,5.0
+Kristjan Asllani,Defensive Midfield,20,Albania,10.0,Inter,Serie A,Loan,
+Wilfried Gnonto,Left Winger,18,Italy,10.0,Leeds,Premier League,Permanent,4.5
+Chris Wood,Centre-Forward,31,New Zealand,10.0,Nottm Forest,Premier League,Loan,
+Mahmoud Trezeguet,Left Winger,27,Egypt,10.0,Trabzonspor,Süper Lig,Permanent,4.0
+Hugo Duro,Centre-Forward,22,Spain,10.0,Valencia,LaLiga,Permanent,4.0
+Michy Batshuayi,Centre-Forward,28,Belgium,10.0,Fenerbahce,Süper Lig,Permanent,3.5
+Gianluca Caprari,Second Striker,28,Italy,10.0,Monza,Serie A,Loan,
+Mario Götze,Attacking Midfield,30,Germany,10.0,E. Frankfurt,Bundesliga,Permanent,3.0
+Léo Dubois,Right-Back,27,France,10.0,Galatasaray,Süper Lig,Permanent,2.5
+Aster Vranckx,Central Midfield,19,Belgium,10.0,AC Milan,Serie A,Loan,
+Alexander Sørloth,Centre-Forward,26,Norway,10.0,Real Sociedad,LaLiga,Loan,
+Mathias Normann,Defensive Midfield,26,Norway,10.0,Dynamo Moscow,Premier Liga,Loan,
+Romain Faivre,Right Midfield,24,France,10.0,FC Lorient,Ligue 1,Loan,
+Aleksey Miranchuk,Attacking Midfield,26,Russia,10.0,Torino,Serie A,Loan,
+Pierluigi Gollini,Goalkeeper,27,Italy,10.0,Fiorentina,Serie A,Loan,
+Stefan Posch,Right-Back,25,Austria,10.0,Bologna,Serie A,Loan,
+Alessio Cragno,Goalkeeper,28,Italy,10.0,Monza,Serie A,Loan,
+Manu Sánchez,Left-Back,21,Spain,10.0,CA Osasuna,LaLiga,Loan,
+Serhou Guirassy,Centre-Forward,26,Guinea,10.0,VfB Stuttgart,Bundesliga,Loan,
+Ivan Perisic,Left Midfield,33,Croatia,10.0,Tottenham,Premier League,Free,
+Matheus Pereira,Attacking Midfield,26,Brazil,10.0,Al-Wahda FC,UAE Pro League,Loan,
+Allan,Defensive Midfield,31,Brazil,10.0,Al-Wahda FC,UAE Pro League,Free,
+Ainsley Maitland-Niles,Right Midfield,25,England,10.0,Southampton,Premier League,Loan,
+Amine Harit,Attacking Midfield,25,Morocco,10.0,Marseille,Ligue 1,Loan,
+Loïc Badé,Centre-Back,22,France,10.0,Sevilla FC,LaLiga,Loan,
+Pape Gueye,Defensive Midfield,24,Senegal,10.0,Sevilla FC,LaLiga,Loan,
+Florian Thauvin,Right Winger,30,France,10.0,Udinese Calcio,Serie A,Free,
+Ander Herrera,Central Midfield,33,Spain,10.0,Athletic,LaLiga,Loan,
+Alex Mowatt,Central Midfield,27,England,10.0,Middlesbrough,Championship,Loan,
+Jeff Reine-Adélaïde,Attacking Midfield,25,France,10.0,Troyes,Ligue 1,Loan,
+Marquinhos,Right Winger,19,Brazil,10.0,Norwich,Championship,Loan,
+Cyle Larin,Centre-Forward,27,Canada,10.0,Club Brugge,Jupiler Pro League,Free,
+Nicolò Rovella,Defensive Midfield,20,Italy,10.0,Monza,Serie A,Loan,
+Kayky,Right Winger,19,Brazil,10.0,EC Bahia,Série A,Loan,
+Federico Bernardeschi,Right Winger,28,Italy,10.0,Toronto,MLS,Free,
+Cucho Hernández,Centre-Forward,23,Colombia,9.0,Columbus,MLS,Permanent,9.55
+João Victor,Centre-Back,23,Brazil,8.0,Benfica,Liga Portugal,Permanent,9.5
+Ahmetcan Kaplan,Centre-Back,19,Turkey,2.8,Ajax,Eredivisie,Permanent,9.5
+Andreas Pereira,Attacking Midfield,26,Brazil,7.5,Fulham,Premier League,Permanent,9.5
+José Manuel López,Centre-Forward,21,Argentina,8.0,Palmeiras,Série A,Permanent,9.5
+Evander,Central Midfield,24,Brazil,9.0,Portland,MLS,Permanent,9.5
+Miralem Pjanic,Central Midfield,32,Bosnia-Herzegovina,9.5,Sharjah FC,UAE Pro League,Free,
+Lewis O'Brien,Central Midfield,23,England,3.5,Nottm Forest,Premier League,Permanent,9.4
+Alphonse Areola,Goalkeeper,29,France,8.0,West Ham,Premier League,Permanent,9.3
+Gabriel Slonina,Goalkeeper,18,United States,3.0,Chelsea,Premier League,Permanent,9.09
+Jonas Omlin,Goalkeeper,29,Switzerland,7.0,Bor. M'gladbach,Bundesliga,Permanent,9.0
+Christopher Wooh,Centre-Back,20,Cameroon,3.0,Rennes,Ligue 1,Permanent,9.0
+Andreas Schjelderup,Left Winger,18,Norway,9.0,Benfica,Liga Portugal,Permanent,9.0
+Andrea Colpani,Central Midfield,23,Italy,2.4,Monza,Serie A,Permanent,9.0
+Josip Juranovic,Right-Back,27,Croatia,9.0,Union Berlin,Bundesliga,Permanent,8.55
+Jhon Lucumí,Centre-Back,24,Colombia,9.0,Bologna,Serie A,Permanent,8.0
+Andreas Cornelius,Centre-Forward,29,Denmark,9.0,FC Copenhagen,Superligaen,Permanent,6.0
+Adam Buksa,Centre-Forward,25,Poland,9.0,Lens,Ligue 1,Permanent,6.0
+Facundo Buonanotte,Attacking Midfield,18,Argentina,9.0,Brighton,Premier League,Permanent,6.0
+Kevin Mbabu,Right-Back,27,Switzerland,9.0,Fulham,Premier League,Permanent,5.5
+Anders Dreyer,Right Winger,24,Denmark,9.0,RSC Anderlecht,Jupiler Pro League,Permanent,4.2
+Bernd Leno,Goalkeeper,30,Germany,9.0,Fulham,Premier League,Permanent,3.6
+Kristijan Jakic,Defensive Midfield,25,Croatia,9.0,E. Frankfurt,Bundesliga,Permanent,3.5
+Anwar El Ghazi,Right Winger,27,Netherlands,9.0,PSV Eindhoven,Eredivisie,Permanent,2.5
+Predrag Rajkovic,Goalkeeper,26,Serbia,9.0,RCD Mallorca,LaLiga,Permanent,2.0
+Nikola Moro,Defensive Midfield,24,Croatia,9.0,Bologna,Serie A,Loan,
+Ricardo Pepi,Centre-Forward,19,United States,9.0,FC Groningen,Eredivisie,Loan,
+Thorgan Hazard,Left Winger,29,Belgium,9.0,PSV Eindhoven,Eredivisie,Loan,
+Luca Pellegrini,Left-Back,23,Italy,9.0,E. Frankfurt,Bundesliga,Loan,
+Luca Pellegrini,Left-Back,23,Italy,9.0,Lazio,Serie A,Loan,
+Jean-Philippe Gbamin,Defensive Midfield,26,Cote d'Ivoire,9.0,Trabzonspor,Süper Lig,Loan,
+Freddie Woodman,Goalkeeper,25,England,9.0,Preston,Championship,Unknown,
+Angelo Fulgini,Attacking Midfield,26,France,9.0,Lens,Ligue 1,Loan,
+Óscar Rodríguez,Attacking Midfield,24,Spain,9.0,Celta de Vigo,LaLiga,Loan,
+Unai Núñez,Centre-Back,25,Spain,9.0,Celta de Vigo,LaLiga,Loan,
+Ilaix Moriba,Central Midfield,19,Guinea,9.0,Valencia,LaLiga,Loan,
+Rafinha,Attacking Midfield,29,Brazil,9.0,Al-Arabi SC,Stars League,Free,
+Luis Suárez,Centre-Forward,25,Colombia,9.0,UD Almería,LaLiga,Loan,
+Portu,Right Winger,30,Spain,9.0,Getafe,LaLiga,Loan,
+Paco Alcácer,Centre-Forward,28,Spain,9.0,Sharjah FC,UAE Pro League,Free,
+Julien Duranville,Right Winger,16,Belgium,5.0,Bor. Dortmund,Bundesliga,Permanent,8.5
+Ritsu Doan,Right Winger,24,Japan,8.0,SC Freiburg,Bundesliga,Permanent,8.5
+Omar Richards,Left-Back,24,England,7.0,Nottm Forest,Premier League,Permanent,8.5
+Giulio Maggiore,Central Midfield,24,Italy,8.5,Salernitana,Serie A,Permanent,4.5
+Jens Petter Hauge,Right Winger,22,Norway,8.0,E. Frankfurt,Bundesliga,Permanent,8.2
+Nathan Ngoumou,Right Winger,22,France,2.5,Bor. M'gladbach,Bundesliga,Permanent,8.0
+Alexander Bah,Right-Back,24,Denmark,7.0,Benfica,Liga Portugal,Permanent,8.0
+César Montes,Centre-Back,25,Mexico,7.0,Espanyol,LaLiga,Permanent,8.0
+Ismaël Koné,Central Midfield,20,Canada,6.0,Watford,Championship,Permanent,8.0
+André Almeida,Central Midfield,22,Portugal,5.0,Valencia,LaLiga,Permanent,8.0
+Simon Adingra,Left Winger,20,Cote d'Ivoire,1.5,Brighton,Premier League,Permanent,8.0
+El Bilal Touré,Centre-Forward,20,Mali,6.5,UD Almería,LaLiga,Permanent,8.0
+Marcos Antônio,Central Midfield,22,Brazil,8.0,Lazio,Serie A,Permanent,7.5
+Abner,Left-Back,22,Brazil,8.0,Real Betis,LaLiga,Permanent,7.0
+Bamba Dieng,Centre-Forward,22,Senegal,8.0,FC Lorient,Ligue 1,Permanent,7.0
+Kaiky,Centre-Back,18,Brazil,8.0,UD Almería,LaLiga,Permanent,7.0
+Lucas Alario,Centre-Forward,29,Argentina,8.0,E. Frankfurt,Bundesliga,Permanent,6.0
+Patrick Wimmer,Right Winger,21,Austria,8.0,VfL Wolfsburg,Bundesliga,Permanent,5.0
+Flavius Daniliuc,Centre-Back,21,Austria,8.0,Salernitana,Serie A,Permanent,5.0
+Francisco Conceição,Right Winger,19,Portugal,8.0,Ajax,Eredivisie,Permanent,5.0
+Anders Dreyer,Right Winger,24,Denmark,8.0,FC Midtjylland,Superligaen,Permanent,5.0
+Carlos Vinícius,Centre-Forward,27,Brazil,8.0,Fulham,Premier League,Permanent,5.0
+Martín Ojeda,Left Winger,24,Argentina,8.0,Orlando,MLS,Permanent,5.0
+Denis Bouanga,Left Winger,27,Gabon,8.0,LAFC,MLS,Permanent,4.55
+Wanderson,Left Winger,28,Brazil,8.0,Internacional,Série A,Permanent,4.5
+Enis Bardhi,Attacking Midfield,27,North Macedonia,8.0,Trabzonspor,Süper Lig,Permanent,3.0
+Kastriot Imeri,Central Midfield,22,Switzerland,8.0,BSC Young Boys,Super League,Permanent,3.0
+Moi Gómez,Left Winger,28,Spain,8.0,CA Osasuna,LaLiga,Permanent,1.8
+Todd Cantwell,Left Midfield,24,England,8.0,Rangers,Premiership,Permanent,1.71
+Haris Seferovic,Centre-Forward,30,Switzerland,8.0,Galatasaray,Süper Lig,Loan,
+Malang Sarr,Centre-Back,23,France,8.0,Monaco,Ligue 1,Loan,
+Domingos Duarte,Centre-Back,27,Portugal,8.0,Getafe,LaLiga,Permanent,7.5
+Alejandro Pozuelo,Attacking Midfield,30,Spain,8.0,Miami,MLS,Permanent,1.36
+Jordan Larsson,Right Winger,25,Sweden,8.0,FC Schalke 04,Bundesliga,Free,
+Joshua King,Centre-Forward,30,Norway,8.0,Fenerbahce,Süper Lig,Free,
+Henrikh Mkhitaryan,Attacking Midfield,33,Armenia,8.0,Inter,Serie A,Free,
+Romain Saïss,Centre-Back,32,Morocco,8.0,Besiktas,Süper Lig,Free,
+Jens Petter Hauge,Right Winger,22,Norway,8.0,KAA Gent,Jupiler Pro League,Loan,
+Joe Gelhardt,Centre-Forward,20,England,8.0,Sunderland,Championship,Loan,
+Christos Tzolis,Left Winger,20,Greece,8.0,Twente FC,Eredivisie,Loan,
+Abde Ezzalzouli,Left Winger,20,Morocco,8.0,CA Osasuna,LaLiga,Loan,
+Kacper Kozlowski,Central Midfield,18,Poland,8.0,Vitesse,Eredivisie,Loan,
+Cameron Archer,Centre-Forward,21,England,8.0,Middlesbrough,Championship,Loan,
+Cédric Bakambu,Centre-Forward,31,DR Congo,8.0,Olympiacos,Super League 1,Free,
+João Victor,Centre-Back,24,Brazil,8.0,FC Nantes,Ligue 1,Loan,
+Zinho Vanheusden,Centre-Back,22,Belgium,8.0,AZ Alkmaar,Eredivisie,Loan,
+Isaac Hayden,Defensive Midfield,27,England,8.0,Norwich,Championship,Loan,
+Abdallah Sima,Right Winger,21,Senegal,8.0,Angers SCO,Ligue 1,Loan,
+Pol Lirola,Right-Back,24,Spain,8.0,Elche CF,LaLiga,Loan,
+Marco Carnesecchi,Goalkeeper,22,Italy,8.0,Cremonese,Serie A,Loan,
+Lewis O'Brien,Central Midfield,24,England,8.0,D.C. United,MLS,Loan,
+Djibril Sidibé,Right-Back,30,France,8.0,AEK Athens,Super League 1,Free,
+Munir El Haddadi,Centre-Forward,26,Morocco,8.0,Getafe,LaLiga,Free,
+Nedim Bajrami,Attacking Midfield,23,Albania,8.0,Sassuolo,Serie A,Loan,
+Reinier,Attacking Midfield,20,Brazil,8.0,Girona,LaLiga,Loan,
+Jean-Victor Makengo,Central Midfield,24,France,7.5,FC Lorient,Ligue 1,Permanent,11.0
+Bartol Franjic,Defensive Midfield,22,Croatia,4.5,VfL Wolfsburg,Bundesliga,Permanent,7.5
+Ousmane Diomande,Centre-Back,19,Cote d'Ivoire,4.0,Sporting CP,Liga Portugal,Permanent,7.5
+Jota,Left Winger,23,Portugal,7.5,Celtic,Premiership,Permanent,7.5
+Nicolò Casale,Centre-Back,24,Italy,7.5,Lazio,Serie A,Permanent,6.56
+Takefusa Kubo,Right Winger,21,Japan,7.5,Real Sociedad,LaLiga,Permanent,6.5
+Julian Ryerson,Right-Back,25,Norway,7.5,Bor. Dortmund,Bundesliga,Permanent,5.0
+Guus Til,Attacking Midfield,24,Netherlands,7.5,PSV Eindhoven,Eredivisie,Permanent,3.0
+Josip Brekalo,Left Winger,24,Croatia,7.5,Fiorentina,Serie A,Permanent,1.5
+Ezgjan Alioski,Left-Back,30,North Macedonia,7.5,Fenerbahce,Süper Lig,Loan,
+Isco,Attacking Midfield,30,Spain,7.5,Sevilla FC,LaLiga,Free,
+Grischa Prömel,Central Midfield,27,Germany,7.5,TSG Hoffenheim,Bundesliga,Free,
+Alexandru Cicaldau,Central Midfield,25,Romania,7.5,Ittihad Kalba,UAE Pro League,Loan,
+Quinten Timber,Central Midfield,21,Netherlands,4.0,Feyenoord,Eredivisie,Permanent,7.4
+Armand Laurienté,Left Winger,23,France,7.0,Sassuolo,Serie A,Permanent,10.1
+Perr Schuurs,Centre-Back,22,Netherlands,7.0,Torino,Serie A,Permanent,9.4
+Vedat Muriqi,Centre-Forward,28,Kosovo,7.0,RCD Mallorca,LaLiga,Permanent,8.02
+Casper Tengstedt,Centre-Forward,22,Denmark,3.5,Benfica,Liga Portugal,Permanent,7.0
+Cameron Carter-Vickers,Centre-Back,24,United States,7.0,Celtic,Premiership,Permanent,7.0
+Matteo Lovato,Centre-Back,22,Italy,7.0,Salernitana,Serie A,Permanent,7.0
+Oscar Gloukh,Attacking Midfield,18,Israel,4.5,RB Salzburg,Bundesliga,Permanent,7.0
+Strahinja Pavlovic,Centre-Back,21,Serbia,5.0,RB Salzburg,Bundesliga,Permanent,7.0
+Ayrton Lucas,Left-Back,25,Brazil,6.0,Flamengo,Série A,Permanent,7.0
+Lázaro,Left Winger,20,Brazil,7.0,UD Almería,LaLiga,Permanent,7.0
+Aaron Boupendza,Centre-Forward,26,Gabon,7.0,Al-Shabab,Saudi Pro League,Permanent,7.0
+Samuel Lino,Left Winger,22,Brazil,7.0,Atlético Madrid,LaLiga,Permanent,6.5
+Jonjo Shelvey,Central Midfield,30,England,7.0,Nottm Forest,Premier League,Permanent,6.5
+Jordan,Centre-Forward,26,United States,7.0,Union Berlin,Bundesliga,Permanent,6.0
+Matheus Martins,Left Winger,19,Brazil,7.0,Udinese Calcio,Serie A,Permanent,6.0
+Giuliano Galoppo,Attacking Midfield,23,Argentina,7.0,São Paulo,Série A,Permanent,6.0
+Jorge Carrascal,Attacking Midfield,24,Colombia,7.0,CSKA Moscow,Premier Liga,Permanent,6.0
+Cristian Arango,Centre-Forward,27,Colombia,7.0,Pachuca,Liga MX Clausura,Permanent,5.5
+Luan Peres,Centre-Back,28,Brazil,7.0,Fenerbahce,Süper Lig,Permanent,5.23
+Ui-jo Hwang,Centre-Forward,29,"Korea, South",7.0,Nottm Forest,Premier League,Permanent,4.0
+Fabien Centonze,Right-Back,26,France,7.0,FC Nantes,Ligue 1,Permanent,4.0
+Toby Alderweireld,Centre-Back,33,Belgium,7.0,Royal Antwerp,Jupiler Pro League,Permanent,4.0
+Marquinhos,Right Winger,19,Brazil,7.0,Arsenal,Premier League,Permanent,3.5
+Willian Arão,Defensive Midfield,30,Brazil,7.0,Fenerbahce,Süper Lig,Permanent,3.0
+Raoul Bellanova,Right-Back,22,Italy,7.0,Inter,Serie A,Loan,
+Morten Thorsby,Central Midfield,26,Norway,7.0,Union Berlin,Bundesliga,Permanent,3.0
+Wesley,Left Winger,23,Brazil,7.0,Cruzeiro,Série A,Permanent,3.0
+Adam Ounas,Right Winger,25,Algeria,7.0,LOSC Lille,Ligue 1,Permanent,3.0
+Théo Bongonda,Right Winger,26,DR Congo,7.0,Cádiz CF,LaLiga,Permanent,3.0
+Nicolas Raskin,Central Midfield,21,Belgium,7.0,Rangers,Premiership,Permanent,1.5
+Eldor Shomurodov,Centre-Forward,27,Uzbekistan,7.0,Spezia Calcio,Serie A,Loan,
+Agustín Rossi,Goalkeeper,27,Argentina,7.0,Al-Nassr FC,Saudi Pro League,Loan,
+Oliver Abildgaard,Defensive Midfield,26,Denmark,7.0,Celtic,Premiership,Loan,
+Raoul Bellanova,Right-Back,22,Italy,7.0,Cagliari Calcio,Serie B,Permanent,7.0
+Diogo Leite,Centre-Back,23,Portugal,7.0,Union Berlin,Bundesliga,Loan,
+Maycon,Central Midfield,25,Brazil,7.0,Corinthians,Série A,Loan,
+Kenedy,Left Winger,26,Brazil,7.0,Real Valladolid,LaLiga,Permanent,5.0
+Andreaw Gravillon,Centre-Back,24,Guadeloupe,7.0,Torino,Serie A,Loan,
+Alex Kral,Defensive Midfield,24,Czech Republic,7.0,FC Schalke 04,Bundesliga,Loan,
+Anthony Caci,Left-Back,25,France,7.0,1.FSV Mainz 05,Bundesliga,Free,
+Milot Rashica,Right Winger,26,Kosovo,7.0,Galatasaray,Süper Lig,Loan,
+Yeferson Soteldo,Left Winger,25,Venezuela,7.0,Santos,Série A,Loan,
+John Anthony Brooks,Centre-Back,29,United States,7.0,Benfica,Liga Portugal,Free,
+Paulinho,Left Winger,22,Brazil,7.0,Atlético-MG,Série A,Loan,
+Igor Gomes,Central Midfield,23,Brazil,7.0,Atlético-MG,Série A,Free,
+Liam Delap,Centre-Forward,19,England,7.0,Preston,Championship,Loan,
+Colin Dagba,Right-Back,23,France,7.0,R. Strasbourg,Ligue 1,Loan,
+Ui-jo Hwang,Centre-Forward,29,"Korea, South",7.0,Olympiacos,Super League 1,Loan,
+Martín Satriano,Centre-Forward,21,Uruguay,7.0,FC Empoli,Serie A,Loan,
+John Swift,Central Midfield,27,England,7.0,West Brom,Championship,Free,
+Jack Stephens,Centre-Back,28,England,7.0,Bournemouth,Premier League,Loan,
+Samuel Lino,Left Winger,22,Brazil,7.0,Valencia,LaLiga,Loan,
+Riqui Puig,Central Midfield,22,Spain,7.0,Los Angeles,MLS,Free,
+Uros Racic,Defensive Midfield,24,Serbia,7.0,SC Braga,Liga Portugal,Loan,
+Lucien Agoumé,Defensive Midfield,20,France,7.0,Troyes,Ligue 1,Loan,
+Taylor Harwood-Bellis,Centre-Back,20,England,7.0,Burnley,Championship,Loan,
+Thomas Strakosha,Goalkeeper,27,Albania,7.0,Brentford,Premier League,Free,
+Stefano Sensi,Central Midfield,26,Italy,7.0,Monza,Serie A,Loan,
+Adnan Januzaj,Right Winger,27,Belgium,7.0,Basaksehir,Süper Lig,Loan,
+Ghislain Konan,Left-Back,26,Cote d'Ivoire,7.0,Al-Nassr FC,Saudi Pro League,Free,
+Miguel Borja,Centre-Forward,29,Colombia,3.7,River Plate,Liga Profesional,Permanent,6.7
+Sávio,Right Winger,18,Brazil,6.0,Troyes,Ligue 1,Permanent,6.5
+Yira Sor,Right Winger,22,Nigeria,4.0,KRC Genk,Jupiler Pro League,Permanent,6.5
+Cyriel Dessers,Centre-Forward,27,Nigeria,6.0,Cremonese,Serie A,Permanent,6.5
+Samir Caetano,Centre-Back,27,Brazil,5.0,Tigres UANL,Liga MX Clausura,Permanent,6.5
+Stipe Biuk,Left Winger,20,Croatia,5.0,LAFC,MLS,Permanent,6.5
+Alberth Elis,Right Winger,26,Honduras,6.5,G. Bordeaux,Ligue 2,Permanent,6.0
+Gedson Fernandes,Central Midfield,23,Portugal,6.5,Besiktas,Süper Lig,Permanent,6.0
+Ridvan Yilmaz,Left-Back,21,Turkey,6.5,Rangers,Premiership,Permanent,4.0
+Mostafa Mohamed,Centre-Forward,24,Egypt,6.5,Galatasaray,Süper Lig,Permanent,3.85
+Nicolás Castro,Attacking Midfield,21,Argentina,6.5,KRC Genk,Jupiler Pro League,Permanent,3.2
+Dion Beljo,Centre-Forward,20,Croatia,6.5,FC Augsburg,Bundesliga,Permanent,3.0
+Andreaw Gravillon,Centre-Back,24,Guadeloupe,6.5,Stade Reims,Ligue 1,Permanent,3.0
+Víctor Guzmán,Attacking Midfield,27,Mexico,6.5,Chivas,Liga MX Clausura,Permanent,3.0
+Erick Pulgar,Defensive Midfield,28,Chile,6.5,Flamengo,Série A,Permanent,2.8
+Selim Amallah,Attacking Midfield,26,Morocco,6.5,Real Valladolid,LaLiga,Permanent,1.0
+Mostafa Mohamed,Centre-Forward,24,Egypt,6.5,FC Nantes,Ligue 1,Loan,
+Niklas Stark,Centre-Back,27,Germany,6.5,Werder Bremen,Bundesliga,Free,
+Santiago Ascacíbar,Defensive Midfield,25,Argentina,6.5,Estudiantes,Copa de la Liga,Loan,
+Jed Wallace,Right Winger,28,England,6.5,West Brom,Championship,Free,
+Rémy Cabella,Attacking Midfield,32,France,6.5,LOSC Lille,Ligue 1,Free,
+Santiago Ascacíbar,Defensive Midfield,25,Argentina,6.5,Cremonese,Serie A,Loan,
+Matt Turner,Goalkeeper,28,United States,5.0,Arsenal,Premier League,Permanent,6.36
+Jörgen Strand Larsen,Centre-Forward,22,Norway,6.0,Celta de Vigo,LaLiga,Permanent,12.4
+Malick Thiaw,Centre-Back,21,Germany,6.0,AC Milan,Serie A,Permanent,8.6
+Jayden Oosterwolde,Left-Back,21,Netherlands,2.0,Fenerbahce,Süper Lig,Permanent,6.0
+Yusuf Demir,Right Winger,19,Austria,5.0,Galatasaray,Süper Lig,Permanent,6.0
+Fausto Vera,Defensive Midfield,22,Argentina,6.0,Corinthians,Série A,Permanent,6.0
+David Hancko,Centre-Back,24,Slovakia,4.5,Feyenoord,Eredivisie,Permanent,6.0
+Mario Gila,Centre-Back,21,Spain,5.0,Lazio,Serie A,Permanent,6.0
+Fernando,Centre-Forward,23,Brazil,5.0,RB Salzburg,Bundesliga,Permanent,6.0
+Pep Biel,Attacking Midfield,25,Spain,6.0,Olympiacos,Super League 1,Permanent,6.0
+Kiki Kouyaté,Centre-Back,25,Mali,3.5,Montpellier,Ligue 1,Permanent,6.0
+Matías Galarza,Central Midfield,20,Argentina,8.0,KRC Genk,Jupiler Pro League,Permanent,6.0
+Felix Afena-Gyan,Centre-Forward,19,Ghana,6.0,Cremonese,Serie A,Permanent,6.0
+Bjorn Meijer,Left-Back,19,Netherlands,3.0,Club Brugge,Jupiler Pro League,Permanent,6.0
+Enzo Copetti,Centre-Forward,27,Argentina,6.0,Charlotte,MLS,Permanent,6.0
+Junior Messias,Right Winger,31,Brazil,6.0,AC Milan,Serie A,Permanent,5.5
+Christian Benteke,Centre-Forward,31,Belgium,6.0,D.C. United,MLS,Permanent,5.46
+Jonathan Rodríguez,Centre-Forward,28,Uruguay,6.0,América,Liga MX Clausura,Permanent,5.45
+Valentin Rosier,Right-Back,25,France,6.0,Besiktas,Süper Lig,Permanent,4.8
+Anel Ahmedhodzic,Centre-Back,23,Bosnia-Herzegovina,6.0,Sheff Utd,Championship,Permanent,4.5
+Franco Cristaldo,Attacking Midfield,26,Argentina,6.0,Grêmio,Série A,Permanent,4.0
+Javairô Dilrosun,Right Winger,24,Netherlands,6.0,Feyenoord,Eredivisie,Permanent,4.0
+Julián Araujo,Right-Back,21,Mexico,6.0,Barça Atlètic,Primera Federación - Gr. II,Permanent,4.0
+Miguel Gutiérrez,Left-Back,21,Spain,6.0,Girona,LaLiga,Permanent,4.0
+Matías Vargas,Left Winger,25,Argentina,6.0,SH Port,Super League,Permanent,4.0
+Fredrik Midtsjö,Central Midfield,28,Norway,6.0,Galatasaray,Süper Lig,Permanent,3.5
+Alistair Johnston,Right-Back,24,Canada,6.0,Celtic,Premiership,Permanent,3.5
+Gamid Agalarov,Centre-Forward,21,Russia,6.0,Akhmat Grozny,Premier Liga,Permanent,3.5
+Darwin Machís,Left Winger,29,Venezuela,6.0,FC Juárez,Liga MX Clausura,Permanent,3.5
+Amir Hadziahmetovic,Defensive Midfield,25,Bosnia-Herzegovina,6.0,Besiktas,Süper Lig,Permanent,3.2
+Gonzalo Plata,Right Winger,21,Ecuador,6.0,Real Valladolid,LaLiga,Permanent,3.0
+Lucas Piton,Left-Back,22,Italy,6.0,Vasco da Gama,Série A,Permanent,3.0
+Djordje Mihailovic,Attacking Midfield,24,United States,6.0,AZ Alkmaar,Eredivisie,Permanent,3.0
+Willy Boly,Centre-Back,31,Cote d'Ivoire,6.0,Nottm Forest,Premier League,Permanent,2.6
+Eric Bailly,Centre-Back,28,Cote d'Ivoire,6.0,Marseille,Ligue 1,Loan,
+Bartlomiej Dragowski,Goalkeeper,24,Poland,6.0,Spezia Calcio,Serie A,Permanent,1.95
+Pedro Raul,Centre-Forward,26,Brazil,6.0,Vasco da Gama,Série A,Permanent,1.9
+Amadou Diawara,Defensive Midfield,25,Guinea,6.0,RSC Anderlecht,Jupiler Pro League,Permanent,1.89
+Daniel Wass,Right-Back,33,Denmark,6.0,Bröndby IF,Superligaen,Permanent,1.75
+Marc Bartra,Centre-Back,31,Spain,6.0,Trabzonspor,Süper Lig,Permanent,1.25
+Lorenzo Lucca,Centre-Forward,21,Italy,6.0,Ajax,Eredivisie,Loan,
+Carles Pérez,Right Winger,24,Spain,6.0,Celta de Vigo,LaLiga,Loan,
+Matías Viña,Left-Back,25,Uruguay,6.0,Bournemouth,Premier League,Loan,
+Florent Mollet,Attacking Midfield,30,France,6.0,FC Schalke 04,Bundesliga,Permanent,5.0
+Tino Kadewere,Centre-Forward,26,Zimbabwe,6.0,RCD Mallorca,LaLiga,Loan,
+Mergim Berisha,Centre-Forward,24,Germany,6.0,FC Augsburg,Bundesliga,Loan,
+John Anthony Brooks,Centre-Back,29,United States,6.0,TSG Hoffenheim,Bundesliga,Permanent,3.0
+Philipp Max,Left-Back,29,Germany,6.0,E. Frankfurt,Bundesliga,Loan,
+Daley Blind,Left-Back,32,Netherlands,6.0,Bayern Munich,Bundesliga,Free,
+Bruma,Left Winger,27,Portugal,6.0,Fenerbahce,Süper Lig,Loan,
+Filip Uremovic,Centre-Back,25,Croatia,6.0,Hertha BSC,Bundesliga,Free,
+Lys Mousset,Centre-Forward,26,France,6.0,VfL Bochum,Bundesliga,Free,
+Ayoze Pérez,Left Winger,29,Spain,6.0,Real Betis,LaLiga,Loan,
+Ermedin Demirovic,Centre-Forward,24,Bosnia-Herzegovina,6.0,FC Augsburg,Bundesliga,Free,
+Mohamed Daramy,Left Winger,20,Denmark,6.0,FC Copenhagen,Superligaen,Loan,
+Fabián Balbuena,Centre-Back,30,Paraguay,6.0,Corinthians,Série A,Loan,
+Stefan Ortega,Goalkeeper,29,Germany,6.0,Man City,Premier League,Free,
+Otávio,Defensive Midfield,28,Brazil,6.0,Atlético-MG,Série A,Free,
+Hannibal,Attacking Midfield,19,Tunisia,6.0,Birmingham,Championship,Loan,
+Cyle Larin,Centre-Forward,27,Canada,6.0,Real Valladolid,LaLiga,Loan,
+Ki-Jana Hoever,Right-Back,20,Netherlands,6.0,PSV Eindhoven,Eredivisie,Loan,
+Sávio,Right Winger,18,Brazil,6.0,PSV Eindhoven,Eredivisie,Loan,
+Nehuén Pérez,Centre-Back,22,Argentina,6.0,Udinese Calcio,Serie A,Unknown,
+Valentino Lazaro,Right-Back,26,Austria,6.0,Torino,Serie A,Loan,
+Axel Tuanzebe,Centre-Back,25,England,6.0,Stoke City,Championship,Loan,
+Luis Henrique,Left Winger,20,Brazil,6.0,Botafogo,Série A,Loan,
+Callum Robinson,Centre-Forward,27,Ireland,6.0,Cardiff,Championship,Unknown,
+Aaron Connolly,Centre-Forward,22,Ireland,6.0,Venezia,Serie B,Loan,
+Zack Steffen,Goalkeeper,27,United States,6.0,Middlesbrough,Championship,Loan,
+Morgan Sanson,Central Midfield,28,France,6.0,R. Strasbourg,Ligue 1,Loan,
+Konrad de la Fuente,Left Winger,21,United States,6.0,Olympiacos,Super League 1,Loan,
+Martin Braithwaite,Centre-Forward,31,Denmark,6.0,Espanyol,LaLiga,Free,
+Alexis Claude-Maurice,Attacking Midfield,24,France,6.0,Lens,Ligue 1,Loan,
+Haris Seferovic,Centre-Forward,30,Switzerland,6.0,Celta de Vigo,LaLiga,Loan,
+Óscar Mingueza,Centre-Back,23,Spain,6.0,Celta de Vigo,LaLiga,Free,
+Marin Pongracic,Centre-Back,24,Croatia,6.0,Lecce,Serie A,Loan,
+Adil Aouchiche,Attacking Midfield,20,France,6.0,FC Lorient,Ligue 1,Free,
+Jordan Amavi,Left-Back,28,France,6.0,Getafe,LaLiga,Loan,
+Artem Dzyuba,Centre-Forward,33,Russia,6.0,Adana Demirspor,Süper Lig,Free,
+Mahdi Camara,Central Midfield,24,France,6.0,Stade Brestois,Ligue 1,Loan,
+Brian Rodríguez,Left Winger,22,Uruguay,4.0,América,Liga MX Clausura,Permanent,5.97
+Vakoun Bayo,Centre-Forward,25,Cote d'Ivoire,3.2,Watford,Championship,Permanent,5.8
+Darko Gyabi,Central Midfield,18,England,,Leeds U21,Premier League 2,Permanent,5.8
+Szymon Zurkowski,Central Midfield,25,Poland,5.8,Spezia Calcio,Serie A,Loan,
+Juan Ignacio Nardoni,Central Midfield,20,Argentina,2.5,Racing Club,Copa de la Liga,Permanent,5.7
+Jean Meneses,Left Winger,29,Chile,3.5,Toluca,Liga MX Clausura,Permanent,5.7
+Maximiliano Araújo,Left Winger,22,Uruguay,4.0,Toluca,Liga MX Clausura,Permanent,5.6
+Casper Nielsen,Central Midfield,28,Denmark,5.5,Club Brugge,Jupiler Pro League,Permanent,7.0
+Isaak Touré,Centre-Back,19,France,5.0,Marseille,Ligue 1,Permanent,5.5
+Williot Swedberg,Attacking Midfield,18,Sweden,5.0,Celta de Vigo,LaLiga,Permanent,5.5
+Johan Mojica,Left-Back,30,Colombia,5.0,Villarreal,LaLiga,Permanent,5.5
+Vincent Janssen,Centre-Forward,28,Netherlands,2.5,Royal Antwerp,Jupiler Pro League,Permanent,5.5
+Joel Mvuka,Right Winger,20,Norway,1.3,FC Lorient,Ligue 1,Permanent,5.5
+Arne Maier,Central Midfield,23,Germany,5.5,FC Augsburg,Bundesliga,Permanent,5.0
+Florin Tanase,Attacking Midfield,27,Romania,5.5,Al-Jazira,UAE Pro League,Permanent,3.0
+Martin Erlic,Centre-Back,24,Croatia,5.5,Sassuolo,Serie A,Permanent,3.0
+Alessandro Florenzi,Right-Back,31,Italy,5.5,AC Milan,Serie A,Permanent,2.7
+Jair,Defensive Midfield,28,Brazil,5.5,Vasco da Gama,Série A,Permanent,2.65
+Sead Hakšabanović,Left Winger,23,Montenegro,5.5,Celtic,Premiership,Permanent,2.5
+Cristian Pavón,Left Winger,26,Argentina,5.5,Atlético-MG,Série A,Free,
+Abdulrahman Ghareeb,Left Winger,25,Saudi Arabia,3.0,Al-Nassr FC,Saudi Pro League,Permanent,5.25
+Jordi Cortizo,Right Winger,26,Mexico,2.5,Monterrey,Liga MX Clausura,Permanent,5.23
+Anthony Modeste,Centre-Forward,34,France,3.0,Bor. Dortmund,Bundesliga,Permanent,5.1
+Kristian Thorstvedt,Attacking Midfield,23,Norway,5.0,Sassuolo,Serie A,Permanent,10.15
+Raphael Onyedika,Defensive Midfield,21,Nigeria,5.0,Club Brugge,Jupiler Pro League,Permanent,9.5
+Brandon Soppy,Right-Back,20,France,5.0,Atalanta BC,Serie A,Permanent,9.1
+Yann Sommer,Goalkeeper,34,Switzerland,5.0,Bayern Munich,Bundesliga,Permanent,9.0
+Andrea Cambiaso,Left-Back,22,Italy,5.0,Juventus,Serie A,Permanent,8.8
+Christopher Martins Pereira,Defensive Midfield,25,Luxembourg,5.0,Spartak Moscow,Premier Liga,Permanent,7.0
+Petar Musa,Centre-Forward,24,Croatia,5.0,Benfica,Liga Portugal,Permanent,5.5
+Oriol Romeu,Defensive Midfield,30,Spain,5.0,Girona,LaLiga,Permanent,5.5
+Ko Itakura,Centre-Back,25,Japan,5.0,Bor. M'gladbach,Bundesliga,Permanent,5.0
+Pablo Torre,Central Midfield,19,Spain,3.0,Barcelona,LaLiga,Permanent,5.0
+Igor Paixão,Left Winger,22,Brazil,8.0,Feyenoord,Eredivisie,Permanent,5.0
+Thomas Henry,Centre-Forward,27,France,5.0,Hellas Verona,Serie A,Permanent,5.0
+Domagoj Bradaric,Left-Back,22,Croatia,3.5,Salernitana,Serie A,Permanent,5.0
+Federico Bonazzoli,Centre-Forward,25,Italy,5.0,Salernitana,Serie A,Permanent,5.0
+Adam Masina,Left-Back,28,Morocco,3.0,Udinese Calcio,Serie A,Permanent,5.0
+Rares Ilie,Left Winger,19,Romania,1.3,OGC Nice,Ligue 1,Permanent,5.0
+Jorge Sánchez,Right-Back,24,Mexico,5.0,Ajax,Eredivisie,Permanent,5.0
+Dante Vanzeir,Centre-Forward,24,Belgium,5.0,New York RB,MLS,Permanent,5.0
+Aboubakar Kamara,Centre-Forward,27,Mauritania,3.5,Olympiacos,Super League 1,Permanent,5.0
+Salis Abdul Samed,Defensive Midfield,22,Ghana,3.0,Lens,Ligue 1,Permanent,5.0
+Brice Samba,Goalkeeper,28,France,2.5,Lens,Ligue 1,Permanent,5.0
+Emiliano Martínez,Defensive Midfield,23,Uruguay,3.5,FC Midtjylland,Superligaen,Permanent,5.0
+Bruno Tabata,Attacking Midfield,25,Brazil,4.0,Palmeiras,Série A,Permanent,5.0
+Jurgen Ekkelenkamp,Central Midfield,22,Netherlands,3.5,Royal Antwerp,Jupiler Pro League,Permanent,5.0
+Ameen Al-Dakhil,Centre-Back,20,Belgium,3.0,Burnley,Championship,Permanent,5.0
+Tolu Arokodare,Centre-Forward,22,Nigeria,2.2,KRC Genk,Jupiler Pro League,Permanent,5.0
+Ferran Jutglà,Centre-Forward,23,Spain,3.0,Club Brugge,Jupiler Pro League,Permanent,5.0
+Davide Bettella,Centre-Back,22,Italy,2.0,Monza,Serie A,Permanent,5.0
+Luis Milla,Central Midfield,27,Spain,5.0,Getafe,LaLiga,Permanent,5.0
+Leo Östigard,Centre-Back,22,Norway,5.0,SSC Napoli,Serie A,Permanent,5.0
+Calvin Ramsay,Right-Back,18,Scotland,5.0,Liverpool,Premier League,Permanent,4.9
+Hélder Costa,Right Winger,28,Angola,5.0,Al-Ittihad Club,Saudi Pro League,Loan,
+Ignatius Ganago,Centre-Forward,23,Cameroon,5.0,FC Nantes,Ligue 1,Permanent,4.4
+Johann Lepenant,Defensive Midfield,19,France,5.0,Olympique Lyon,Ligue 1,Permanent,4.25
+Petar Musa,Centre-Forward,24,Croatia,5.0,Boavista,Liga Portugal,Permanent,4.25
+Stephen Eustaquio,Central Midfield,25,Canada,5.0,FC Porto,Liga Portugal,Permanent,4.21
+Jean Onana,Defensive Midfield,22,Cameroon,5.0,Lens,Ligue 1,Permanent,4.0
+Ezequiel Ponce,Centre-Forward,25,Argentina,5.0,Elche CF,LaLiga,Permanent,4.0
+Andrea Carboni,Centre-Back,21,Italy,5.0,Monza,Serie A,Permanent,4.0
+Georgios Giakoumakis,Centre-Forward,28,Greece,5.0,Atlanta,MLS,Permanent,4.0
+Adrien Thomasson,Attacking Midfield,29,France,5.0,Lens,Ligue 1,Permanent,3.9
+Luca Orellano,Right Winger,22,Argentina,5.0,Vasco da Gama,Série A,Permanent,3.72
+Lincoln,Left-Back,23,Brazil,5.0,Fenerbahce,Süper Lig,Permanent,3.5
+Maxim Leitsch,Centre-Back,24,Germany,5.0,1.FSV Mainz 05,Bundesliga,Permanent,3.5
+Rúben Semedo,Centre-Back,28,Portugal,5.0,Al-Duhail SC,Stars League,Permanent,3.5
+Jackson Muleka,Centre-Forward,22,DR Congo,5.0,Besiktas,Süper Lig,Permanent,3.35
+Mario Vuskovic,Centre-Back,20,Croatia,5.0,Hamburger SV,2. Bundesliga,Permanent,3.0
+Jordan Torunarigha,Centre-Back,24,Nigeria,5.0,KAA Gent,Jupiler Pro League,Permanent,3.0
+Pablo Maffeo,Right-Back,24,Spain,5.0,RCD Mallorca,LaLiga,Permanent,3.0
+Simon Banza,Centre-Forward,25,France,5.0,SC Braga,Liga Portugal,Permanent,3.0
+Iké Ugbo,Centre-Forward,23,Canada,5.0,Troyes,Ligue 1,Permanent,3.0
+Josh Cullen,Central Midfield,26,Ireland,5.0,Burnley,Championship,Permanent,3.0
+Roger Martí,Centre-Forward,31,Spain,5.0,Elche CF,LaLiga,Permanent,3.0
+Abdülkerim Bardakci,Centre-Back,27,Turkey,5.0,Galatasaray,Süper Lig,Permanent,2.8
+Julián Quiñones,Centre-Forward,25,Colombia,5.0,Atlas,Liga MX Clausura,Permanent,2.6
+Tonny Vilhena,Central Midfield,27,Netherlands,5.0,Espanyol,LaLiga,Permanent,2.5
+Pierre Lees-Melou,Defensive Midfield,29,France,5.0,Stade Brestois,Ligue 1,Permanent,2.3
+Diogo Gonçalves,Right Winger,25,Portugal,5.0,FC Copenhagen,Superligaen,Permanent,2.0
+Umut Bozok,Centre-Forward,25,Turkey,5.0,Trabzonspor,Süper Lig,Permanent,2.0
+Jimmy Cabot,Right Midfield,28,France,5.0,Lens,Ligue 1,Permanent,2.0
+Ivica Ivusic,Goalkeeper,27,Croatia,5.0,Pafos FC,Protathlima Cyta,Permanent,2.0
+Andrea Cambiaso,Left-Back,22,Italy,5.0,Bologna,Serie A,Loan,
+Dominik Kohr,Central Midfield,28,Germany,5.0,1.FSV Mainz 05,Bundesliga,Permanent,1.5
+Lucas Perrin,Centre-Back,23,France,5.0,R. Strasbourg,Ligue 1,Permanent,1.5
+Guga,Right-Back,24,Brazil,5.0,Fluminense,Série A,Permanent,1.5
+Jan Kuchta,Centre-Forward,25,Czech Republic,5.0,Sparta Prague,Fortuna Liga,Loan,
+Zymer Bytyqi,Left Winger,26,Kosovo,5.0,Olympiacos,Super League 1,Permanent,1.0
+Henry Onyekuru,Left Winger,25,Nigeria,5.0,Adana Demirspor,Süper Lig,Loan,
+Mark-Anthony Kaye,Central Midfield,27,Canada,5.0,Toronto,MLS,Permanent,9.55
+Jack Hendry,Centre-Back,27,Scotland,5.0,Cremonese,Serie A,Loan,
+Nicolas Cozza,Left-Back,24,France,5.0,VfL Wolfsburg,Bundesliga,Permanent,5.0
+Mathew Ryan,Goalkeeper,30,Australia,5.0,FC Copenhagen,Superligaen,Permanent,5.0
+Ludwig Augustinsson,Left-Back,28,Sweden,5.0,Aston Villa,Premier League,Loan,
+Mathew Ryan,Goalkeeper,30,Australia,5.0,AZ Alkmaar,Eredivisie,Permanent,5.0
+Tonny Vilhena,Central Midfield,27,Netherlands,5.0,Salernitana,Serie A,Loan,
+Denis Suárez,Attacking Midfield,29,Spain,5.0,Espanyol,LaLiga,Loan,
+Georgios Kyriakopoulos,Left-Back,26,Greece,5.0,Bologna,Serie A,Loan,
+Nemanja Matic,Defensive Midfield,33,Serbia,5.0,AS Roma,Serie A,Free,
+Junior Dina Ebimbe,Right Midfield,21,France,5.0,E. Frankfurt,Bundesliga,Loan,
+Hugo Novoa,Right Winger,19,Spain,5.0,FC Basel,Super League,Loan,
+Rúben Vinagre,Left-Back,23,Portugal,5.0,Everton,Premier League,Loan,
+Sepp van den Berg,Centre-Back,20,Netherlands,5.0,FC Schalke 04,Bundesliga,Loan,
+Sebastiano Esposito,Centre-Forward,20,Italy,5.0,RSC Anderlecht,Jupiler Pro League,Loan,
+Amos Pieper,Centre-Back,24,Germany,5.0,Werder Bremen,Bundesliga,Free,
+Vincent Aboubakar,Centre-Forward,30,Cameroon,5.0,Besiktas,Süper Lig,Free,
+Arthur Masuaku,Left-Back,28,DR Congo,5.0,Besiktas,Süper Lig,Loan,
+Tom Lawrence,Left Winger,28,Wales,5.0,Rangers,Premiership,Free,
+Kamil Piatkowski,Centre-Back,22,Poland,5.0,KAA Gent,Jupiler Pro League,Loan,
+Sorba Thomas,Right Winger,24,Wales,5.0,Blackburn,Championship,Loan,
+Nathanaël Mbuku,Left Winger,20,France,5.0,FC Augsburg,Bundesliga,Free,
+Roko Simic,Centre-Forward,19,Croatia,5.0,FC Zürich,Super League,Loan,
+Simone Verdi,Attacking Midfield,30,Italy,5.0,Hellas Verona,Serie A,Loan,
+Isaak Touré,Centre-Back,19,France,5.0,AJ Auxerre,Ligue 1,Loan,
+Aaron Mooy,Central Midfield,31,Australia,5.0,Celtic,Premiership,Free,
+Mads Bech Sörensen,Centre-Back,23,Denmark,5.0,OGC Nice,Ligue 1,Loan,
+Gabriel Pires,Central Midfield,28,Brazil,5.0,Botafogo,Série A,Loan,
+Marcos Paulo,Left Winger,21,Portugal,5.0,São Paulo,Série A,Loan,
+Rodrigo Muniz,Centre-Forward,21,Brazil,5.0,Middlesbrough,Championship,Loan,
+Frédéric Guilbert,Right-Back,28,France,5.0,R. Strasbourg,Ligue 1,Free,
+Ronaël Pierre-Gabriel,Right-Back,24,France,5.0,R. Strasbourg,Ligue 1,Loan,
+Thiago Andrade,Left Winger,22,Brazil,5.0,Athletico-PR,Série A,Loan,
+Sime Vrsaljko,Right-Back,30,Croatia,5.0,Olympiacos,Super League 1,Free,
+Keylor Navas,Goalkeeper,36,Costa Rica,5.0,Nottm Forest,Premier League,Loan,
+Joselu,Centre-Forward,32,Spain,5.0,Espanyol,LaLiga,Free,
+Benjamin Lecomte,Goalkeeper,31,France,5.0,Espanyol,LaLiga,Loan,
+Sebastian Walukiewicz,Centre-Back,22,Poland,5.0,FC Empoli,Serie A,Loan,
+Marcelino Moreno,Attacking Midfield,27,Argentina,5.0,Coritiba FC,Série A,Loan,
+Shane Duffy,Centre-Back,30,Ireland,5.0,Fulham,Premier League,Loan,
+Zelimkhan Bakaev,Right Winger,26,Russia,5.0,Zenit S-Pb,Premier Liga,Free,
+Giuseppe Pezzella,Left-Back,24,Italy,5.0,Lecce,Serie A,Loan,
+Rémi Oudin,Right Winger,25,France,5.0,Lecce,Serie A,Loan,
+Henrique Araújo,Centre-Forward,21,Portugal,5.0,Watford,Championship,Loan,
+Marvelous Nakamba,Defensive Midfield,29,Zimbabwe,5.0,Luton,Championship,Loan,
+Jeff Hendrick,Central Midfield,30,Ireland,5.0,Reading,Championship,Loan,
+Gonzalo Villar,Central Midfield,24,Spain,5.0,Sampdoria,Serie A,Loan,
+Calegari,Right-Back,21,Brazil,5.0,Los Angeles,MLS,Loan,
+Riechedly Bazoer,Central Midfield,25,Netherlands,5.0,AZ Alkmaar,Eredivisie,Free,
+Ian Maatsen,Left-Back,20,Netherlands,5.0,Burnley,Championship,Loan,
+Levi Colwill,Centre-Back,19,England,5.0,Brighton,Premier League,Loan,
+Jon Karrikaburu,Centre-Forward,20,Spain,5.0,CD Leganés,LaLiga2,Loan,
+José Ángel Carmona,Right-Back,20,Spain,5.0,Elche CF,LaLiga,Loan,
+Soualiho Meïté,Central Midfield,28,France,5.0,Cremonese,Serie A,Loan,
+Antonio Blanco,Defensive Midfield,22,Spain,5.0,Cádiz CF,LaLiga,Loan,
+Pablo Marí,Centre-Back,28,Spain,5.0,Monza,Serie A,Loan,
+Aaron Connolly,Centre-Forward,22,Ireland,5.0,Hull City,Championship,Loan,
+Jean Michaël Seri,Central Midfield,30,Cote d'Ivoire,5.0,Hull City,Championship,Free,
+Steven Alzate,Central Midfield,23,Colombia,5.0,Standard Liège,Jupiler Pro League,Loan,
+Fernando Pacheco,Goalkeeper,30,Spain,5.0,UD Almería,LaLiga,Free,
+Pierluigi Gollini,Goalkeeper,27,Italy,5.0,SSC Napoli,Serie A,Loan,
+Yacine Brahimi,Left Winger,32,Algeria,5.0,Al-Gharafa SC,Stars League,Free,
+Vitinho,Left Winger,23,Brazil,5.0,RB Bragantino,Série A,Loan,
+Héctor Herrera,Central Midfield,32,Mexico,5.0,Houston,MLS,Free,
+Nicolás Acevedo,Defensive Midfield,23,Uruguay,5.0,EC Bahia,Série A,Loan,
+Ricardo Goulart,Attacking Midfield,31,Brazil,5.0,EC Bahia,Série B,Free,
+Yan Couto,Right-Back,20,Brazil,5.0,Girona,LaLiga,Loan,
+Marcos Paulo,Left Winger,21,Portugal,5.0,CD Mirandés,LaLiga2,Loan,
+Shon Weissman,Centre-Forward,26,Israel,5.0,Granada CF,LaLiga2,Loan,
+David Ospina,Goalkeeper,33,Colombia,5.0,Al-Nassr FC,Saudi Pro League,Free,
+Santiago Rodríguez,Attacking Midfield,23,Uruguay,5.0,New York City,MLS,Unknown,
+Carlos Salcedo,Centre-Back,28,Mexico,5.0,FC Juárez,Liga MX Clausura,Free,
+Anthony Nwakaeme,Left Winger,33,Nigeria,5.0,Al-Fayha,Saudi Pro League,Free,
+Josef Martínez,Centre-Forward,29,Venezuela,5.0,Miami,MLS,Free,
+Thiago Borbas,Centre-Forward,20,Uruguay,4.0,RB Bragantino,Série A,Permanent,4.8
+Dia Saba,Attacking Midfield,29,Israel,4.8,Sivasspor,Süper Lig,Free,
+Rodrigo Aguirre,Centre-Forward,27,Uruguay,2.0,Monterrey,Liga MX Clausura,Permanent,4.75
+Amar Fatah,Left Winger,18,Sweden,3.5,Troyes,Ligue 1,Permanent,4.7
+Renzo López,Centre-Forward,28,Uruguay,1.2,Al-Batin,Saudi Pro League,Permanent,4.7
+Berat Özdemir,Defensive Midfield,24,Turkey,4.7,Ettifaq FC,Saudi Pro League,Permanent,2.44
+Nicolas Moumi Ngamaleu,Left Winger,28,Cameroon,4.7,Dynamo Moscow,Premier Liga,Permanent,2.0
+Julián Aude,Left-Back,19,Argentina,1.0,Los Angeles,MLS,Permanent,4.65
+Rasmus Højlund,Centre-Forward,19,Denmark,4.5,Atalanta BC,Serie A,Permanent,17.2
+Daniel-Kofi Kyereh,Attacking Midfield,26,Ghana,3.0,SC Freiburg,Bundesliga,Permanent,4.5
+Denis Vavro,Centre-Back,26,Slovakia,3.0,FC Copenhagen,Superligaen,Permanent,4.5
+Edu Expósito,Central Midfield,26,Spain,4.0,Espanyol,LaLiga,Permanent,4.5
+Mateo Cassierra,Centre-Forward,25,Colombia,4.5,Zenit S-Pb,Premier Liga,Permanent,4.5
+Allahyar Sayyadmanesh,Left Winger,21,Iran,2.5,Hull City,Championship,Permanent,4.5
+Marcão,Centre-Forward,28,Brazil,4.5,Al-Ahli,Saudi Arabia,Permanent,4.5
+Gastón Ávila,Left-Back,20,Argentina,4.5,Royal Antwerp,Jupiler Pro League,Permanent,4.4
+Pietro Pellegri,Centre-Forward,21,Italy,4.5,Torino,Serie A,Permanent,4.2
+Paxten Aaronson,Attacking Midfield,19,United States,4.5,E. Frankfurt,Bundesliga,Permanent,4.0
+Jamie Leweling,Second Striker,21,Germany,4.5,Union Berlin,Bundesliga,Permanent,4.0
+Patrick Berg,Defensive Midfield,24,Norway,4.5,Bodø/Glimt,Eliteserien,Permanent,4.0
+Adonis Frías,Centre-Back,24,Argentina,4.5,León,Liga MX Clausura,Permanent,3.74
+Andraz Sporar,Centre-Forward,28,Slovenia,4.5,Panathinaikos,Super League 1,Permanent,3.5
+Ademir,Right Winger,28,Brazil,4.5,EC Bahia,Série A,Permanent,2.3
+Luca Kilian,Centre-Back,22,Germany,4.5,1.FC Köln,Bundesliga,Permanent,2.0
+Ezequiel Bullaude,Attacking Midfield,21,Argentina,4.5,Feyenoord,Eredivisie,Permanent,2.0
+Moussa Sissoko,Central Midfield,32,France,4.5,FC Nantes,Ligue 1,Permanent,2.0
+Vitor Hugo,Centre-Back,31,Brazil,4.5,EC Bahia,Série A,Permanent,1.8
+Federico Gattoni,Centre-Back,23,Argentina,4.5,Sevilla FC,LaLiga,Permanent,1.4
+Lorenzo Montipò,Goalkeeper,26,Italy,4.5,Hellas Verona,Serie A,Permanent,1.1
+David Martínez,Centre-Back,24,Paraguay,4.5,River Plate,Copa de la Liga,Permanent,1.0
+Tiquinho Soares,Centre-Forward,31,Brazil,4.5,Botafogo,Série A,Permanent,1.0
+Christopher Jullien,Centre-Back,29,France,4.5,Montpellier,Ligue 1,Permanent,1.0
+Youssef Maleh,Central Midfield,24,Morocco,4.5,Lecce,Serie A,Loan,
+Agustín Rogel,Centre-Back,24,Uruguay,4.5,Hertha BSC,Bundesliga,Permanent,4.0
+Hiroki Ito,Centre-Back,23,Japan,4.5,VfB Stuttgart,Bundesliga,Permanent,4.0
+Kaan Ayhan,Centre-Back,28,Turkey,4.5,Galatasaray,Süper Lig,Loan,
+Linus Gechter,Centre-Back,18,Germany,4.5,E. Braunschweig,2. Bundesliga,Loan,
+Michael Frey,Centre-Forward,28,Switzerland,4.5,FC Schalke 04,Bundesliga,Loan,
+Michael Gregoritsch,Centre-Forward,28,Austria,4.5,SC Freiburg,Bundesliga,Free,
+Oliver Burke,Centre-Forward,25,Scotland,4.5,Werder Bremen,Bundesliga,Free,
+Benjamin Verbic,Left Winger,28,Slovenia,4.5,Panathinaikos,Super League 1,Free,
+Bernard,Left Winger,29,Brazil,4.5,Panathinaikos,Super League 1,Free,
+Wylan Cyprien,Central Midfield,27,France,4.5,FC Sion,Super League,Loan,
+Junior Sambia,Right-Back,25,France,4.5,Salernitana,Serie A,Free,
+Ronaël Pierre-Gabriel,Right-Back,24,France,4.5,Espanyol,LaLiga,Loan,
+Vini Souza,Defensive Midfield,23,Brazil,4.5,Espanyol,LaLiga,Loan,
+Emanuel Vignato,Right Winger,22,Italy,4.5,FC Empoli,Serie A,Loan,
+Koray Günter,Centre-Back,28,Germany,4.5,Sampdoria,Serie A,Loan,
+Emirhan Ilkhan,Central Midfield,18,Turkey,4.5,Sampdoria,Serie A,Loan,
+Dia Saba,Attacking Midfield,30,Israel,4.5,Maccabi Haifa,Ligat ha'Al,Free,
+Jordan Beyer,Centre-Back,22,Germany,4.5,Burnley,Championship,Loan,
+Gaël Kakuta,Attacking Midfield,31,DR Congo,4.5,Amiens SC,Ligue 2,Free,
+Federico Gattoni,Centre-Back,23,Argentina,4.5,San Lorenzo,Copa de la Liga,Loan,
+David Okereke,Centre-Forward,24,Nigeria,4.5,Cremonese,Serie A,Unknown,
+Germán Berterame,Centre-Forward,23,Argentina,4.5,Monterrey,Liga MX Clausura,Free,
+Dimitrios Pelkas,Attacking Midfield,28,Greece,4.5,Hull City,Championship,Loan,
+Israel Reyes,Centre-Back,22,Mexico,4.5,América,Liga MX Clausura,Unknown,
+Gonzalo Villar,Central Midfield,24,Spain,4.5,Getafe,LaLiga,Loan,
+Yorbe Vertessen,Centre-Forward,22,Belgium,4.5,Union SG,Jupiler Pro League,Loan,
+Ilan Kebbal,Attacking Midfield,24,Algeria,4.5,Paris FC,Ligue 2,Loan,
+Konstantinos Manolas,Centre-Back,31,Greece,4.5,Sharjah FC,UAE Pro League,Unknown,
+Gabriel Pirani,Central Midfield,20,Brazil,4.5,Cuiabá-MT,Série A,Loan,
+Omar Khribin,Centre-Forward,28,Syria,4.5,Shabab Al-Ahli,UAE Pro League,Loan,
+Alexandro Bernabéi,Left-Back,21,Argentina,3.3,Celtic,Premiership,Permanent,4.35
+Gustavo del Prete,Centre-Forward,26,Argentina,3.8,UNAM Pumas,Liga MX Clausura,Permanent,4.3
+Can Bozdogan,Central Midfield,21,Germany,4.3,FC Utrecht,Eredivisie,Loan,
+Bruma,Left Winger,28,Portugal,3.6,Fenerbahce,Süper Lig,Permanent,4.25
+Nicolás Marichal,Centre-Back,21,Uruguay,1.0,Dynamo Moscow,Premier Liga,Permanent,4.2
+Pablo Solari,Right Winger,21,Argentina,1.8,River Plate,Liga Profesional,Permanent,4.2
+Stefano Denswil,Centre-Back,29,Suriname,4.2,Trabzonspor,Süper Lig,Free,
+Djaniny,Centre-Forward,31,Cape Verde,4.2,Sharjah FC,UAE Pro League,Loan,
+Veljko Birmancevic,Left Winger,24,Serbia,3.5,Toulouse,Ligue 1,Permanent,4.1
+Ayoub El Kaabi,Centre-Forward,29,Morocco,4.1,Al-Sadd SC,Stars League,Free,
+Bosko Sutalo,Centre-Back,22,Croatia,3.0,Dinamo Zagreb,SuperSport HNL,Permanent,4.05
+Janis Antiste,Centre-Forward,20,France,4.0,Sassuolo,Serie A,Permanent,5.68
+Jens Stage,Central Midfield,25,Denmark,3.5,Werder Bremen,Bundesliga,Permanent,4.0
+Hugo Cuypers,Centre-Forward,25,Belgium,3.0,KAA Gent,Jupiler Pro League,Permanent,4.0
+Alexis Duarte,Centre-Back,22,Paraguay,4.0,Spartak Moscow,Premier Liga,Permanent,4.0
+Santiago Gimenez,Centre-Forward,21,Mexico,4.0,Feyenoord,Eredivisie,Permanent,4.0
+Filippo Melegoni,Central Midfield,23,Italy,2.0,Genoa,Serie B,Permanent,4.0
+Juan Cabal,Centre-Back,21,Colombia,8.0,Hellas Verona,Serie A,Permanent,4.0
+Jaka Bijol,Centre-Back,23,Slovenia,3.5,Udinese Calcio,Serie A,Permanent,4.0
+Enzo Ebosse,Centre-Back,23,Cameroon,2.0,Udinese Calcio,Serie A,Permanent,4.0
+Michel Aebischer,Central Midfield,25,Switzerland,3.5,Bologna,Serie A,Permanent,4.0
+Alan Virginius,Left Winger,19,France,2.0,LOSC Lille,Ligue 1,Permanent,4.0
+Benson Manuel Hedilazio,Right Winger,25,Belgium,3.0,Burnley,Championship,Permanent,4.0
+Anass Zaroury,Left Winger,21,Morocco,1.2,Burnley,Championship,Permanent,4.0
+Yasin Ayari,Central Midfield,19,Sweden,4.0,Brighton,Premier League,Permanent,4.0
+Nicolás Fernández Mercau,Left-Back,22,Argentina,2.5,Elche CF,LaLiga,Permanent,4.0
+Dogukan Sinik,Left Winger,23,Turkey,4.0,Hull City,Championship,Permanent,4.0
+Carlos Salcedo,Centre-Back,29,Mexico,4.0,CD Cruz Azul,Liga MX Clausura,Permanent,3.72
+Martin Hongla,Defensive Midfield,24,Cameroon,4.0,Hellas Verona,Serie A,Permanent,3.7
+Marcus Forss,Centre-Forward,23,Finland,4.0,Middlesbrough,Championship,Permanent,3.6
+Hidemasa Morita,Defensive Midfield,27,Japan,4.0,Sporting CP,Liga Portugal,Permanent,3.45
+Carlos González,Centre-Forward,29,Paraguay,4.0,Toluca,Liga MX Clausura,Permanent,3.3
+Emil Bohinen,Central Midfield,23,Norway,4.0,Salernitana,Serie A,Permanent,3.25
+Agustín Urzi,Left Winger,22,Argentina,4.0,FC Juárez,Liga MX Clausura,Permanent,3.2
+Rabbi Matondo,Right Winger,21,Wales,4.0,Rangers,Premiership,Permanent,3.0
+Luuk de Jong,Centre-Forward,31,Netherlands,4.0,PSV Eindhoven,Eredivisie,Permanent,3.0
+Alejandro Pozo,Right-Back,23,Spain,4.0,UD Almería,LaLiga,Permanent,3.0
+Néstor Araújo,Centre-Back,30,Mexico,4.0,América,Liga MX Clausura,Permanent,3.0
+Jonathan Calleri,Centre-Forward,28,Argentina,4.0,São Paulo,Série A,Permanent,2.9
+Carlos Gruezo,Defensive Midfield,27,Ecuador,4.0,San Jose,MLS,Permanent,2.7
+Aïssa Laïdouni,Central Midfield,26,Tunisia,4.0,Union Berlin,Bundesliga,Permanent,2.6
+Rasmus Lauritsen,Centre-Back,26,Denmark,4.0,Bröndby IF,Superligaen,Permanent,2.5
+Abdelhamid Sabiri,Attacking Midfield,26,Morocco,4.0,Fiorentina,Serie A,Permanent,2.5
+Enzo Díaz,Left-Back,27,Argentina,4.0,River Plate,Copa de la Liga,Permanent,2.3
+Martin Dúbravka,Goalkeeper,33,Slovakia,4.0,Man Utd,Premier League,Loan,
+Benjamin Lecomte,Goalkeeper,31,France,4.0,Montpellier,Ligue 1,Permanent,2.0
+Gonzalo Melero,Central Midfield,28,Spain,4.0,UD Almería,LaLiga,Permanent,1.9
+Nacho Fernández,Attacking Midfield,32,Argentina,4.0,River Plate,Copa de la Liga,Permanent,1.88
+Alan Mozo,Right-Back,25,Mexico,4.0,Chivas,Liga MX Clausura,Permanent,1.8
+Elvis Rexhbecaj,Central Midfield,24,Germany,4.0,FC Augsburg,Bundesliga,Permanent,1.7
+Michal Sadilek,Central Midfield,23,Czech Republic,4.0,Twente FC,Eredivisie,Permanent,1.5
+Tomás Chancalay,Left Winger,23,Argentina,4.0,Al-Wasl,UAE Pro League,Loan,
+Agustín Marchesín,Goalkeeper,34,Argentina,4.0,Celta de Vigo,LaLiga,Permanent,1.05
+Jayden Nelson,Left Winger,20,Canada,4.0,Rosenborg,Eliteserien,Permanent,1.0
+Dylan Bronn,Centre-Back,27,Tunisia,4.0,Salernitana,Serie A,Permanent,1.0
+Kasper Schmeichel,Goalkeeper,35,Denmark,4.0,OGC Nice,Ligue 1,Permanent,1.0
+Adrián Embarba,Right Winger,30,Spain,4.0,UD Almería,LaLiga,Permanent,1.0
+Zaydou Youssouf,Central Midfield,23,France,4.0,Famalicão,Liga Portugal,Permanent,1.0
+Braian Romero,Centre-Forward,31,Argentina,4.0,Internacional,Série A,Permanent,9.0
+Willer Ditta,Centre-Back,24,Colombia,4.0,Newell's,Copa de la Liga,Permanent,6.65
+Tom Krauß,Central Midfield,21,Germany,4.0,FC Schalke 04,Bundesliga,Loan,
+Gyrano Kerk,Right Winger,27,Netherlands,4.0,Royal Antwerp,Jupiler Pro League,Loan,
+Falaye Sacko,Right-Back,27,Mali,4.0,Montpellier,Ligue 1,Loan,
+Johan Vásquez,Centre-Back,23,Mexico,4.0,Cremonese,Serie A,Loan,
+Arijan Ademi,Defensive Midfield,31,North Macedonia,4.0,BJ Guoan,Super League,Permanent,5.0
+Emre Akbaba,Attacking Midfield,29,Turkey,4.0,Adana Demirspor,Süper Lig,Permanent,5.0
+Kevin Gutiérrez,Defensive Midfield,25,Argentina,4.0,Defensa,Copa de la Liga,Permanent,4.84
+Otabek Shukurov,Central Midfield,26,Uzbekistan,4.0,Karagümrük,Süper Lig,Permanent,4.2
+Álvaro Fernández,Goalkeeper,24,Spain,4.0,Espanyol,LaLiga,Loan,
+Moritz Jenz,Centre-Back,23,Germany,4.0,FC Schalke 04,Bundesliga,Loan,
+Bartosz Bialek,Centre-Forward,20,Poland,4.0,Vitesse,Eredivisie,Loan,
+Renato Kayzer,Centre-Forward,26,Brazil,4.0,Daejeon Hana C.,K League 2,Loan,
+Caio Paulista,Left-Back,24,Brazil,4.0,São Paulo,Série A,Loan,
+Axel Witsel,Defensive Midfield,33,Belgium,4.0,Atlético Madrid,LaLiga,Free,
+Andy Pelmard,Centre-Back,22,France,4.0,FC Basel,Super League,Unknown,
+Dan Ndoye,Right Winger,21,Switzerland,4.0,FC Basel,Super League,Unknown,
+Jonjoe Kenny,Right-Back,25,England,4.0,Hertha BSC,Bundesliga,Free,
+Ivan Sunjic,Defensive Midfield,25,Croatia,4.0,Hertha BSC,Bundesliga,Loan,
+Jean-Paul Boëtius,Attacking Midfield,28,Netherlands,4.0,Hertha BSC,Bundesliga,Free,
+Francesco Acerbi,Centre-Back,34,Italy,4.0,Inter,Serie A,Loan,
+Danilho Doekhi,Centre-Back,24,Netherlands,4.0,Union Berlin,Bundesliga,Free,
+Felix Mambimbi,Left Winger,21,Switzerland,4.0,SC Cambuur,Eredivisie,Loan,
+Dries Mertens,Second Striker,35,Belgium,4.0,Galatasaray,Süper Lig,Free,
+Pizzi,Attacking Midfield,32,Portugal,4.0,Al-Wahda FC,UAE Pro League,Free,
+Vakoun Bayo,Centre-Forward,26,Cote d'Ivoire,4.0,RSC Charleroi,Jupiler Pro League,Loan,
+Jordan Larsson,Right Winger,25,Sweden,4.0,FC Copenhagen,Superligaen,Loan,
+Jakub Jankto,Left Midfield,26,Czech Republic,4.0,Sparta Prague,Fortuna Liga,Loan,
+Mads Bech Sörensen,Centre-Back,24,Denmark,4.0,FC Groningen,Eredivisie,Loan,
+Luis Suárez,Centre-Forward,35,Uruguay,4.0,Grêmio,Série A,Free,
+Danilo,Centre-Forward,23,Brazil,4.0,Feyenoord,Eredivisie,Free,
+Oussama Idrissi,Left Winger,26,Morocco,4.0,Feyenoord,Eredivisie,Loan,
+Ludwig Augustinsson,Left-Back,28,Sweden,4.0,RCD Mallorca,LaLiga,Loan,
+Manu Morlanes,Central Midfield,24,Spain,4.0,RCD Mallorca,LaLiga,Loan,
+Issa Kaboré,Right-Back,21,Burkina Faso,4.0,Marseille,Ligue 1,Loan,
+Mattia Aramu,Attacking Midfield,27,Italy,4.0,Genoa,Serie B,Loan,
+Ondrej Duda,Attacking Midfield,28,Slovakia,4.0,Hellas Verona,Serie A,Loan,
+Roberto Piccoli,Centre-Forward,21,Italy,4.0,Hellas Verona,Serie A,Loan,
+M'Baye Niang,Centre-Forward,27,Senegal,4.0,AJ Auxerre,Ligue 1,Free,
+Krystian Bielik,Defensive Midfield,24,Poland,4.0,Birmingham,Championship,Loan,
+Shola Shoretire,Right Winger,18,England,4.0,Bolton,League One,Loan,
+Darwin Machís,Left Winger,29,Venezuela,4.0,Real Valladolid,LaLiga,Free,
+Sergio Asenjo,Goalkeeper,33,Spain,4.0,Real Valladolid,LaLiga,Free,
+Unai López,Central Midfield,26,Spain,4.0,Rayo Vallecano,LaLiga,Free,
+Erik Botheim,Centre-Forward,22,Norway,4.0,Salernitana,Serie A,Free,
+Xavi Simons,Attacking Midfield,19,Netherlands,4.0,PSV Eindhoven,Eredivisie,Free,
+Cole Bassett,Attacking Midfield,21,United States,4.0,Fortuna Sittard,Eredivisie,Loan,
+Nemanja Radonjic,Left Winger,26,Serbia,4.0,Torino,Serie A,Loan,
+Yann Karamoh,Left Winger,24,Cote d'Ivoire,4.0,Torino,Serie A,Unknown,
+Chidozie Awaziem,Centre-Back,25,Nigeria,4.0,Hajduk Split,SuperSport HNL,Loan,
+Ki-Jana Hoever,Right-Back,21,Netherlands,4.0,Stoke City,Championship,Loan,
+Eduardo Quaresma,Centre-Back,20,Portugal,4.0,TSG Hoffenheim,Bundesliga,Loan,
+Erison,Centre-Forward,23,Brazil,4.0,São Paulo,Série A,Loan,
+Dogukan Sinik,Left Winger,23,Turkey,4.0,Antalyaspor,Süper Lig,Loan,
+Andrea Carboni,Centre-Back,21,Italy,4.0,Venezia,Serie B,Loan,
+Mathieu Cafaro,Left Winger,25,France,4.0,Saint-Étienne,Ligue 2,Loan,
+Ander Herrera,Central Midfield,33,Spain,4.0,Athletic,LaLiga,Free,
+Cheikhou Kouyaté,Defensive Midfield,32,Senegal,4.0,Nottm Forest,Premier League,Free,
+Matías Arezo,Centre-Forward,20,Uruguay,4.0,Peñarol,Torneo Intermedio,Loan,
+Brian Lozano,Left Winger,28,Uruguay,4.0,Peñarol,Primera División Clausura,Loan,
+Cédric Soares,Right-Back,31,Portugal,4.0,Fulham,Premier League,Loan,
+Willian,Left Winger,34,Brazil,4.0,Fulham,Premier League,Free,
+Arnaud Nordin,Right Winger,24,France,4.0,Montpellier,Ligue 1,Free,
+Wahbi Khazri,Centre-Forward,31,Tunisia,4.0,Montpellier,Ligue 1,Free,
+Hamza Choudhury,Defensive Midfield,24,England,4.0,Watford,Championship,Loan,
+Kortney Hause,Centre-Back,27,England,4.0,Watford,Championship,Loan,
+Hassane Kamara,Left-Back,28,Cote d'Ivoire,4.0,Watford,Championship,Loan,
+Mamadou Loum,Defensive Midfield,25,Senegal,4.0,Reading,Championship,Loan,
+Alessandro Zanoli,Right-Back,22,Italy,4.0,Sampdoria,Serie A,Loan,
+Abdelhamid Sabiri,Attacking Midfield,26,Morocco,4.0,Sampdoria,Serie A,Loan,
+Filip Djuricic,Attacking Midfield,30,Serbia,4.0,Sampdoria,Serie A,Free,
+Samu Castillejo,Right Winger,27,Spain,4.0,Valencia,LaLiga,Free,
+Edinson Cavani,Centre-Forward,35,Uruguay,4.0,Valencia,LaLiga,Free,
+José Luis Morales,Centre-Forward,34,Spain,4.0,Villarreal,LaLiga,Free,
+Akim Zedadka,Right-Back,27,Algeria,4.0,LOSC Lille,Ligue 1,Free,
+Rony Lopes,Right Winger,26,Portugal,4.0,Troyes,Ligue 1,Loan,
+Michael Obafemi,Centre-Forward,22,Ireland,4.0,Burnley,Championship,Loan,
+Rhys Williams,Centre-Back,21,England,4.0,Blackpool,Championship,Loan,
+Janis Antiste,Centre-Forward,20,France,4.0,Amiens SC,Ligue 2,Loan,
+Folarin Balogun,Centre-Forward,21,United States,4.0,Stade Reims,Ligue 1,Loan,
+Erison,Centre-Forward,23,Brazil,4.0,Estoril Praia,Liga Portugal,Loan,
+Álex Collado,Right Winger,23,Spain,4.0,Elche CF,LaLiga,Loan,
+Alejandro Pozuelo,Attacking Midfield,31,Spain,4.0,Konyaspor,Süper Lig,Free,
+Andreas Bouchalakis,Central Midfield,29,Greece,4.0,Konyaspor,Süper Lig,Loan,
+Jens Jönsson,Defensive Midfield,29,Denmark,4.0,AEK Athens,Super League 1,Free,
+Orbelín Pineda,Central Midfield,26,Mexico,4.0,AEK Athens,Super League 1,Loan,
+Harold Moukoudi,Centre-Back,24,Cameroon,4.0,AEK Athens,Super League 1,Free,
+Joseba Zaldua,Right-Back,30,Spain,4.0,Cádiz CF,LaLiga,Free,
+Patryk Klimala,Centre-Forward,24,Poland,4.0,H. Beer Sheva,Ligat ha'Al,Unknown,
+Adama Traoré,Attacking Midfield,27,Mali,4.0,Hull City,Championship,Free,
+Aguibou Camara,Attacking Midfield,21,Guinea,4.0,Atromitos Athen,Super League 1,Loan,
+Francisco Moura,Left-Back,23,Portugal,4.0,Famalicão,Liga Portugal,Loan,
+Jaime Seoane,Central Midfield,25,Spain,4.0,Getafe,LaLiga,Free,
+Brian Lozano,Left Winger,28,Uruguay,4.0,Atlas,Liga MX Clausura,Loan,
+Mounir Chouiar,Left Winger,24,France,4.0,Kasimpasa,Süper Lig,Loan,
+Stéphane Bahoken,Centre-Forward,30,Cameroon,4.0,Kasimpasa,Süper Lig,Free,
+Alexandru Mitrita,Left Winger,27,Romania,4.0,Al-Raed,Saudi Pro League,Loan,
+Matías Pellegrini,Left Winger,22,Argentina,4.0,New York City,MLS,Free,
+Luis Abram,Centre-Back,26,Peru,4.0,Atlanta,MLS,Unknown,
+Kamal Miller,Centre-Back,25,Canada,4.0,Miami,MLS,Unknown,
+Marcelino Núñez,Central Midfield,22,Chile,1.5,Norwich,Championship,Permanent,3.9
+Joel Ordóñez,Centre-Back,18,Ecuador,6.0,Club Brugge,Jupiler Pro League,Permanent,3.9
+Carlos Rotondi,Left Winger,25,Argentina,3.5,CD Cruz Azul,Liga MX Clausura,Permanent,3.9
+Gennaro Tutino,Centre-Forward,25,Italy,3.8,Parma,Serie B,Permanent,5.0
+Michele Di Gregorio,Goalkeeper,24,Italy,3.8,Monza,Serie A,Permanent,4.15
+Charles Pickel,Defensive Midfield,25,Switzerland,2.5,Cremonese,Serie A,Permanent,3.8
+Ozan Tufan,Central Midfield,27,Turkey,3.8,Hull City,Championship,Permanent,3.0
+Adam Maher,Defensive Midfield,28,Netherlands,3.8,Damac FC,Saudi Pro League,Permanent,1.8
+Eduardo Salvio,Right Winger,31,Argentina,3.8,UNAM Pumas,Liga MX Clausura,Free,
+Craig Dawson,Centre-Back,32,England,2.5,Wolves,Premier League,Permanent,3.75
+Samet Akaydin,Centre-Back,28,Turkey,2.5,Fenerbahce,Süper Lig,Permanent,3.7
+Felipe Carballo,Central Midfield,26,Uruguay,2.0,Grêmio,Série A,Permanent,3.7
+Josh Doig,Left-Back,20,Scotland,3.0,Hellas Verona,Serie A,Permanent,3.6
+Eren Elmali,Left-Back,21,Turkey,3.2,Trabzonspor,Süper Lig,Permanent,3.6
+Bruma,Left Winger,28,Portugal,3.6,SC Braga,Liga Portugal,Loan,
+André Franco,Attacking Midfield,24,Portugal,3.5,FC Porto,Liga Portugal,Permanent,4.07
+Emiliano Rigoni,Right Winger,29,Argentina,3.5,Austin,MLS,Permanent,3.65
+Lukas Lerager,Central Midfield,28,Denmark,3.0,FC Copenhagen,Superligaen,Permanent,3.5
+Robin Olsen,Goalkeeper,32,Sweden,2.0,Aston Villa,Premier League,Permanent,3.5
+Karim Konaté,Centre-Forward,18,Cote d'Ivoire,6.0,RB Salzburg,Bundesliga,Permanent,3.5
+Pedrinho,Left Winger,22,Brazil,1.8,Loko Moscow,Premier Liga,Permanent,3.5
+Rodrigão,Centre-Back,26,Brazil,3.5,Zenit S-Pb,Premier Liga,Permanent,3.5
+Lewis Ferguson,Central Midfield,22,Scotland,2.0,Bologna,Serie A,Permanent,3.5
+Francesco Caputo,Centre-Forward,34,Italy,2.5,Sampdoria,Serie A,Permanent,3.5
+Jackson Porozo,Centre-Back,21,Ecuador,3.0,Troyes,Ligue 1,Permanent,3.5
+Darko Churlinov,Left Winger,22,North Macedonia,1.3,Burnley,Championship,Permanent,3.5
+Emanuel Aiwu,Centre-Back,21,Austria,3.0,Cremonese,Serie A,Permanent,3.5
+Marko Milovanovic,Centre-Forward,18,Serbia,1.2,UD Almería,LaLiga,Permanent,3.5
+Anton Zinkovskiy,Left Winger,26,Russia,3.5,Spartak Moscow,Premier Liga,Permanent,3.2
+Daniil Utkin,Central Midfield,22,Russia,3.5,Rostov,Premier Liga,Permanent,3.0
+Marin Ljubicic,Centre-Forward,20,Croatia,3.5,LASK,Bundesliga,Permanent,2.9
+Hjalmar Ekdal,Centre-Back,24,Sweden,3.5,Burnley,Championship,Permanent,2.8
+Kevin Agudelo,Attacking Midfield,23,Colombia,3.5,Spezia Calcio,Serie A,Permanent,2.8
+Sergey Pinyaev,Left Winger,18,Russia,3.5,Loko Moscow,Premier Liga,Permanent,2.6
+Andreas Hanche-Olsen,Centre-Back,25,Norway,3.5,1.FSV Mainz 05,Bundesliga,Permanent,2.5
+Ivan Provedel,Goalkeeper,28,Italy,3.5,Lazio,Serie A,Permanent,2.38
+Omar Colley,Centre-Back,30,The Gambia,3.5,Besiktas,Süper Lig,Permanent,2.3
+Ramón Sosa,Right Winger,23,Paraguay,3.5,CA Talleres,Copa de la Liga,Permanent,2.12
+Wesley Hoedt,Centre-Back,28,Netherlands,3.5,Watford,Championship,Permanent,2.0
+Dejan Lovren,Centre-Back,33,Croatia,3.5,Olympique Lyon,Ligue 1,Permanent,2.0
+Maxime Busi,Right-Back,22,Belgium,3.5,Stade Reims,Ligue 1,Permanent,2.0
+Dedryck Boyata,Centre-Back,31,Belgium,3.5,Club Brugge,Jupiler Pro League,Permanent,2.0
+Adam Bareiro,Centre-Forward,26,Paraguay,3.5,San Lorenzo,Copa de la Liga,Permanent,1.9
+Luis Malagón,Goalkeeper,25,Mexico,3.5,América,Liga MX Clausura,Permanent,1.88
+Tahith Chong,Right Winger,22,Netherlands,3.5,Birmingham,Championship,Permanent,1.75
+Daizen Maeda,Left Winger,24,Japan,3.5,Celtic,Premiership,Permanent,1.53
+Sargis Adamyan,Centre-Forward,29,Armenia,3.5,1.FC Köln,Bundesliga,Permanent,1.5
+Rodrigo Zalazar,Attacking Midfield,22,Uruguay,3.5,FC Schalke 04,Bundesliga,Permanent,1.5
+Adrien Hunou,Centre-Forward,28,France,3.5,Angers SCO,Ligue 1,Permanent,1.5
+Riccardo Calafiori,Left-Back,20,Italy,3.5,FC Basel,Super League,Permanent,1.0
+Halil Akbunar,Right Winger,28,Turkey,3.5,KVC Westerlo,Jupiler Pro League,Permanent,1.0
+Kévin Cabral,Left Winger,23,France,3.5,Colorado,MLS,Permanent,9.5
+Joaquín Pereyra,Central Midfield,24,Argentina,3.5,Atl. Tucumán,Copa de la Liga,Permanent,9.38
+Daniel,Goalkeeper,28,Brazil,3.5,San Jose,MLS,Permanent,6.0
+Magnus Kofod Andersen,Central Midfield,23,Denmark,3.5,Venezia,Serie B,Permanent,5.1
+Sandro Ramírez,Centre-Forward,27,Spain,3.5,UD Las Palmas,LaLiga2,Loan,
+Didier Lamkel Zé,Left Winger,25,Cameroon,3.5,KV Kortrijk,Jupiler Pro League,Permanent,5.0
+Sasa Zdjelar,Defensive Midfield,27,Serbia,3.5,CSKA Moscow,Premier Liga,Permanent,5.0
+Artur,Defensive Midfield,26,Brazil,3.5,Houston,MLS,Permanent,2.91
+Naci Ünüvar,Left Winger,19,Turkey,3.5,Trabzonspor,Süper Lig,Loan,
+Shapi Suleymanov,Right Winger,22,Russia,3.5,H. Beer Sheva,Ligat ha'Al,Loan,
+Olimpiu Morutan,Attacking Midfield,23,Romania,3.5,Pisa,Serie B,Loan,
+Roman Evgenjev,Centre-Back,23,Russia,3.5,KS Samara,Premier Liga,Permanent,0.25
+Ola Solbakken,Right Winger,24,Norway,3.5,AS Roma,Serie A,Free,
+Jérôme Onguéné,Centre-Back,24,Cameroon,3.5,E. Frankfurt,Bundesliga,Free,
+Lee Buchanan,Left-Back,21,England,3.5,Werder Bremen,Bundesliga,Free,
+Janik Haberer,Central Midfield,28,Germany,3.5,Union Berlin,Bundesliga,Free,
+Alexandru Maxim,Attacking Midfield,32,Romania,3.5,Besiktas,Süper Lig,Loan,
+Gabriel Charpentier,Centre-Forward,23,Congo,3.5,Parma,Serie B,Unknown,
+Facundo Kruspzky,Left Winger,20,Argentina,3.5,Al-Wahda FC,UAE Pro League,Free,
+Kelvin Yeboah,Centre-Forward,22,Italy,3.5,FC Augsburg,Bundesliga,Loan,
+Alexis Sánchez,Centre-Forward,33,Chile,3.5,Marseille,Ligue 1,Free,
+Radu Dragusin,Centre-Back,20,Romania,3.5,Genoa,Serie B,Loan,
+George Puscas,Centre-Forward,26,Romania,3.5,Genoa,Serie B,Loan,
+Jack Clarke,Left Winger,21,England,3.5,Sunderland,Championship,Unknown,
+Ionut Radu,Goalkeeper,25,Romania,3.5,AJ Auxerre,Ligue 1,Loan,
+Mihailo Ristic,Left-Back,26,Serbia,3.5,Benfica,Liga Portugal,Free,
+Sebastiano Esposito,Centre-Forward,20,Italy,3.5,Bari,Serie B,Loan,
+Eddie Salcedo,Centre-Forward,20,Italy,3.5,Bari,Serie B,Loan,
+Martin Hongla,Defensive Midfield,24,Cameroon,3.5,Real Valladolid,LaLiga,Loan,
+Matías Vecino,Central Midfield,30,Uruguay,3.5,Lazio,Serie A,Free,
+Jérôme Onguéné,Centre-Back,25,Cameroon,3.5,RB Salzburg,Bundesliga,Loan,
+Festy Ebosele,Right-Back,19,Ireland,3.5,Udinese Calcio,Serie A,Free,
+Ferro,Centre-Back,25,Portugal,3.5,Vitesse,Eredivisie,Loan,
+Danilo Barbosa,Defensive Midfield,26,Brazil,3.5,Botafogo,Série A,Free,
+Shoya Nakajima,Attacking Midfield,28,Japan,3.5,Antalyaspor,Süper Lig,Free,
+Aboubakar Kamara,Centre-Forward,27,Mauritania,3.5,Aris Saloniki,Super League 1,Loan,
+Roberto Piccoli,Centre-Forward,22,Italy,3.5,FC Empoli,Serie A,Loan,
+Marko Pjaca,Left Winger,27,Croatia,3.5,FC Empoli,Serie A,Loan,
+Marlon,Left-Back,25,Brazil,3.5,Ankaragücü,Süper Lig,Free,
+Pêpê,Central Midfield,25,Portugal,3.5,Ankaragücü,Süper Lig,Loan,
+Taylan Antalyali,Central Midfield,27,Turkey,3.5,Ankaragücü,Süper Lig,Loan,
+Bryan Reynolds,Right-Back,21,United States,3.5,KVC Westerlo,Jupiler Pro League,Loan,
+Joe Rothwell,Central Midfield,27,England,3.5,Bournemouth,Premier League,Free,
+Lorenzo Colombo,Centre-Forward,20,Italy,3.5,Lecce,Serie A,Loan,
+Di'Shon Bernard,Centre-Back,22,Jamaica,3.5,Portsmouth,League One,Loan,
+Callum Styles,Central Midfield,22,Hungary,3.5,Millwall,Championship,Loan,
+Michaël Cuisance,Central Midfield,23,France,3.5,Sampdoria,Serie A,Loan,
+Patrick Cutrone,Centre-Forward,24,Italy,3.5,Como,Serie B,Unknown,
+Douglas Costa,Right Winger,31,Brazil,3.5,Los Angeles,MLS,Free,
+Ismaily,Left-Back,32,Brazil,3.5,LOSC Lille,Ligue 1,Free,
+Antonio Blanco,Defensive Midfield,22,Spain,3.5,Alavés,LaLiga2,Loan,
+Cecilio Domínguez,Left Winger,27,Paraguay,3.5,Santos Laguna,Liga MX Clausura,Free,
+Ibrahima Niane,Centre-Forward,23,Senegal,3.5,Angers SCO,Ligue 1,Loan,
+Marcel Ruiz,Central Midfield,21,Mexico,3.5,Toluca,Liga MX Clausura,Unknown,
+Ionut Radu,Goalkeeper,25,Romania,3.5,Cremonese,Serie A,Loan,
+Robert Muric,Right Winger,26,Croatia,3.5,Konyaspor,Süper Lig,Unknown,
+Juan Otero,Right Winger,27,Colombia,3.5,Sporting Gijón,LaLiga2,Loan,
+Óscar Estupiñán,Centre-Forward,25,Colombia,3.5,Hull City,Championship,Free,
+Lucas Halter,Centre-Back,22,Brazil,3.5,Goiás,Série A,Loan,
+Mattia Caldara,Centre-Back,28,Italy,3.5,Spezia Calcio,Serie A,Loan,
+Bradley Locko,Left-Back,20,France,3.5,Stade Brestois,Ligue 1,Loan,
+Omar Fernández,Left Winger,29,Colombia,3.5,Puebla FC,Liga MX Clausura,Loan,
+Farid Boulaya,Attacking Midfield,29,Algeria,3.5,Al-Gharafa SC,Stars League,Free,
+Charles Aránguiz,Central Midfield,33,Chile,3.5,Internacional,Série A,Free,
+Berke Özer,Goalkeeper,22,Turkey,3.5,Portimonense,Liga Portugal,Free,
+Vitinho,Left Winger,28,Brazil,3.5,Ettifaq FC,Saudi Pro League,Free,
+Luca Moro,Centre-Forward,21,Italy,3.5,Frosinone,Serie B,Loan,
+Kanu,Centre-Back,25,Brazil,3.5,EC Bahia,Série A,Loan,
+Raul Gustavo,Centre-Back,23,Brazil,3.5,EC Bahia,Série A,Loan,
+Fabiano Silva,Right-Back,22,Brazil,3.5,Kasimpasa,Süper Lig,Loan,
+Caio Alexandre,Central Midfield,23,Brazil,3.5,Fortaleza,Série A,Loan,
+Zinedine Ferhat,Right Winger,29,Algeria,3.5,Alanyaspor,Süper Lig,Free,
+Aarón Molinas,Attacking Midfield,22,Argentina,3.5,Tigre,Copa de la Liga,Loan,
+Juan Fernando Quintero,Attacking Midfield,29,Colombia,3.5,Junior FC,Liga Dimayor I,Free,
+Alexis Canelo,Centre-Forward,30,Argentina,3.5,Club Tijuana,Liga MX Clausura,Free,
+Manuel Castro,Right Midfield,27,Uruguay,3.5,FC Juárez,Liga MX Clausura,Free,
+Domingo Blanco,Central Midfield,27,Argentina,3.5,SK Dnipro-1,Premier Liga,Free,
+Joakim Nilsson,Centre-Back,28,Sweden,3.5,St. Louis CITY,United States,Free,
+Carlos Andrés Gómez,Right Winger,20,Colombia,2.5,Salt Lake,MLS,Permanent,3.49
+Harrison Ashby,Right-Back,21,Scotland,3.0,Newcastle,Premier League,Permanent,3.4
+Jimmy-Jay Morgan,Centre-Forward,17,England,,Chelsea U21,Premier League 2,Permanent,3.4
+Ahmed Musa,Right Winger,29,Nigeria,3.4,Sivasspor,Süper Lig,Free,
+Gift Orban,Centre-Forward,20,Nigeria,1.0,KAA Gent,Jupiler Pro League,Permanent,3.3
+Saba Lobzhanidze,Left Winger,28,Georgia,3.3,Karagümrük,Süper Lig,Loan,
+Jhoanner Chávez,Left-Back,20,Ecuador,2.0,EC Bahia,Série A,Permanent,3.25
+Isak Hien,Centre-Back,23,Sweden,1.0,Hellas Verona,Serie A,Permanent,3.2
+Manu García,Attacking Midfield,24,Spain,3.0,Aris Saloniki,Super League 1,Permanent,3.2
+João Klauss,Centre-Forward,25,Brazil,3.0,St. Louis CITY,United States,Permanent,3.2
+Vakoun Bayo,Centre-Forward,25,Cote d'Ivoire,3.2,RSC Charleroi,Jupiler Pro League,Permanent,1.5
+Patrick van Aanholt,Left-Back,32,Netherlands,3.2,PSV Eindhoven,Eredivisie,Loan,
+João Figueiredo,Centre-Forward,26,Brazil,3.2,Basaksehir,Süper Lig,Permanent,6.5
+Lucas Romero,Defensive Midfield,28,Argentina,3.2,León,Liga MX Clausura,Permanent,5.64
+Ebrima Colley,Right Winger,22,The Gambia,3.2,Karagümrük,Süper Lig,Loan,
+Cédric Brunner,Right-Back,28,Switzerland,3.2,FC Schalke 04,Bundesliga,Free,
+Jorge Morel,Centre-Back,25,Paraguay,3.2,Adana Demirspor,Süper Lig,Loan,
+Emirhan Ilkhan,Central Midfield,18,Turkey,3.0,Torino,Serie A,Permanent,4.9
+Sotiris Alexandropoulos,Central Midfield,20,Greece,3.0,Sporting CP,Liga Portugal,Permanent,4.0
+Arkadiusz Reca,Left-Back,27,Poland,3.0,Spezia Calcio,Serie A,Permanent,3.9
+Josha Vagnoman,Right-Back,21,Germany,3.0,VfB Stuttgart,Bundesliga,Permanent,3.7
+Ishaq Abdulrazak,Right Midfield,20,Nigeria,3.0,RSC Anderlecht,Jupiler Pro League,Permanent,3.0
+Roberto Fernández,Centre-Back,22,Paraguay,1.3,Dynamo Moscow,Premier Liga,Permanent,3.0
+Elias Cobbaut,Centre-Back,24,Belgium,3.0,Parma,Serie B,Permanent,3.0
+Jayden Oosterwolde,Left-Back,21,Netherlands,1.0,Parma,Serie B,Permanent,3.0
+Osman Bukari,Right Winger,23,Ghana,3.0,Red Star,Super liga Srbije,Permanent,3.0
+Nicolai Vallys,Attacking Midfield,25,Denmark,1.5,Bröndby IF,Superligaen,Permanent,3.0
+Joaquim,Centre-Back,24,Brazil,5.0,Santos,Série A,Permanent,3.0
+Alan Matturro,Centre-Back,18,Uruguay,1.7,Genoa,Serie B,Permanent,3.0
+Daniel Mancini,Right Winger,26,Argentina,2.5,Panathinaikos,Super League 1,Permanent,3.0
+Ibrahim Salah,Left Winger,21,Morocco,8.0,Rennes,Ligue 1,Permanent,3.0
+Mamadou Coulibaly,Central Midfield,23,Senegal,2.5,Salernitana,Serie A,Permanent,3.0
+Robert Ljubicic,Left-Back,22,Croatia,2.5,Dinamo Zagreb,SuperSport HNL,Permanent,3.0
+Albert Grönbaek,Central Midfield,21,Denmark,1.5,Bodø/Glimt,Eliteserien,Permanent,3.0
+Matthew Hoppe,Centre-Forward,21,United States,1.0,Middlesbrough,Championship,Permanent,3.0
+Dmytro Riznyk,Goalkeeper,24,Ukraine,2.0,Shakhtar D.,Premier Liga,Permanent,3.0
+Jean-Eudes Aholou,Defensive Midfield,28,Cote d'Ivoire,3.0,R. Strasbourg,Ligue 1,Permanent,3.0
+Veton Berisha,Centre-Forward,28,Norway,1.8,Molde,Eliteserien,Permanent,3.0
+Liberato Cacace,Left-Back,21,New Zealand,2.5,FC Empoli,Serie A,Permanent,3.0
+Lucas Fasson,Centre-Back,21,Brazil,1.5,Loko Moscow,Premier Liga,Permanent,3.0
+Mario Mitaj,Left-Back,19,Albania,5.0,Loko Moscow,Premier Liga,Permanent,3.0
+Bafodé Diakité,Right-Back,21,France,3.0,LOSC Lille,Ligue 1,Permanent,3.0
+Thierno Baldé,Right-Back,20,France,2.0,Troyes,Ligue 1,Permanent,3.0
+Arijanet Muric,Goalkeeper,23,Kosovo,2.6,Burnley,Championship,Permanent,3.0
+Rasmus Carstensen,Right-Back,21,Denmark,1.5,KRC Genk,Jupiler Pro League,Permanent,3.0
+Matías Palacios,Attacking Midfield,20,Argentina,2.0,Al-Ain FC,UAE Pro League,Permanent,3.0
+Luca Valzania,Central Midfield,26,Italy,1.2,Cremonese,Serie A,Permanent,3.0
+Luca Zanimacchia,Right Winger,23,Italy,2.0,Cremonese,Serie A,Permanent,3.0
+Gui Guedes,Central Midfield,20,Portugal,5.0,UD Almería,LaLiga,Permanent,3.0
+Matteo Tramoni,Left Winger,22,France,2.2,Pisa,Serie B,Permanent,3.0
+Marcel Tisserand,Centre-Back,29,DR Congo,2.8,Ettifaq FC,Saudi Pro League,Permanent,3.0
+Vivaldo,Centre-Forward,17,Portugal,,Udinese U19,Primavera 1,Permanent,3.0
+José Gragera,Central Midfield,22,Spain,3.0,Espanyol,LaLiga,Permanent,2.8
+Léo,Centre-Back,26,Brazil,3.0,Vasco da Gama,Série A,Permanent,2.8
+Leonardo Campana,Centre-Forward,22,Ecuador,3.0,Miami,MLS,Permanent,2.7
+Matt Clarke,Centre-Back,25,England,3.0,Middlesbrough,Championship,Permanent,2.6
+Hrvoje Smolcic,Centre-Back,21,Croatia,3.0,E. Frankfurt,Bundesliga,Permanent,2.5
+Antonio Colak,Centre-Forward,28,Croatia,3.0,Rangers,Premiership,Permanent,2.5
+Eduard Sobol,Left-Back,27,Ukraine,3.0,R. Strasbourg,Ligue 1,Permanent,2.5
+Felipe,Centre-Back,33,Brazil,3.0,Nottm Forest,Premier League,Permanent,2.3
+Fernando Pacheco,Goalkeeper,30,Spain,3.0,Espanyol,LaLiga,Permanent,2.2
+Zanocelo,Central Midfield,21,Brazil,3.0,Santos,Série A,Permanent,2.0
+Nathan,Right-Back,20,Brazil,3.0,Santos,Série A,Permanent,2.0
+Adama Traoré,Right Winger,27,Mali,3.0,Ferencváros,NB I.,Permanent,2.0
+Rochinha,Left Winger,27,Portugal,3.0,Sporting CP,Liga Portugal,Permanent,2.0
+Philip Zinckernagel,Attacking Midfield,27,Denmark,3.0,Olympiacos,Super League 1,Permanent,2.0
+Ben Malango,Centre-Forward,28,DR Congo,3.0,Qatar SC,Stars League,Permanent,2.0
+Léo Jardim,Goalkeeper,27,Brazil,3.0,Vasco da Gama,Série A,Permanent,2.0
+Cédric Hountondji,Centre-Back,28,Benin,3.0,Angers SCO,Ligue 1,Permanent,2.0
+Ramiro Enrique,Centre-Forward,21,Argentina,3.0,Orlando,MLS,Permanent,1.84
+Matías Kranevitter,Defensive Midfield,29,Argentina,3.0,River Plate,Copa de la Liga,Permanent,1.7
+Gautier Larsonneur,Goalkeeper,25,France,3.0,Saint-Étienne,Ligue 2,Permanent,1.6
+László Bénes,Central Midfield,24,Slovakia,3.0,Hamburger SV,2. Bundesliga,Permanent,1.5
+Patrick,Central Midfield,30,Brazil,3.0,Atlético-MG,Série A,Permanent,1.5
+Abdul Mumin,Centre-Back,24,Ghana,3.0,Rayo Vallecano,LaLiga,Permanent,1.5
+Moreto Cassamá,Central Midfield,24,Guinea-Bissau,3.0,Omonia Nikosia,Protathlima Cyta,Permanent,1.5
+Nikolay Komlichenko,Centre-Forward,27,Russia,3.0,Rostov,Premier Liga,Permanent,1.5
+Eric Martel,Defensive Midfield,20,Germany,3.0,1.FC Köln,Bundesliga,Permanent,1.2
+Monchu,Central Midfield,22,Spain,3.0,Real Valladolid,LaLiga,Permanent,1.2
+Petar Stojanovic,Right-Back,26,Slovenia,3.0,FC Empoli,Serie A,Permanent,1.2
+Onur Bulut,Right-Back,28,Turkey,3.0,Besiktas,Süper Lig,Permanent,1.0
+Aleksandar Pesic,Centre-Forward,30,Serbia,3.0,Red Star,Super liga Srbije,Permanent,1.0
+Jasper Cillessen,Goalkeeper,33,Netherlands,3.0,NEC Nijmegen,Eredivisie,Permanent,1.0
+Julen Lobete,Centre-Forward,21,Spain,3.0,Celta de Vigo,LaLiga,Permanent,1.0
+Abdelhamid Sabiri,Attacking Midfield,25,Morocco,3.0,Sampdoria,Serie A,Permanent,1.0
+Abdou Harroui,Central Midfield,24,Morocco,3.0,Sassuolo,Serie A,Permanent,1.0
+James Bree,Right-Back,25,England,3.0,Southampton,Premier League,Permanent,8.5
+Julian Gressel,Right Midfield,28,United States,3.0,Vancouver,MLS,Permanent,8.18
+Ajdin Hrustic,Attacking Midfield,26,Australia,3.0,Hellas Verona,Serie A,Permanent,5.0
+Mickaël Malsa,Defensive Midfield,26,Martinique,3.0,Real Valladolid,LaLiga,Permanent,5.0
+William Troost-Ekong,Centre-Back,29,Nigeria,3.0,Salernitana,Serie A,Loan,
+Sebastiano Luperto,Centre-Back,25,Italy,3.0,FC Empoli,Serie A,Loan,
+Sam Lammers,Centre-Forward,25,Netherlands,3.0,FC Empoli,Serie A,Loan,
+Rodrigo Dourado,Defensive Midfield,28,Brazil,3.0,San Luis,Liga MX Clausura,Permanent,5.0
+Julián Carranza,Centre-Forward,22,Argentina,3.0,Philadelphia,MLS,Permanent,4.55
+Lucas Da Cunha,Right Winger,21,France,3.0,Como,Serie B,Permanent,4.0
+Abdoulaye Seck,Centre-Back,30,Senegal,3.0,Maccabi Haifa,Ligat ha'Al,Permanent,3.9
+Latif Blessing,Attacking Midfield,26,Ghana,3.0,New England,MLS,Permanent,3.79
+Alexander Schwolow,Goalkeeper,30,Germany,3.0,FC Schalke 04,Bundesliga,Loan,
+Mario González,Centre-Forward,26,Spain,3.0,OH Leuven,Jupiler Pro League,Loan,
+João Novais,Central Midfield,29,Portugal,3.0,Al-Bataeh CSC,UAE Pro League,Permanent,2.0
+Noah Mbamba,Defensive Midfield,18,Belgium,3.0,B. Leverkusen,Bundesliga,Permanent,1.0
+Viktor Kovalenko,Attacking Midfield,26,Ukraine,3.0,Spezia Calcio,Serie A,Loan,
+Kristian Pedersen,Left-Back,27,Denmark,3.0,1.FC Köln,Bundesliga,Free,
+Jayden Braaf,Centre-Forward,19,Netherlands,3.0,B. Dortmund II,3. Liga,Free,
+Aurélio Buta,Right-Back,25,Portugal,3.0,E. Frankfurt,Bundesliga,Free,
+Éder Balanta,Defensive Midfield,29,Colombia,3.0,FC Schalke 04,Bundesliga,Loan,
+Keven Schlotterbeck,Centre-Back,25,Germany,3.0,VfL Bochum,Bundesliga,Loan,
+Jérôme Roussillon,Left-Back,30,Guadeloupe,3.0,Union Berlin,Bundesliga,Unknown,
+Rares Ilie,Left Winger,19,Romania,3.0,M. Tel Aviv,Ligat ha'Al,Loan,
+Tomás Alarcón,Defensive Midfield,23,Chile,3.0,Real Zaragoza,LaLiga2,Loan,
+Víctor Mollejo,Right Winger,21,Spain,3.0,Real Zaragoza,LaLiga2,Loan,
+Tyler Morton,Central Midfield,19,England,3.0,Blackburn,Championship,Loan,
+Bruno Valdez,Centre-Back,30,Paraguay,3.0,Boca Juniors,Copa de la Liga,Free,
+Modibo Sagnan,Centre-Back,23,France,3.0,FC Utrecht,Eredivisie,Loan,
+Keita Baldé,Centre-Forward,27,Senegal,3.0,Spartak Moscow,Premier Liga,Free,
+Jacob Rasmussen,Centre-Back,25,Denmark,3.0,Feyenoord,Eredivisie,Loan,
+Julen Lobete,Centre-Forward,21,Spain,3.0,RKC Waalwijk,Eredivisie,Loan,
+Rubén Blanco,Goalkeeper,26,Spain,3.0,Marseille,Ligue 1,Loan,
+Güven Yalcin,Centre-Forward,23,Turkey,3.0,Genoa,Serie B,Free,
+Edouard Michut,Central Midfield,19,France,3.0,Sunderland,Championship,Loan,
+Matthis Abline,Centre-Forward,19,France,3.0,AJ Auxerre,Ligue 1,Loan,
+Akim Zedadka,Right-Back,27,Algeria,3.0,AJ Auxerre,Ligue 1,Loan,
+James McAtee,Central Midfield,19,England,3.0,Sheff Utd,Championship,Loan,
+Sergio Camello,Centre-Forward,21,Spain,3.0,Rayo Vallecano,LaLiga,Loan,
+Jarrad Branthwaite,Centre-Back,20,England,3.0,PSV Eindhoven,Eredivisie,Loan,
+Matteo Cancellieri,Right Winger,20,Italy,3.0,Lazio,Serie A,Loan,
+Ronaldo Vieira,Central Midfield,24,England,3.0,Torino,Serie A,Loan,
+Aaron Ramsey,Central Midfield,31,Wales,3.0,OGC Nice,Ligue 1,Free,
+Joe Bryan,Left-Back,28,England,3.0,OGC Nice,Ligue 1,Loan,
+Josip Drmic,Centre-Forward,29,Switzerland,3.0,Dinamo Zagreb,SuperSport HNL,Free,
+Gabriel Slonina,Goalkeeper,18,United States,3.0,Chicago,MLS,Loan,
+Toni Borevkovic,Centre-Back,25,Croatia,3.0,Hajduk Split,SuperSport HNL,Loan,
+Gennaro Tutino,Centre-Forward,26,Italy,3.0,Palermo,Serie B,Loan,
+Gabriel Vidovic,Attacking Midfield,18,Croatia,3.0,Vitesse,Eredivisie,Loan,
+Bersant Celina,Attacking Midfield,26,Kosovo,3.0,Stoke City,Championship,Loan,
+Hugo Siquet,Right-Back,20,Belgium,3.0,Cercle Brugge,Jupiler Pro League,Loan,
+Radoslaw Majecki,Goalkeeper,22,Poland,3.0,Cercle Brugge,Jupiler Pro League,Loan,
+Heitor,Right-Back,21,Brazil,3.0,Cercle Brugge,Jupiler Pro League,Loan,
+Jean Marcelin,Centre-Back,22,France,3.0,Cercle Brugge,Jupiler Pro League,Loan,
+Thomas Delaney,Central Midfield,31,Denmark,3.0,TSG Hoffenheim,Bundesliga,Loan,
+Adryelson,Centre-Back,24,Brazil,3.0,Botafogo,Série A,Free,
+Nahuel Bustos,Centre-Forward,24,Argentina,3.0,São Paulo,Série A,Loan,
+Jaden Philogene,Left Winger,20,England,3.0,Cardiff,Championship,Loan,
+Nikão,Attacking Midfield,30,Brazil,3.0,Cruzeiro,Série A,Loan,
+Aaron Ramsey,Attacking Midfield,20,England,3.0,Middlesbrough,Championship,Loan,
+Ryan Giles,Left-Back,22,England,3.0,Middlesbrough,Championship,Loan,
+Darragh Lenihan,Centre-Back,28,Ireland,3.0,Middlesbrough,Championship,Free,
+Yaroslav Rakitskyi,Centre-Back,33,Ukraine,3.0,Shakhtar D.,Premier Liga,Free,
+In-beom Hwang,Central Midfield,25,"Korea, South",3.0,Olympiacos,Super League 1,Free,
+Marcelo,Left-Back,34,Brazil,3.0,Olympiacos,Super League 1,Free,
+Mattia Destro,Centre-Forward,31,Italy,3.0,FC Empoli,Serie A,Free,
+Liziero,Central Midfield,25,Brazil,3.0,Coritiba FC,Série A,Loan,
+Boschilia,Attacking Midfield,26,Brazil,3.0,Coritiba FC,Série A,Free,
+Kristoffer Olsson,Central Midfield,27,Sweden,3.0,FC Midtjylland,Superligaen,Loan,
+Jesé,Left Winger,29,Spain,3.0,Ankaragücü,Süper Lig,Free,
+Emre Kilinc,Right Winger,28,Turkey,3.0,Ankaragücü,Süper Lig,Loan,
+Gonçalo Paciência,Centre-Forward,28,Portugal,3.0,Celta de Vigo,LaLiga,Unknown,
+Faitout Maouassa,Left-Back,23,France,3.0,Montpellier,Ligue 1,Loan,
+Okay Yokuslu,Defensive Midfield,28,Turkey,3.0,West Brom,Championship,Free,
+Neto,Goalkeeper,33,Brazil,3.0,Bournemouth,Premier League,Free,
+Evann Guessand,Centre-Forward,21,France,3.0,FC Nantes,Ligue 1,Loan,
+Wladimiro Falcone,Goalkeeper,27,Italy,3.0,Lecce,Serie A,Loan,
+Britt Assombalonga,Centre-Forward,30,DR Congo,3.0,Watford,Championship,Free,
+Mario Gaspar,Right-Back,31,Spain,3.0,Watford,Championship,Free,
+Charlie Cresswell,Centre-Back,19,England,3.0,Millwall,Championship,Loan,
+Juan Ignacio Méndez,Central Midfield,25,Argentina,3.0,Vélez Sarsfield,Copa de la Liga,Free,
+Cody Drameh,Right-Back,21,England,3.0,Luton,Championship,Loan,
+Ignacio Pussetto,Right Winger,26,Argentina,3.0,Sampdoria,Serie A,Loan,
+Alfred Gomis,Goalkeeper,29,Senegal,3.0,Como,Serie B,Loan,
+Pizzi,Attacking Midfield,33,Portugal,3.0,SC Braga,Liga Portugal,Free,
+Tino Anjorin,Attacking Midfield,20,England,3.0,Huddersfield,Championship,Loan,
+Michal Helik,Centre-Back,26,Poland,3.0,Huddersfield,Championship,Unknown,
+Halil Dervisoglu,Centre-Forward,22,Turkey,3.0,Burnley,Championship,Loan,
+Ally Samatta,Centre-Forward,29,Tanzania,3.0,KRC Genk,Jupiler Pro League,Loan,
+Yvan Neyou,Defensive Midfield,25,Cameroon,3.0,CD Leganés,LaLiga2,Loan,
+Hernani,Central Midfield,28,Brazil,3.0,Reggina,Serie B,Loan,
+Jaminton Campaz,Attacking Midfield,22,Colombia,3.0,Rosario Central,Copa de la Liga,Loan,
+Gautier Larsonneur,Goalkeeper,25,France,3.0,Valenciennes FC,Ligue 2,Loan,
+Gonçalo Esteves,Right-Back,18,Portugal,3.0,Estoril Praia,Liga Portugal,Loan,
+James Léa Siliki,Central Midfield,26,Cameroon,3.0,Estoril Praia,Liga Portugal,Free,
+Gonzalo Maroni,Attacking Midfield,23,Argentina,3.0,San Lorenzo,Liga Profesional,Loan,
+Víctor Guzmán,Centre-Back,20,Mexico,3.0,Monterrey,Liga MX Clausura,Unknown,
+Milan Gajić,Right-Back,26,Serbia,3.0,CSKA Moscow,Premier Liga,Free,
+Carlos Izquierdoz,Centre-Back,33,Argentina,3.0,Sporting Gijón,LaLiga2,Free,
+Manu Vallejo,Left Winger,25,Spain,3.0,Real Oviedo,LaLiga2,Loan,
+Wahid Faghir,Centre-Forward,19,Denmark,3.0,Nordsjaelland,Superligaen,Loan,
+João Figueiredo,Centre-Forward,26,Brazil,3.0,Gaziantep FK,Süper Lig,Unknown,
+Martín Benítez,Attacking Midfield,28,Argentina,3.0,América-MG,Série A,Loan,
+Malcolm Ebiowei,Right Winger,19,England,3.0,Hull City,Championship,Loan,
+Philip Zinckernagel,Attacking Midfield,27,Denmark,3.0,Standard Liège,Jupiler Pro League,Loan,
+Romário Baró,Central Midfield,22,Portugal,3.0,Casa Pia,Liga Portugal,Loan,
+Houboulang Mendes,Right-Back,24,Guinea-Bissau,3.0,UD Almería,LaLiga,Free,
+Marko Lazetic,Centre-Forward,19,Serbia,3.0,SCR Altach,Bundesliga,Loan,
+Fabrizio Angileri,Left-Back,28,Argentina,3.0,Getafe,LaLiga,Free,
+Michael Estrada,Centre-Forward,26,Ecuador,3.0,CD Cruz Azul,Liga MX Clausura,Loan,
+Bryan Angulo,Centre-Forward,27,Ecuador,3.0,CS Emelec,Serie A Primera Etapa,Free,
+Metinho,Central Midfield,19,Brazil,3.0,Lommel SK,Challenger Pro League,Loan,
+In-beom Hwang,Central Midfield,25,"Korea, South",3.0,FC Seoul,K League 1,Loan,
+Matteo Ricci,Defensive Midfield,28,Italy,3.0,Karagümrük,Süper Lig,Loan,
+Pêpê,Central Midfield,25,Portugal,3.0,FC Cartagena,LaLiga2,Loan,
+Berke Özer,Goalkeeper,22,Turkey,3.0,Eyüpspor,1.Lig,Unknown,
+Jesús Jiménez,Centre-Forward,29,Spain,3.0,Dallas,MLS,Unknown,
+Bersant Celina,Attacking Midfield,25,Kosovo,3.0,Kasimpasa,Süper Lig,Loan,
+Zanocelo,Central Midfield,22,Brazil,3.0,Fortaleza,Série A,Loan,
+Ivan Cavaleiro,Left Winger,28,Portugal,3.0,Alanyaspor,Süper Lig,Loan,
+Ahmed Hassan,Centre-Forward,29,Egypt,3.0,Alanyaspor,Süper Lig,Loan,
+Manu Vallejo,Left Winger,25,Spain,3.0,Girona,LaLiga,Free,
+Nicolás Díaz,Left-Back,23,Chile,3.0,Club Tijuana,Liga MX Clausura,Unknown,
+John Kennedy,Centre-Forward,20,Brazil,3.0,Ferroviária,Paulistão A1 - Primeira Fase,Loan,
+Famara Diédhiou,Centre-Forward,30,Senegal,3.0,Granada CF,LaLiga2,Loan,
+Óscar Melendo,Attacking Midfield,24,Spain,3.0,Granada CF,LaLiga2,Free,
+Jean-David Beauguel,Centre-Forward,30,France,3.0,Al-Wehda FC,Saudi Pro League,Free,
+Jordy Alcívar,Defensive Midfield,23,Ecuador,3.0,Independiente,Serie A Primera Etapa,Unknown,
+Berke Özer,Goalkeeper,22,Turkey,3.0,Ümraniyespor,Süper Lig,Loan,
+Cristian Tello,Left Winger,31,Spain,3.0,Al-Fateh,Saudi Pro League,Free,
+Yerson Mosquera,Centre-Back,21,Colombia,3.0,Cincinnati,MLS,Loan,
+Aaron Long,Centre-Back,30,United States,3.0,LAFC,MLS,Free,
+Gareth Bale,Right Winger,32,Wales,3.0,LAFC,MLS,Free,
+Nicolás Benedetti,Attacking Midfield,25,Colombia,3.0,Mazatlán FC,Liga MX Clausura,Unknown,
+Luis Olivas,Centre-Back,23,Mexico,3.0,Mazatlán FC,Liga MX Clausura,Loan,
+Merlin Röhl,Central Midfield,20,Germany,8.0,SC Freiburg,Bundesliga,Permanent,2.9
+Scott Twine,Attacking Midfield,22,England,,Burnley,Championship,Permanent,2.9
+Marcelo Allende,Attacking Midfield,23,Chile,1.6,Sundowns,DStv Premiership,Permanent,2.9
+Alex Teixeira,Attacking Midfield,32,Brazil,2.9,Vasco da Gama,Série B,Free,
+Luca Pfeiffer,Centre-Forward,25,Germany,2.0,VfB Stuttgart,Bundesliga,Permanent,2.85
+Byron Castillo,Right-Back,23,Ecuador,2.8,León,Liga MX Clausura,Permanent,2.85
+Marco Angulo,Defensive Midfield,20,Ecuador,2.5,Cincinnati,MLS,Permanent,2.83
+Hyeon-gyu Oh,Centre-Forward,21,"Korea, South",5.5,Celtic,Premiership,Permanent,2.8
+Facundo Waller,Left Midfield,25,Uruguay,2.5,Puebla FC,Liga MX Clausura,Permanent,2.8
+Fernando Arce,Defensive Midfield,26,United States,1.0,Puebla FC,Liga MX Clausura,Permanent,2.8
+Mario Balotelli,Centre-Forward,32,Italy,2.8,FC Sion,Super League,Permanent,2.62
+Maksim Glushenkov,Centre-Forward,23,Russia,2.8,Loko Moscow,Premier Liga,Permanent,2.6
+Benjamín Garré,Left Winger,22,Argentina,2.8,KS Samara,Premier Liga,Permanent,1.7
+Tayyip Talha Sanuc,Centre-Back,22,Turkey,2.8,Besiktas,Süper Lig,Permanent,1.5
+Gustavo Henrique,Centre-Back,29,Brazil,2.8,Fenerbahce,Süper Lig,Loan,
+Amar Rahmanovic,Attacking Midfield,28,Bosnia-Herzegovina,2.8,KS Samara,Premier Liga,Permanent,7.5
+Raúl Moro,Left Winger,19,Spain,2.8,Ternana,Serie B,Loan,
+Sean Klaiber,Right-Back,28,Suriname,2.8,FC Utrecht,Eredivisie,Free,
+Fabio Depaoli,Right-Back,25,Italy,2.8,Hellas Verona,Serie A,Loan,
+Birger Verstraete,Defensive Midfield,28,Belgium,2.8,KV Mechelen,Jupiler Pro League,Loan,
+Sam Larsson,Left Winger,29,Sweden,2.8,Antalyaspor,Süper Lig,Free,
+Panagiotis Retsos,Centre-Back,24,Greece,2.8,Olympiacos,Super League 1,Loan,
+Carel Eiting,Central Midfield,24,Netherlands,2.8,FC Volendam,Eredivisie,Free,
+Nacer Chadli,Left Winger,33,Belgium,2.8,KVC Westerlo,Jupiler Pro League,Loan,
+Sam Lammers,Centre-Forward,25,Netherlands,2.8,Sampdoria,Serie A,Loan,
+Yvon Mvogo,Goalkeeper,28,Switzerland,2.8,FC Lorient,Ligue 1,Unknown,
+Lautaro Morales,Goalkeeper,22,Argentina,2.8,Newell's,Liga Profesional,Loan,
+Juan Ignacio Méndez,Central Midfield,25,Argentina,2.8,San Lorenzo,Liga Profesional,Free,
+Armando Izzo,Centre-Back,30,Italy,2.8,Monza,Serie A,Loan,
+Jesús Angulo,Attacking Midfield,25,Mexico,2.8,León,Liga MX Clausura,Unknown,
+Braian Romero,Centre-Forward,31,Argentina,2.8,Club Tijuana,Liga MX Clausura,Loan,
+Ilzat Akhmetov,Attacking Midfield,24,Russia,2.8,Krasnodar,Premier Liga,Free,
+Alan Soñora,Central Midfield,24,United States,2.8,FC Juárez,Liga MX Clausura,Free,
+Emam Ashour,Central Midfield,24,Egypt,2.0,FC Midtjylland,Superligaen,Permanent,2.76
+Mattia Valoti,Central Midfield,28,Italy,2.0,Monza,Serie A,Permanent,2.75
+Leonardo Mancuso,Centre-Forward,30,Italy,2.7,Monza,Serie A,Permanent,2.79
+Yoann Cathline,Left Winger,20,France,4.0,FC Lorient,Ligue 1,Permanent,2.7
+Achraf Dari,Centre-Back,23,Morocco,1.8,Stade Brestois,Ligue 1,Permanent,2.7
+Eddie Salcedo,Centre-Forward,21,Italy,2.7,Genoa,Serie B,Loan,
+Fousseni Diabaté,Right Winger,26,Mali,2.7,Partizan,Super liga Srbije,Free,
+Assan Ceesay,Centre-Forward,28,The Gambia,2.7,Lecce,Serie A,Free,
+Leonardo Mancuso,Centre-Forward,30,Italy,2.7,Como,Serie B,Loan,
+Sofiane Hanni,Attacking Midfield,31,Algeria,2.7,Al-Ahli SC,Stars League,Free,
+Jean Evrard Kouassi,Left Winger,28,Cote d'Ivoire,2.7,ZJ FC,Super League,Free,
+Gökdeniz Bayrakdar,Right Winger,21,Turkey,2.7,Bodrumspor,1.Lig,Loan,
+Christos Zafeiris,Central Midfield,19,Norway,1.5,Slavia Prague,Fortuna Liga,Permanent,2.6
+Alexis Tibidi,Left Winger,19,France,1.5,Troyes,Ligue 1,Permanent,2.6
+Emmanuel Agbadou,Centre-Back,25,Cote d'Ivoire,2.5,Stade Reims,Ligue 1,Permanent,2.6
+Simone Canestrelli,Centre-Back,22,Italy,1.0,Pisa,Serie B,Permanent,2.6
+Borja Garcés,Centre-Forward,22,Spain,2.6,CD Tenerife,LaLiga2,Loan,
+Ben Davies,Centre-Back,26,England,2.5,Rangers,Premiership,Permanent,4.7
+Giacomo Vrioni,Centre-Forward,23,Albania,2.5,New England,MLS,Permanent,3.66
+Igoh Ogbu,Centre-Back,22,Nigeria,2.2,Slavia Prague,Fortuna Liga,Permanent,2.5
+Kilian Fischer,Right-Back,21,Germany,2.0,VfL Wolfsburg,Bundesliga,Permanent,2.5
+Daniel Karlsbakk,Centre-Forward,19,Norway,7.5,Heerenveen,Eredivisie,Permanent,2.5
+Diego Valencia,Centre-Forward,22,Chile,9.0,Salernitana,Serie A,Permanent,2.5
+Saïd Hamulic,Centre-Forward,22,Bosnia-Herzegovina,1.5,Toulouse,Ligue 1,Permanent,2.5
+Thijs Dallinga,Centre-Forward,21,Netherlands,1.1,Toulouse,Ligue 1,Permanent,2.5
+Joel Pohjanpalo,Centre-Forward,27,Finland,2.5,Venezia,Serie B,Permanent,2.5
+Alex Santana,Central Midfield,27,Brazil,2.0,Athletico-PR,Série A,Permanent,2.5
+Marko Rakonjac,Centre-Forward,22,Montenegro,1.5,Loko Moscow,Premier Liga,Permanent,2.5
+João Ferreira,Right-Back,21,Portugal,4.0,Watford,Championship,Permanent,2.5
+Zian Flemming,Attacking Midfield,23,Netherlands,2.0,Millwall,Championship,Permanent,2.5
+Sven Mijnans,Attacking Midfield,22,Netherlands,1.0,AZ Alkmaar,Eredivisie,Permanent,2.5
+Tiago Volpi,Goalkeeper,31,Brazil,2.5,Toluca,Liga MX Clausura,Permanent,2.5
+Víctor Méndez,Defensive Midfield,22,Chile,2.3,CSKA Moscow,Premier Liga,Permanent,2.5
+Jordy Caicedo,Centre-Forward,24,Ecuador,2.0,Tigres UANL,Liga MX Clausura,Permanent,2.5
+Mickaël Biron,Centre-Forward,24,Martinique,9.0,RWDM,Challenger Pro League,Permanent,2.5
+Sang-bin Jeong,Centre-Forward,20,"Korea, South",8.5,Minnesota,MLS,Permanent,2.5
+Harry Toffolo,Left-Back,26,England,2.5,Nottm Forest,Premier League,Permanent,2.4
+Mauro Laínez,Left Winger,26,Mexico,2.5,FC Juárez,Liga MX Clausura,Permanent,2.36
+Marcus Ingvartsen,Centre-Forward,26,Denmark,2.5,1.FSV Mainz 05,Bundesliga,Permanent,2.3
+Cauly,Attacking Midfield,27,Brazil,2.5,EC Bahia,Série A,Permanent,2.3
+William Böving,Centre-Forward,19,Denmark,2.5,Sturm Graz,Bundesliga,Permanent,2.2
+Thomas Ouwejan,Left-Back,25,Netherlands,2.5,FC Schalke 04,Bundesliga,Permanent,2.0
+Neraysho Kasanwirjo,Centre-Back,20,Netherlands,2.5,Feyenoord,Eredivisie,Permanent,2.0
+Filip Ugrinic,Left Midfield,23,Switzerland,2.5,BSC Young Boys,Super League,Permanent,2.0
+Gianluca Lapadula,Centre-Forward,32,Peru,2.5,Cagliari Calcio,Serie B,Permanent,2.0
+Niclas Eliasson,Right Midfield,26,Sweden,2.5,AEK Athens,Super League 1,Permanent,2.0
+Haji Wright,Centre-Forward,24,United States,2.5,Antalyaspor,Süper Lig,Permanent,1.88
+Dario Saric,Central Midfield,25,Bosnia-Herzegovina,2.5,Palermo,Serie B,Permanent,1.8
+Yago Felipe,Central Midfield,28,Brazil,2.5,EC Bahia,Série A,Permanent,1.8
+Leo Väisänen,Centre-Back,25,Finland,2.5,Austin,MLS,Permanent,1.8
+Steven Zuber,Left Winger,30,Switzerland,2.5,AEK Athens,Super League 1,Permanent,1.6
+Samuele Birindelli,Right-Back,22,Italy,2.5,Monza,Serie A,Permanent,1.6
+Hrvoje Babec,Defensive Midfield,22,Croatia,2.5,Riga,Virsliga,Permanent,1.6
+Ramon,Left-Back,21,Brazil,2.5,Olympiacos,Super League 1,Permanent,1.5
+Florent Mollet,Attacking Midfield,31,France,2.5,FC Nantes,Ligue 1,Permanent,1.5
+Raimonds Krollis,Centre-Forward,21,Latvia,2.5,Spezia Calcio,Serie A,Permanent,1.5
+Dembo Darboe,Centre-Forward,23,The Gambia,2.5,Al-Nasr SC,UAE Pro League,Permanent,1.5
+Mounir Chouiar,Left Winger,23,France,2.5,Basaksehir,Süper Lig,Permanent,1.5
+Lucas Cunha,Centre-Back,26,Brazil,2.5,RB Bragantino,Série A,Permanent,1.5
+Lei Wu,Right Winger,30,China,2.5,SH Port,Super League,Permanent,1.5
+Manuel Capasso,Centre-Back,26,Argentina,2.5,Vasco da Gama,Série A,Permanent,1.4
+Miguel Merentiel,Centre-Forward,26,Uruguay,2.5,Palmeiras,Série A,Permanent,1.4
+Vladimir Pisarskiy,Centre-Forward,26,Russia,2.5,KS Samara,Premier Liga,Permanent,1.35
+Afonso Sousa,Attacking Midfield,22,Portugal,2.5,Lech Poznan,Ekstraklasa,Permanent,1.2
+Edenilson,Central Midfield,33,Brazil,2.5,Atlético-MG,Série A,Permanent,1.2
+Halil Akbunar,Right Winger,29,Turkey,2.5,Eyüpspor,1.Lig,Permanent,1.2
+Calebe,Attacking Midfield,22,Brazil,2.5,Fortaleza,Série A,Permanent,1.1
+Antonio Candreva,Right Midfield,35,Italy,2.5,Salernitana,Serie A,Loan,
+Mijat Gacinovic,Left Midfield,27,Serbia,2.5,AEK Athens,Super League 1,Permanent,1.0
+Rubén Alcaraz,Central Midfield,31,Spain,2.5,Cádiz CF,LaLiga,Permanent,1.0
+Víctor Chust,Centre-Back,22,Spain,2.5,Cádiz CF,LaLiga,Permanent,1.0
+Nuno Santos,Attacking Midfield,23,Portugal,2.5,Charlotte,MLS,Permanent,1.0
+Kiko Femenía,Right-Back,31,Spain,2.5,Villarreal,LaLiga,Permanent,9.8
+Aziz,Centre-Forward,24,Ghana,2.5,WH Three Towns,Super League,Loan,
+Bill Tuiloma,Centre-Back,27,New Zealand,2.5,Charlotte,MLS,Permanent,7.5
+Andrés Perea,Defensive Midfield,22,United States,2.5,Philadelphia,MLS,Permanent,7.13
+Matías Godoy,Centre-Forward,20,Argentina,2.5,Estudiantes,Copa de la Liga,Permanent,7.03
+Dominique Heintz,Centre-Back,28,Germany,2.5,VfL Bochum,Bundesliga,Loan,
+Pipa,Right-Back,25,Spain,2.5,Ludogorets,efbet Liga,Permanent,6.0
+Jonathan Levi,Right Winger,27,Sweden,2.5,Puskás AFC,NB I.,Permanent,6.0
+Ferro,Centre-Back,25,Portugal,2.5,Hajduk Split,SuperSport HNL,Permanent,5.5
+Sebastian Lletget,Central Midfield,29,United States,2.5,Dallas,MLS,Permanent,5.46
+Philipp Förster,Attacking Midfield,27,Germany,2.5,VfL Bochum,Bundesliga,Permanent,5.0
+Irvin Cardona,Centre-Forward,25,France,2.5,FC Augsburg,Bundesliga,Permanent,5.0
+Lamine Fomba,Defensive Midfield,25,France,2.5,Saint-Étienne,Ligue 2,Permanent,5.0
+Muhammed Gümüskaya,Central Midfield,21,Turkey,2.5,KVC Westerlo,Jupiler Pro League,Permanent,5.0
+Fran Villalba,Attacking Midfield,24,Spain,2.5,Sporting Gijón,LaLiga2,Permanent,5.0
+Lazar Randjelovic,Right Winger,25,Serbia,2.5,Ural,Premier Liga,Loan,
+Javi Hernández,Left-Back,24,Spain,2.5,Girona,LaLiga,Loan,
+Malte Amundsen,Left-Back,25,Denmark,2.5,Columbus,MLS,Permanent,3.64
+Makhtar Gueye,Centre-Forward,24,Senegal,2.5,Real Zaragoza,LaLiga2,Loan,
+Alan Franco,Centre-Back,26,Argentina,2.5,São Paulo,Série A,Permanent,2.85
+Randy Nteka,Attacking Midfield,25,France,2.5,Elche CF,LaLiga,Loan,
+Tin Jedvaj,Centre-Back,27,Croatia,2.5,Al-Ain FC,UAE Pro League,Loan,
+Fran Villalba,Attacking Midfield,24,Spain,2.5,Málaga CF,LaLiga2,Loan,
+Mamadou Coulibaly,Central Midfield,23,Senegal,2.5,Ternana,Serie B,Loan,
+Danny Leyva,Defensive Midfield,19,United States,2.5,Colorado,MLS,Loan,
+Leo Greiml,Centre-Back,20,Austria,2.5,FC Schalke 04,Bundesliga,Free,
+Michal Karbownik,Left-Back,21,Poland,2.5,F. Düsseldorf,2. Bundesliga,Loan,
+Vital Nsimba,Left-Back,29,DR Congo,2.5,G. Bordeaux,Ligue 2,Free,
+Javi Montero,Centre-Back,24,Spain,2.5,Hamburger SV,2. Bundesliga,Loan,
+Marco John,Left-Back,20,Germany,2.5,Greuther Fürth,2. Bundesliga,Loan,
+Albian Ajeti,Centre-Forward,25,Switzerland,2.5,Sturm Graz,Bundesliga,Loan,
+Juan Mata,Attacking Midfield,34,Spain,2.5,Galatasaray,Süper Lig,Free,
+Miguel Merentiel,Centre-Forward,26,Uruguay,2.5,Boca Juniors,Copa de la Liga,Loan,
+Bas Dost,Centre-Forward,33,Netherlands,2.5,FC Utrecht,Eredivisie,Free,
+Nathan,Attacking Midfield,27,Brazil,2.5,Grêmio,Série A,Free,
+Fredrik Björkan,Left-Back,24,Norway,2.5,Feyenoord,Eredivisie,Loan,
+Willem Geubbels,Left Winger,21,France,2.5,FC St. Gallen,Super League,Free,
+Hördur Magnússon,Centre-Back,29,Iceland,2.5,Panathinaikos,Super League 1,Free,
+Nikolai Baden Frederiksen,Centre-Forward,22,Denmark,2.5,Ferencváros,NB I.,Loan,
+Elisha Owusu,Defensive Midfield,25,Ghana,2.5,AJ Auxerre,Ligue 1,Unknown,
+Siriki Dembélé,Left Winger,26,Scotland,2.5,AJ Auxerre,Ligue 1,Loan,
+Gideon Mensah,Left-Back,24,Ghana,2.5,AJ Auxerre,Ligue 1,Unknown,
+Renzo Saravia,Right-Back,29,Argentina,2.5,Atlético-MG,Série A,Free,
+Rubén Peña,Right-Back,30,Spain,2.5,CA Osasuna,LaLiga,Free,
+Aitor Fernández,Goalkeeper,31,Spain,2.5,CA Osasuna,LaLiga,Free,
+Tommy Doyle,Central Midfield,20,England,2.5,Sheff Utd,Championship,Loan,
+Zouhair Feddal,Centre-Back,32,Morocco,2.5,Real Valladolid,LaLiga,Free,
+Moritz Jenz,Centre-Back,23,Germany,2.5,Celtic,Premiership,Loan,
+Iñigo Córdoba,Left Winger,25,Spain,2.5,Fortuna Sittard,Eredivisie,Free,
+Sandi Lovric,Central Midfield,24,Slovenia,2.5,Udinese Calcio,Serie A,Free,
+Mauro Perkovic,Centre-Back,19,Croatia,2.5,Dinamo Zagreb,SuperSport HNL,Loan,
+Josh Onomah,Central Midfield,25,England,2.5,Preston,Championship,Free,
+Loren Morón,Centre-Forward,29,Spain,2.5,UD Las Palmas,LaLiga2,Loan,
+Ben Pearson,Central Midfield,28,England,2.5,Stoke City,Championship,Loan,
+Yann Gboho,Attacking Midfield,21,France,2.5,Cercle Brugge,Jupiler Pro League,Free,
+Finn Ole Becker,Central Midfield,22,Germany,2.5,TSG Hoffenheim,Bundesliga,Free,
+Marlon Freitas,Defensive Midfield,27,Brazil,2.5,Botafogo,Série A,Free,
+Jhegson Méndez,Defensive Midfield,25,Ecuador,2.5,São Paulo,Série A,Free,
+Michel Araújo,Attacking Midfield,26,Uruguay,2.5,São Paulo,Série A,Loan,
+Marcos Guilherme,Left Winger,26,Brazil,2.5,São Paulo,Série A,Free,
+Dorian Dessoleil,Centre-Back,29,Belgium,2.5,KV Kortrijk,Jupiler Pro League,Loan,
+Sory Kaba,Centre-Forward,27,Guinea,2.5,Cardiff,Championship,Loan,
+Andy Rinomhota,Central Midfield,25,England,2.5,Cardiff,Championship,Free,
+Nicolas N'Koulou,Centre-Back,32,Cameroon,2.5,Aris Saloniki,Super League 1,Free,
+Denis Cheryshev,Left Winger,31,Russia,2.5,Venezia,Serie B,Free,
+Mateus Vital,Attacking Midfield,24,Brazil,2.5,Cruzeiro,Série A,Free,
+Guillermo Varela,Right-Back,29,Uruguay,2.5,Flamengo,Série A,Loan,
+Niels Nkounkou,Left-Back,22,France,2.5,Saint-Étienne,Ligue 2,Loan,
+Brian Oliván,Left-Back,28,Spain,2.5,Espanyol,LaLiga,Free,
+Dani Gómez,Centre-Forward,24,Spain,2.5,Espanyol,LaLiga,Loan,
+José Carlos Lazo,Left Winger,26,Spain,2.5,Espanyol,LaLiga,Free,
+Alberto Grassi,Defensive Midfield,27,Italy,2.5,FC Empoli,Serie A,Loan,
+Bruno Gomes,Central Midfield,21,Brazil,2.5,Coritiba FC,Série A,Loan,
+Loïc Mbe Soh,Centre-Back,21,France,2.5,Guingamp,Ligue 2,Loan,
+Emiliano Martínez,Defensive Midfield,23,Uruguay,2.5,FC Midtjylland,Superligaen,Loan,
+Francisco Ginella,Central Midfield,23,Uruguay,2.5,Nacional,Primera División Clausura,Loan,
+CJ Egan-Riley,Centre-Back,20,England,2.5,Hibernian FC,Premiership,Loan,
+Martin Boyle,Right Winger,29,Australia,2.5,Hibernian FC,Premiership,Unknown,
+Shane Duffy,Centre-Back,31,Ireland,2.5,Fulham,Premier League,Unknown,
+Ivan,Goalkeeper,25,Brazil,2.5,Zenit S-Pb,Premier Liga,Loan,
+Robson Bambu,Centre-Back,25,Brazil,2.5,Vasco da Gama,Série A,Loan,
+Nathaniel Chalobah,Defensive Midfield,28,England,2.5,West Brom,Championship,Unknown,
+Jonathan Panzo,Centre-Back,21,England,2.5,Coventry,Championship,Loan,
+Keinan Davis,Centre-Forward,24,England,2.5,Watford,Championship,Loan,
+Jamie Shackleton,Central Midfield,22,England,2.5,Millwall,Championship,Loan,
+Tim Iroegbunam,Central Midfield,19,England,2.5,QPR,Championship,Loan,
+Cesc Fàbregas,Central Midfield,35,Spain,2.5,Como,Serie B,Free,
+Ryan Nyambe,Right-Back,24,Namibia,2.5,Wigan,Championship,Free,
+Víctor Gómez,Right-Back,22,Spain,2.5,SC Braga,Liga Portugal,Loan,
+Diego Lainez,Right Winger,22,Mexico,2.5,SC Braga,Liga Portugal,Loan,
+Jonas Martin,Defensive Midfield,32,France,2.5,LOSC Lille,Ligue 1,Free,
+Tiago Dantas,Central Midfield,21,Portugal,2.5,PAOK Salonika,Super League 1,Loan,
+Asier Villalibre,Centre-Forward,25,Spain,2.5,Alavés,LaLiga2,Loan,
+Tomas Vaclik,Goalkeeper,33,Czech Republic,2.5,Huddersfield,Championship,Free,
+Alexis Peña,Centre-Back,26,Mexico,2.5,Necaxa,Liga MX Clausura,Unknown,
+José Esquivel,Defensive Midfield,24,Mexico,2.5,Necaxa,Liga MX Clausura,Free,
+Ben Mee,Centre-Back,32,England,2.5,Brentford,Premier League,Free,
+Gédéon Kalulu,Right-Back,24,DR Congo,2.5,FC Lorient,Ligue 1,Free,
+Emerson Rodríguez,Right Midfield,22,Colombia,2.5,Santos Laguna,Liga MX Clausura,Loan,
+Jérémy Gélin,Centre-Back,25,France,2.5,Amiens SC,Ligue 2,Free,
+Yan Valery,Right-Back,23,Tunisia,2.5,Angers SCO,Ligue 1,Unknown,
+João Carvalho,Attacking Midfield,25,Portugal,2.5,Estoril Praia,Liga Portugal,Loan,
+Isaac Atanga,Right Winger,22,Ghana,2.5,Göztepe,1.Lig,Loan,
+Lisandro Magallán,Centre-Back,29,Argentina,2.5,Elche CF,LaLiga,Free,
+Andriy Yarmolenko,Right Winger,32,Ukraine,2.5,Al-Ain FC,UAE Pro League,Free,
+Pere Pons,Defensive Midfield,29,Spain,2.5,AEK Larnaca,Protathlima Cyta,Free,
+Gonzalo Escalante,Central Midfield,29,Argentina,2.5,Cremonese,Serie A,Loan,
+Gabriel Silva,Right Winger,20,Brazil,2.5,Santa Clara,Liga Portugal,Loan,
+Matheus Babi,Centre-Forward,25,Brazil,2.5,Santa Clara,Liga Portugal,Loan,
+Filip Stevanovic,Left Winger,19,Serbia,2.5,Santa Clara,Liga Portugal,Loan,
+Marcelo,Left-Back,34,Brazil,2.5,Fluminense,Série A,Free,
+Raúl Moro,Left Winger,20,Spain,2.5,Real Oviedo,LaLiga2,Loan,
+Achraf Bencharki,Left Winger,27,Morocco,2.5,Al-Jazira,UAE Pro League,Free,
+Roger Martí,Centre-Forward,32,Spain,2.5,Cádiz CF,LaLiga,Unknown,
+Sergi Guardiola,Centre-Forward,31,Spain,2.5,Cádiz CF,LaLiga,Loan,
+Alfie Mawson,Centre-Back,28,England,2.5,Wycombe,League One,Free,
+Marley Aké,Left Winger,22,France,2.5,Dijon,Ligue 2,Loan,
+Ryan Woods,Defensive Midfield,28,England,2.5,Hull City,Championship,Unknown,
+Michael Ngadeu,Centre-Back,32,Cameroon,2.5,BJ Guoan,Super League,Free,
+Souza,Defensive Midfield,34,Brazil,2.5,BJ Guoan,Super League,Free,
+Martín Aguirregabiria,Right-Back,26,Spain,2.5,Famalicão,Liga Portugal,Free,
+Santiago Colombatto,Defensive Midfield,25,Argentina,2.5,Famalicão,Liga Portugal,Loan,
+Mathias Pereira Lage,Right Midfield,25,France,2.5,Stade Brestois,Ligue 1,Free,
+Javier Eduardo López,Attacking Midfield,27,Mexico,2.5,Pachuca,Liga MX Clausura,Unknown,
+Adel Taarabt,Central Midfield,33,Morocco,2.5,Al-Nasr SC,UAE Pro League,Free,
+Alessandro Schöpf,Right Midfield,28,Austria,2.5,Vancouver,MLS,Free,
+Magomed Ozdoev,Central Midfield,29,Russia,2.5,Karagümrük,Süper Lig,Free,
+Diego Lainez,Right Winger,22,Mexico,2.5,Tigres UANL,Liga MX Clausura,Loan,
+Vladimir Loroña,Right-Back,23,Mexico,2.5,Tigres UANL,Liga MX Clausura,Unknown,
+Joe Lolley,Right Winger,29,England,2.5,Sydney FC,A-League Men,Free,
+Idekel Domínguez,Right-Back,22,Mexico,2.5,Atlas,Liga MX Clausura,Unknown,
+Edison Flores,Left Winger,28,Peru,2.5,Atlas,Liga MX Clausura,Unknown,
+Mauro Manotas,Centre-Forward,26,Colombia,2.5,Atlas,Liga MX Clausura,Unknown,
+Chase Gasper,Left-Back,27,United States,2.5,Houston,MLS,Free,
+Mariusz Stepinski,Centre-Forward,27,Poland,2.5,Aris Limassol,Protathlima Cyta,Loan,
+Richie Laryea,Right-Back,27,Canada,2.5,Toronto,MLS,Loan,
+Mamadou Mbacke,Centre-Back,19,Senegal,2.5,Villarreal CF B,LaLiga2,Loan,
+Toni Villa,Left Winger,27,Spain,2.5,Girona,LaLiga,Free,
+Nico Serrano,Left Winger,19,Spain,2.5,CD Mirandés,LaLiga2,Loan,
+Darlan,Defensive Midfield,24,Brazil,2.5,Chapecoense,Série B,Loan,
+Álvaro González,Centre-Back,32,Spain,2.5,Al-Nassr FC,Saudi Pro League,Free,
+Sebastián Lomónaco,Centre-Forward,24,Argentina,2.5,La Calera,Primera División,Free,
+Valon Berisha,Central Midfield,29,Kosovo,2.5,Melbourne City,A-League Men,Loan,
+Deyverson,Centre-Forward,31,Brazil,2.5,Cuiabá-MT,Série A,Free,
+Morgan Schneiderlin,Defensive Midfield,33,France,2.5,Western Sydney,A-League Men,Loan,
+Daniel Bessa,Central Midfield,29,Italy,2.5,Ittihad Kalba,UAE Pro League,Free,
+Aké Loba,Centre-Forward,24,Cote d'Ivoire,2.5,Mazatlán FC,Liga MX Clausura,Loan,
+Jorge Meré,Centre-Back,25,Spain,2.5,Mazatlán FC,Liga MX Clausura,Loan,
+Juan José Perea,Centre-Forward,22,Colombia,1.2,VfB Stuttgart,Bundesliga,Permanent,2.4
+Arthur Chaves,Centre-Back,21,Brazil,0.5,Académico Viseu,Liga Sabseg,Permanent,2.4
+Ernesto Torregrossa,Centre-Forward,30,Venezuela,2.4,Pisa,Serie B,Permanent,1.8
+Matías Cóccaro,Centre-Forward,24,Uruguay,2.4,Huracán,Liga Profesional,Permanent,4.65
+Luca Mazzitelli,Defensive Midfield,26,Italy,2.4,Frosinone,Serie B,Loan,
+Antonino La Gumina,Centre-Forward,26,Italy,2.4,Benevento,Serie B,Loan,
+Georgios Koutsias,Centre-Forward,19,Greece,1.2,Chicago,MLS,Permanent,2.36
+Pedro Pereira,Right-Back,24,Portugal,2.3,Monza,Serie A,Permanent,2.87
+Daniel Ballard,Centre-Back,22,Northern Ireland,2.0,Sunderland,Championship,Permanent,2.3
+Josh Bowler,Right Winger,23,England,2.0,Nottm Forest,Premier League,Permanent,2.3
+Julien Le Cardinal,Right-Back,25,France,1.0,Lens,Ligue 1,Permanent,2.3
+Mees de Wit,Left-Back,24,Netherlands,1.5,AZ Alkmaar,Eredivisie,Permanent,2.3
+Gabriel Rojas,Left-Back,25,Argentina,1.2,Racing Club,Copa de la Liga,Permanent,2.3
+Eden Karzev,Defensive Midfield,22,Israel,2.0,Basaksehir,Süper Lig,Permanent,2.3
+Henry Mosquera,Left Winger,21,Colombia,4.0,RB Bragantino,Série A,Permanent,2.3
+David Nemeth,Centre-Back,21,Austria,2.3,FC St. Pauli,2. Bundesliga,Permanent,1.3
+Andi Zeqiri,Centre-Forward,23,Switzerland,2.3,FC Basel,Super League,Loan,
+Danny da Costa,Right-Back,28,Germany,2.3,1.FSV Mainz 05,Bundesliga,Free,
+Ángel Romero,Left Winger,30,Paraguay,2.3,Corinthians,Série A,Free,
+Benjamin Tetteh,Centre-Forward,25,Ghana,2.3,Hull City,Championship,Free,
+Mehrdad Mohammadi,Right Winger,28,Iran,2.3,Al-Sailiya SC,Stars League,Unknown,
+Ángel González,Right Winger,28,Argentina,2.3,LDU Quito,Serie A Segunda Etapa,Unknown,
+Günay Güvenc,Goalkeeper,31,Turkey,2.3,Kasimpasa,Süper Lig,Loan,
+Jure Balkovec,Left-Back,27,Slovenia,2.3,Alanyaspor,Süper Lig,Free,
+Pedro Pereira,Right-Back,24,Portugal,2.3,Alanyaspor,Süper Lig,Loan,
+Javier Salas,Defensive Midfield,28,Mexico,2.3,FC Juárez,Liga MX Clausura,Unknown,
+Wilfried Kanga,Centre-Forward,24,Cote d'Ivoire,2.2,Hertha BSC,Bundesliga,Permanent,5.0
+Tolu Arokodare,Centre-Forward,22,Nigeria,2.2,Amiens SC,Ligue 2,Permanent,2.5
+Gastón Brugman,Defensive Midfield,29,Uruguay,2.0,Los Angeles,MLS,Permanent,2.2
+Ousmane Camara,Centre-Back,19,France,2.0,Angers SCO,Ligue 1,Permanent,2.2
+Pieros Sotiriou,Centre-Forward,29,Cyprus,2.2,Sanf. Hiroshima,J1 League,Permanent,2.0
+Léo Duarte,Centre-Back,25,Brazil,2.2,Basaksehir,Süper Lig,Permanent,2.0
+Erik,Right Winger,28,Brazil,2.2,Machida Zelvia,J2 League,Permanent,1.86
+Sebastian Polter,Centre-Forward,31,Germany,2.2,FC Schalke 04,Bundesliga,Permanent,1.5
+Bryan Linssen,Centre-Forward,31,Netherlands,2.2,Urawa Reds,J1 League,Permanent,1.3
+Jean-Luc Dompé,Left Winger,27,France,2.2,Hamburger SV,2. Bundesliga,Permanent,1.1
+Lorenzo Pirola,Centre-Back,20,Italy,2.2,Salernitana,Serie A,Loan,
+Florian Niederlechner,Centre-Forward,32,Germany,2.2,Hertha BSC,Bundesliga,Permanent,8.0
+Samuel Bastien,Central Midfield,25,DR Congo,2.2,Burnley,Championship,Permanent,8.0
+Rafael Pérez,Centre-Back,33,Colombia,2.2,San Lorenzo,Copa de la Liga,Permanent,6.44
+Kristijan Bistrovic,Central Midfield,24,Croatia,2.2,Lecce,Serie A,Loan,
+Alexander Jeremejeff,Centre-Forward,29,Sweden,2.2,Panathinaikos,Super League 1,Permanent,2.7
+Facundo Altamirano,Goalkeeper,26,Argentina,2.2,San Lorenzo,Copa de la Liga,Loan,
+Alex Vigo,Right-Back,23,Argentina,2.2,Red Star,Super liga Srbije,Loan,
+Paul Seguin,Central Midfield,27,Germany,2.2,Union Berlin,Bundesliga,Free,
+Milos Pantovic,Attacking Midfield,25,Serbia,2.2,Union Berlin,Bundesliga,Free,
+Josep Martínez,Goalkeeper,24,Spain,2.2,Genoa,Serie B,Loan,
+Yassine Benrahou,Attacking Midfield,24,Morocco,2.2,Hajduk Split,SuperSport HNL,Free,
+Leo Stulac,Defensive Midfield,27,Slovenia,2.2,Palermo,Serie B,Loan,
+Landry Dimata,Centre-Forward,24,Belgium,2.2,NEC Nijmegen,Eredivisie,Loan,
+Kjell Scherpen,Goalkeeper,22,Netherlands,2.2,Vitesse,Eredivisie,Loan,
+Josh Laurent,Central Midfield,27,England,2.2,Stoke City,Championship,Free,
+Niels Nkounkou,Left-Back,21,France,2.2,Cardiff,Championship,Loan,
+Marlon,Left-Back,25,Brazil,2.2,Cruzeiro,Série A,Free,
+André Ayew,Left Winger,33,Ghana,2.2,Nottm Forest,Premier League,Free,
+Koni De Winter,Centre-Back,20,Belgium,2.2,FC Empoli,Serie A,Loan,
+Paulo Victor,Left-Back,21,Brazil,2.2,Vasco da Gama,Série B,Loan,
+Charalampos Lykogiannis,Left-Back,28,Greece,2.2,Bologna,Serie A,Free,
+Abdul-Rahman Baba,Left-Back,28,Ghana,2.2,Reading,Championship,Loan,
+Damián Batallini,Right Winger,26,Argentina,2.2,Necaxa,Liga MX Clausura,Loan,
+Domingos Quina,Central Midfield,22,Portugal,2.2,Elche CF,LaLiga,Loan,
+Alexander Jeremejeff,Centre-Forward,29,Sweden,2.2,APO Levadiakos,Super League 1,Loan,
+Fredrik Gulbrandsen,Centre-Forward,29,Norway,2.2,Adana Demirspor,Süper Lig,Free,
+Ishak Belfodil,Centre-Forward,30,Algeria,2.2,Al-Gharafa SC,Stars League,Free,
+Borja Sainz,Left Winger,21,Spain,2.2,Giresunspor,Süper Lig,Unknown,
+Pietro Beruatto,Left-Back,23,Italy,2.0,Pisa,Serie B,Permanent,2.1
+Sergio Córdova,Centre-Forward,25,Venezuela,1.2,Vancouver,MLS,Permanent,2.1
+Ibrahim Aliyu,Centre-Forward,21,Nigeria,1.3,Houston,MLS,Permanent,2.1
+Sofian Kiyine,Left Midfield,24,Morocco,2.1,OH Leuven,Jupiler Pro League,Permanent,1.6
+Jerónimo Cacciabue,Central Midfield,24,Argentina,2.1,Miedz Legnica,Ekstraklasa,Loan,
+Jens Odgaard,Right Winger,23,Denmark,2.0,AZ Alkmaar,Eredivisie,Permanent,3.59
+Emil Konradsen Ceide,Left Winger,20,Norway,2.0,Sassuolo,Serie A,Permanent,2.85
+Enrico Del Prato,Right-Back,22,Italy,2.0,Parma,Serie B,Permanent,2.75
+Gabriel Florentín,Attacking Midfield,23,Argentina,2.0,Orenburg,Premier Liga,Permanent,2.2
+Gustavo Puerta,Central Midfield,19,Colombia,3.5,B. Leverkusen,Bundesliga,Permanent,2.0
+Oscar Fraulo,Central Midfield,18,Denmark,3.5,Bor. M'gladbach,Bundesliga,Permanent,2.0
+Emre Mor,Right Winger,24,Turkey,1.7,Fenerbahce,Süper Lig,Permanent,2.0
+Delano Burgzorg,Left Winger,23,Netherlands,2.0,1.FSV Mainz 05,Bundesliga,Permanent,2.0
+Alexi Pitu,Left Winger,20,Romania,1.4,G. Bordeaux,Ligue 2,Permanent,2.0
+Jessic Ngankam,Centre-Forward,21,Germany,2.0,Hertha BSC,Bundesliga,Permanent,2.0
+Emrecan Uzunhan,Centre-Back,21,Turkey,5.25,Besiktas,Süper Lig,Permanent,2.0
+Tomás Tavares,Right-Back,21,Portugal,2.0,Spartak Moscow,Premier Liga,Permanent,2.0
+Mateusz Praszelik,Attacking Midfield,22,Poland,1.2,Hellas Verona,Serie A,Permanent,2.0
+Michel Vlap,Attacking Midfield,25,Netherlands,2.0,Twente FC,Eredivisie,Permanent,2.0
+Mikael,Centre-Forward,23,Brazil,2.0,Salernitana,Serie A,Permanent,2.0
+Leonardo Buta,Left-Back,20,Portugal,4.5,Udinese Calcio,Serie A,Permanent,2.0
+Zakaria Aboukhlal,Right Winger,22,Morocco,2.0,Toulouse,Ligue 1,Permanent,2.0
+Marcin Bulka,Goalkeeper,22,Poland,2.0,OGC Nice,Ligue 1,Permanent,2.0
+Diego Hernández,Left Winger,22,Uruguay,2.0,Botafogo,Série A,Permanent,2.0
+Boubacar Traoré,Defensive Midfield,21,Mali,1.8,Wolves,Premier League,Loan,
+Oleksandr Zubkov,Right Winger,26,Ukraine,1.8,Shakhtar D.,Premier Liga,Permanent,2.0
+Doron Leidner,Left-Back,20,Israel,1.2,Olympiacos,Super League 1,Permanent,2.0
+Nuraly Alip,Centre-Back,23,Kazakhstan,1.2,Zenit S-Pb,Premier Liga,Permanent,2.0
+Daniel Samek,Defensive Midfield,18,Czech Republic,2.0,Lecce,Serie A,Permanent,2.0
+Lameck Banda,Left Winger,21,Zambia,3.0,Lecce,Serie A,Permanent,2.0
+Carlton Morris,Centre-Forward,26,England,1.0,Luton,Championship,Permanent,2.0
+Veton Berisha,Centre-Forward,28,Norway,1.3,Hammarby,Allsvenskan,Permanent,2.0
+Alexsandro,Centre-Back,22,Brazil,8.0,LOSC Lille,Ligue 1,Permanent,2.0
+Dominik Kotarski,Goalkeeper,22,Croatia,1.5,PAOK Salonika,Super League 1,Permanent,2.0
+Anouar Ait El Hadj,Attacking Midfield,20,Belgium,2.0,KRC Genk,Jupiler Pro League,Permanent,2.0
+Amir Richardson,Central Midfield,20,Morocco,1.3,Stade Reims,Ligue 1,Permanent,2.0
+Vlad Chiriches,Centre-Back,32,Romania,1.8,Cremonese,Serie A,Permanent,2.0
+Giacomo Quagliata,Left-Back,22,Italy,8.0,Cremonese,Serie A,Permanent,2.0
+Willyan Rocha,Centre-Back,27,Brazil,1.5,CSKA Moscow,Premier Liga,Permanent,2.0
+Emre Demir,Attacking Midfield,18,Turkey,1.8,Barça Atlètic,Primera Federación - Gr. II,Permanent,2.0
+Victor Boniface,Centre-Forward,21,Nigeria,7.0,Union SG,Jupiler Pro League,Permanent,2.0
+Stefano Moreo,Centre-Forward,29,Italy,1.0,Pisa,Serie B,Permanent,2.0
+Riccardo Ciervo,Left Winger,20,Italy,1.5,Sassuolo,Serie A,Permanent,2.0
+Ahmed Touba,Centre-Back,24,Algeria,1.0,Basaksehir,Süper Lig,Permanent,2.0
+Roggerio Nyakossi,Centre-Back,18,Switzerland,1.0,Marseille B,N3 - Corse-Méditer.,Permanent,2.0
+Douglas Mendes,Centre-Back,18,Brazil,2.0,RB Bragantino,Série A,Permanent,2.0
+Diego Rosa,Central Midfield,20,Brazil,7.0,EC Bahia,Série A,Permanent,2.0
+Tommaso Mancini,Centre-Forward,18,Italy,5.0,Juventus U19,Primavera 1,Permanent,2.0
+Kady Borges,Attacking Midfield,26,Brazil,1.2,Krasnodar,Premier Liga,Permanent,2.0
+Facundo Waller,Left Midfield,25,Uruguay,1.8,San Luis,Liga MX Clausura,Permanent,2.0
+Joao Rojas,Left Winger,24,Ecuador,2.0,Monterrey,Liga MX Clausura,Permanent,1.9
+Brian Ocampo,Left Winger,23,Uruguay,2.0,Cádiz CF,LaLiga,Permanent,1.9
+Cedric Itten,Centre-Forward,25,Switzerland,2.0,BSC Young Boys,Super League,Permanent,1.82
+José Luis Rodríguez,Right-Back,25,Uruguay,2.0,Vasco da Gama,Série A,Permanent,1.8
+Rayan Raveloson,Defensive Midfield,25,Madagascar,2.0,AJ Auxerre,Ligue 1,Permanent,1.75
+Osame Sahraoui,Left Winger,21,Norway,2.0,Heerenveen,Eredivisie,Permanent,1.7
+Biel,Left Winger,21,Brazil,2.0,EC Bahia,Série A,Permanent,1.6
+Jessic Ngankam,Centre-Forward,21,Germany,2.0,Greuther Fürth,2. Bundesliga,Permanent,1.5
+Khaled Narey,Right Winger,27,Germany,2.0,PAOK Salonika,Super League 1,Permanent,1.5
+Andreas Bruus,Right-Back,23,Denmark,2.0,Troyes,Ligue 1,Permanent,1.5
+Lucas Vera,Central Midfield,25,Argentina,2.0,Orenburg,Premier Liga,Permanent,1.5
+Moustapha Name,Central Midfield,27,Senegal,2.0,Pafos FC,Protathlima Cyta,Permanent,1.5
+Ohi Omoijuanfo,Centre-Forward,28,Norway,2.0,Bröndby IF,Superligaen,Permanent,1.35
+Ramiro Carrera,Right Midfield,29,Argentina,2.0,CD Cruz Azul,Liga MX Clausura,Permanent,1.3
+Andrés Andrade,Centre-Back,23,Panama,2.0,Arm. Bielefeld,2. Bundesliga,Permanent,1.25
+Oscar Vilhelmsson,Centre-Forward,18,Sweden,2.0,Darmstadt 98,2. Bundesliga,Permanent,1.2
+Dogucan Haspolat,Defensive Midfield,22,Turkey,2.0,Trabzonspor,Süper Lig,Permanent,1.2
+Matías Segovia,Attacking Midfield,20,Paraguay,2.0,Botafogo,Série A,Permanent,1.2
+Krzysztof Kubica,Central Midfield,22,Poland,2.0,Benevento,Serie B,Permanent,1.2
+João Lucas,Right-Back,24,Brazil,2.0,Santos,Série A,Permanent,1.1
+Srdjan Babic,Centre-Back,26,Serbia,2.0,UD Almería,LaLiga,Permanent,1.1
+Dan Barlaser,Central Midfield,26,England,2.0,Middlesbrough,Championship,Permanent,1.03
+Gil Dias,Right Winger,26,Portugal,2.0,VfB Stuttgart,Bundesliga,Permanent,1.0
+Genki Haraguchi,Attacking Midfield,31,Japan,2.0,VfB Stuttgart,Bundesliga,Permanent,1.0
+Amer Gojak,Attacking Midfield,25,Bosnia-Herzegovina,2.0,Ferencváros,NB I.,Permanent,1.0
+Francesco Di Mariano,Left Winger,26,Italy,2.0,Palermo,Serie B,Permanent,1.0
+Pipa,Right-Back,24,Spain,2.0,Olympiacos,Super League 1,Permanent,1.0
+Bruno Gomes,Central Midfield,21,Brazil,2.0,Coritiba FC,Série A,Permanent,1.0
+Lucas Pérez,Centre-Forward,34,Spain,2.0,Dep. La Coruña,Primera Federación - Gr. I,Permanent,1.0
+Zidan Sertdemir,Central Midfield,17,Denmark,2.0,Nordsjaelland,Superligaen,Permanent,1.0
+Milan Pavkov,Centre-Forward,28,Serbia,2.0,Al-Fayha,Saudi Pro League,Permanent,1.0
+Yanis Hamache,Left-Back,23,Algeria,2.0,SK Dnipro-1,Premier Liga,Permanent,1.0
+Eduard Löwen,Central Midfield,25,Germany,2.0,St. Louis CITY,United States,Permanent,1.0
+Sergio Santos,Centre-Forward,27,Brazil,2.0,Cincinnati,MLS,Permanent,8.41
+András Németh,Centre-Forward,20,Hungary,2.0,Hamburger SV,2. Bundesliga,Permanent,7.5
+Tommaso Milanese,Central Midfield,19,Italy,2.0,Cremonese,Serie A,Permanent,7.5
+Renato Steffen,Right Winger,30,Switzerland,2.0,FC Lugano,Super League,Permanent,7.5
+Fernando Sobral,Central Midfield,28,Brazil,2.0,Cuiabá-MT,Série A,Permanent,7.5
+William Mikelbrencis,Right-Back,18,France,2.0,Hamburger SV,2. Bundesliga,Permanent,7.0
+Hamidou Traore,Defensive Midfield,25,Mali,2.0,Partizan,Super liga Srbije,Permanent,7.0
+Jean Evrard Kouassi,Left Winger,27,Cote d'Ivoire,2.0,Karagümrük,Süper Lig,Loan,
+Adam Gnezda Cerin,Central Midfield,22,Slovenia,2.0,Panathinaikos,Super League 1,Permanent,6.5
+Andreas Maxsö,Centre-Back,28,Denmark,2.0,Colorado,MLS,Permanent,6.5
+Kanya Fujimoto,Attacking Midfield,23,Japan,2.0,Gil Vicente,Liga Portugal,Permanent,6.0
+Isidro Pitta,Centre-Forward,23,Paraguay,2.0,Cuiabá-MT,Série A,Permanent,6.0
+Irfan Can Egribayat,Goalkeeper,24,Turkey,2.0,Fenerbahce,Süper Lig,Loan,
+László Kleinheisler,Attacking Midfield,28,Hungary,2.0,Panathinaikos,Super League 1,Permanent,5.0
+Nicolò Cambiaghi,Left Winger,21,Italy,2.0,FC Empoli,Serie A,Loan,
+Rodrigo Pinho,Centre-Forward,31,Brazil,2.0,Coritiba FC,Série A,Permanent,5.0
+Federico Di Francesco,Left Winger,28,Italy,2.0,Lecce,Serie A,Permanent,5.0
+Samuel Umtiti,Centre-Back,28,France,2.0,Lecce,Serie A,Loan,
+Cenk Özkacar,Centre-Back,21,Turkey,2.0,Valencia,LaLiga,Loan,
+Silvije Begic,Centre-Back,29,Croatia,2.0,Ural,Premier Liga,Permanent,5.0
+Mailson,Goalkeeper,25,Brazil,2.0,Al-Taawoun,Saudi Pro League,Permanent,5.0
+Aarón Herrera,Right-Back,25,Guatemala,2.0,Montréal,MLS,Permanent,4.71
+Joaquín Torres,Right Winger,25,Argentina,2.0,Philadelphia,MLS,Permanent,4.6
+Carlitos,Centre-Forward,32,Spain,2.0,Legia Warszawa,Ekstraklasa,Permanent,4.0
+Alef Manga,Left Winger,28,Brazil,2.0,Coritiba FC,Série A,Permanent,4.0
+Marrony,Right Winger,23,Brazil,2.0,Fluminense,Série A,Loan,
+Héber,Centre-Forward,31,Brazil,2.0,Seattle,MLS,Permanent,3.75
+Cristian Dájome,Left Winger,29,Colombia,2.0,D.C. United,MLS,Permanent,3.18
+Anthony Kalik,Attacking Midfield,24,Australia,2.0,Hajduk Split,SuperSport HNL,Permanent,3.0
+Isaac Atanga,Right Winger,22,Ghana,2.0,Aalesund,Eliteserien,Permanent,3.0
+Jacob Shaffelburg,Left Winger,22,Canada,2.0,Nashville,MLS,Permanent,3.0
+Jacob Shaffelburg,Left Winger,22,Canada,2.0,Nashville,MLS,Loan,
+Sebastien Thill,Central Midfield,28,Luxembourg,2.0,Hansa Rostock,2. Bundesliga,Permanent,2.0
+David,Left Winger,27,Brazil,2.0,São Paulo,Série A,Loan,
+Jorman Campuzano,Defensive Midfield,26,Colombia,2.0,Giresunspor,Süper Lig,Loan,
+Flávio,Central Midfield,26,Brazil,2.0,Al-Taawoun,Saudi Pro League,Loan,
+Paul Nardi,Goalkeeper,28,France,2.0,KAA Gent,Jupiler Pro League,Permanent,1.5
+Darijan Bojanic,Central Midfield,28,Sweden,2.0,Ulsan Hyundai,K League 1,Permanent,1.0
+Matous Trmal,Goalkeeper,23,Czech Republic,2.0,Marítimo,Liga Portugal,Loan,
+Florian Flick,Defensive Midfield,22,Germany,2.0,1.FC Nuremberg,2. Bundesliga,Loan,
+Mateo Klimowicz,Attacking Midfield,22,Germany,2.0,Arm. Bielefeld,2. Bundesliga,Loan,
+Mile Svilar,Goalkeeper,22,Serbia,2.0,AS Roma,Serie A,Free,
+Pablo Rodríguez,Second Striker,21,Spain,2.0,Brescia,Serie B,Loan,
+Zeki Amdouni,Centre-Forward,21,Switzerland,2.0,FC Basel,Super League,Loan,
+Zuriko Davitashvili,Right Winger,21,Georgia,2.0,G. Bordeaux,Ligue 2,Loan,
+Jan Vertonghen,Centre-Back,35,Belgium,2.0,RSC Anderlecht,Jupiler Pro League,Free,
+Pierre Kunde,Central Midfield,27,Cameroon,2.0,VfL Bochum,Bundesliga,Loan,
+Philipp Hofmann,Centre-Forward,29,Germany,2.0,VfL Bochum,Bundesliga,Free,
+Cenk Tosun,Centre-Forward,31,Turkey,2.0,Besiktas,Süper Lig,Free,
+Eli Dasa,Right-Back,29,Israel,2.0,Dynamo Moscow,Premier Liga,Free,
+Luca Zanimacchia,Right Winger,24,Italy,2.0,Parma,Serie B,Loan,
+Sam Adekugbe,Left-Back,28,Canada,2.0,Galatasaray,Süper Lig,Loan,
+Fraser Forster,Goalkeeper,34,England,2.0,Tottenham,Premier League,Free,
+Jakub Swierczok,Centre-Forward,30,Poland,2.0,Zaglebie Lubin,Ekstraklasa,Unknown,
+Denso Kasius,Right-Back,20,Netherlands,2.0,Rapid Vienna,Bundesliga,Loan,
+Salomón Rondón,Centre-Forward,33,Venezuela,2.0,River Plate,Copa de la Liga,Free,
+Luan,Attacking Midfield,29,Brazil,2.0,Santos,Série A,Loan,
+Mateusz Zukowski,Right-Back,20,Poland,2.0,Lech Poznan,Ekstraklasa,Loan,
+Denis Dragus,Centre-Forward,23,Romania,2.0,Genoa,Serie B,Loan,
+Ole Selnaes,Defensive Midfield,27,Norway,2.0,FC Zürich,Super League,Free,
+Viktor Fischer,Left Winger,28,Denmark,2.0,AIK,Allsvenskan,Loan,
+Francesco Vicari,Centre-Back,27,Italy,2.0,Bari,Serie B,Unknown,
+Auston Trusty,Centre-Back,23,United States,2.0,Birmingham,Championship,Loan,
+Tom Edwards,Right-Back,23,England,2.0,Barnsley FC,League One,Loan,
+Luke Mbete,Centre-Back,19,England,2.0,Bolton,League One,Loan,
+Salvi Sánchez,Right Winger,31,Spain,2.0,Rayo Vallecano,LaLiga,Free,
+Florian Lejeune,Centre-Back,31,France,2.0,Rayo Vallecano,LaLiga,Loan,
+Moses Usor,Right Winger,20,Nigeria,2.0,LASK,Bundesliga,Loan,
+Robert Zulj,Attacking Midfield,30,Austria,2.0,LASK,Bundesliga,Free,
+Gabriel Suazo,Left-Back,25,Chile,2.0,Toulouse,Ligue 1,Free,
+Arnaud Souquet,Right-Back,30,France,2.0,Chicago,MLS,Free,
+Mamady Diambou,Defensive Midfield,20,Mali,2.0,FC Luzern,Super League,Loan,
+Lovre Kalinic,Goalkeeper,32,Croatia,2.0,Hajduk Split,SuperSport HNL,Free,
+Lazar Markovic,Right Winger,28,Serbia,2.0,Trabzonspor,Süper Lig,Loan,
+Jens Stryger Larsen,Right-Back,31,Denmark,2.0,Trabzonspor,Süper Lig,Free,
+Davide Bettella,Centre-Back,22,Italy,2.0,Palermo,Serie B,Loan,
+Álvaro Fernandez,Left-Back,19,Spain,2.0,Preston,Championship,Loan,
+Philippe Sandler,Centre-Back,25,Netherlands,2.0,NEC Nijmegen,Eredivisie,Free,
+Sidnei,Centre-Back,32,Brazil,2.0,UD Las Palmas,LaLiga2,Free,
+Anton Tinnerholm,Right-Back,31,Sweden,2.0,Malmö FF,Allsvenskan,Free,
+Will Smallbone,Central Midfield,22,Ireland,2.0,Stoke City,Championship,Loan,
+Tariqe Fosu,Left Winger,26,Ghana,2.0,Stoke City,Championship,Loan,
+Antoine Bernede,Central Midfield,23,France,2.0,Lausanne-Sport,Challenge League,Loan,
+Maximiliano Lovera,Left Winger,23,Argentina,2.0,Ionikos Nikeas,Super League 1,Loan,
+Pedrinho,Left Winger,23,Brazil,2.0,São Paulo,Série A,Loan,
+Helton Leite,Goalkeeper,32,Brazil,2.0,Antalyaspor,Süper Lig,Free,
+Emrecan Uzunhan,Centre-Back,21,Turkey,2.0,Antalyaspor,Süper Lig,Loan,
+Christian Luyindama,Centre-Back,28,DR Congo,2.0,Antalyaspor,Süper Lig,Loan,
+Sheyi Ojo,Right Winger,25,England,2.0,Cardiff,Championship,Free,
+Mahlon Romeo,Right-Back,26,Antigua and Barbuda,2.0,Cardiff,Championship,Free,
+Andre Gray,Centre-Forward,31,Jamaica,2.0,Aris Saloniki,Super League 1,Free,
+Rafael Camacho,Right Winger,22,Portugal,2.0,Aris Saloniki,Super League 1,Loan,
+Guillermo Varela,Right-Back,29,Uruguay,2.0,Flamengo,Série A,Free,
+Arturo Vidal,Central Midfield,35,Chile,2.0,Flamengo,Série A,Free,
+Kike Salas,Centre-Back,20,Spain,2.0,CD Tenerife,LaLiga2,Loan,
+Thomas Delaine,Left-Back,30,France,2.0,R. Strasbourg,Ligue 1,Free,
+Josh Bowler,Right Winger,23,England,2.0,Olympiacos,Super League 1,Loan,
+Samuel Grandsir,Right Winger,26,France,2.0,Le Havre AC,Ligue 2,Free,
+Jean-Daniel Akpa Akpro,Central Midfield,29,Cote d'Ivoire,2.0,FC Empoli,Serie A,Loan,
+Eric Remedi,Defensive Midfield,27,Argentina,2.0,Banfield,Copa de la Liga,Free,
+Milton Giménez,Centre-Forward,26,Argentina,2.0,Banfield,Copa de la Liga,Loan,
+Gastón Pereiro,Attacking Midfield,27,Uruguay,2.0,Nacional,Torneo Intermedio,Loan,
+Germán Conti,Centre-Back,28,Argentina,2.0,Loko Moscow,Premier Liga,Free,
+Robert Renan,Centre-Back,19,Brazil,2.0,Zenit S-Pb,Premier Liga,Free,
+Lucas Mineiro,Defensive Midfield,26,Brazil,2.0,KVC Westerlo,Jupiler Pro League,Loan,
+Issiaga Sylla,Left-Back,29,Guinea,2.0,Montpellier,Ligue 1,Free,
+Marc Albrighton,Right Midfield,33,England,2.0,West Brom,Championship,Loan,
+Pietro Ceccaroni,Centre-Back,27,Italy,2.0,Lecce,Serie A,Loan,
+Gianluca Frabotta,Left-Back,23,Italy,2.0,Lecce,Serie A,Loan,
+Josh Koroma,Centre-Forward,23,England,2.0,Portsmouth,League One,Loan,
+Benik Afobe,Centre-Forward,29,DR Congo,2.0,Millwall,Championship,Unknown,
+Jonathan Menéndez,Left Winger,28,Argentina,2.0,Vélez Sarsfield,Liga Profesional,Loan,
+Andrés Roa,Attacking Midfield,29,Colombia,2.0,Argentinos Jrs.,Liga Profesional,Free,
+Cauley Woodrow,Centre-Forward,27,England,2.0,Luton,Championship,Unknown,
+Will Vaulks,Defensive Midfield,28,Wales,2.0,Sheff Wed,League One,Free,
+Bram Nuytinck,Centre-Back,32,Netherlands,2.0,Sampdoria,Serie A,Unknown,
+Maxime Leverbe,Centre-Back,25,France,2.0,Sampdoria,Serie A,Loan,
+Bruno Amione,Centre-Back,20,Argentina,2.0,Sampdoria,Serie A,Loan,
+Jake Clarke-Salter,Centre-Back,24,England,2.0,QPR,Championship,Free,
+Rafa Soares,Left-Back,27,Portugal,2.0,PAOK Salonika,Super League 1,Free,
+Papa Ndiaga Yade,Left Winger,22,Senegal,2.0,Troyes,Ligue 1,Loan,
+Mandela Keita,Defensive Midfield,20,Belgium,2.0,Royal Antwerp,Jupiler Pro League,Loan,
+Rober González,Right Winger,21,Spain,2.0,Alavés,LaLiga2,Loan,
+Moussa Djitté,Centre-Forward,23,Senegal,2.0,AC Ajaccio,Ligue 1,Loan,
+Youssouf Koné,Left-Back,27,Mali,2.0,AC Ajaccio,Ligue 1,Loan,
+Josh Bowler,Right Winger,23,England,2.0,Blackpool,Championship,Loan,
+Curtis Nelson,Centre-Back,29,England,2.0,Blackpool,Championship,Free,
+Charlie Patino,Central Midfield,18,England,2.0,Blackpool,Championship,Loan,
+Ian Poveda,Right Winger,22,England,2.0,Blackpool,Championship,Loan,
+Tariqe Fosu,Left Winger,27,Ghana,2.0,Rotherham,Championship,Loan,
+Omar Al-Somah,Centre-Forward,33,Syria,2.0,Al-Arabi SC,Stars League,Loan,
+Mubarak Wakaso,Central Midfield,32,Ghana,2.0,KAS Eupen,Jupiler Pro League,Loan,
+Raúl López,Right-Back,29,Mexico,2.0,Santos Laguna,Liga MX Clausura,Unknown,
+Juan Brunetta,Left Winger,25,Argentina,2.0,Santos Laguna,Liga MX Clausura,Loan,
+Yahia Fofana,Goalkeeper,21,France,2.0,Angers SCO,Ligue 1,Free,
+Miha Blazic,Centre-Back,29,Slovenia,2.0,Angers SCO,Ligue 1,Free,
+Ibrahim Amadou,Defensive Midfield,29,France,2.0,Angers SCO,Ligue 1,Free,
+Carlos Eduardo,Right Winger,26,Brazil,2.0,Estoril Praia,Liga Portugal,Loan,
+Carlos Clerc,Left-Back,30,Spain,2.0,Elche CF,LaLiga,Free,
+Luca Zidane,Goalkeeper,24,France,2.0,SD Eibar,LaLiga2,Free,
+Janderson,Left Winger,23,Brazil,2.0,Ceará SC,Série B,Loan,
+Pablo Galdames,Central Midfield,26,Chile,2.0,Cremonese,Serie A,Loan,
+Paolo Ghiglione,Right-Back,25,Italy,2.0,Cremonese,Serie A,Unknown,
+Josef Bursik,Goalkeeper,22,England,2.0,Club Brugge,Jupiler Pro League,Unknown,
+Domagoj Pavicic,Central Midfield,28,Croatia,2.0,Konyaspor,Süper Lig,Free,
+Jordy Caicedo,Centre-Forward,25,Ecuador,2.0,Sivasspor,Süper Lig,Loan,
+Xavi Quintillà,Left-Back,25,Spain,2.0,Santa Clara,Liga Portugal,Free,
+Tomás Araújo,Centre-Back,20,Portugal,2.0,Gil Vicente,Liga Portugal,Loan,
+Ruan,Right-Back,27,Brazil,2.0,D.C. United,MLS,Free,
+Mateusz Klich,Central Midfield,32,Poland,2.0,D.C. United,MLS,Free,
+José Marsà,Centre-Back,20,Spain,2.0,Sporting Gijón,LaLiga2,Loan,
+Gonzalo Escalante,Central Midfield,29,Argentina,2.0,Cádiz CF,LaLiga,Loan,
+Federico Ricca,Centre-Back,27,Uruguay,2.0,OH Leuven,Jupiler Pro League,Free,
+Abdulkadir Parmak,Central Midfield,27,Turkey,2.0,Gaziantep FK,Süper Lig,Loan,
+Filippo Melegoni,Central Midfield,23,Italy,2.0,Standard Liège,Jupiler Pro League,Loan,
+João Carlos Teixeira,Attacking Midfield,30,Portugal,2.0,SH Shenhua,Super League,Free,
+Yassine Meriah,Centre-Back,29,Tunisia,2.0,Esperance,Ligue I Pro,Free,
+Vicente Iborra,Defensive Midfield,34,Spain,2.0,Levante,LaLiga2,Loan,
+Daniel Maldini,Attacking Midfield,20,Italy,2.0,Spezia Calcio,Serie A,Loan,
+Jérémie Bela,Left Winger,29,Angola,2.0,Clermont Foot,Ligue 1,Free,
+Marcos Guilherme,Left Winger,27,Brazil,2.0,Khimki,Premier Liga,Free,
+Heitor,Right-Back,22,Brazil,2.0,Mirassol-SP,Série B,Loan,
+Thuler,Centre-Back,23,Brazil,2.0,Vissel Kobe,J1 League,Loan,
+Maxime Leverbe,Centre-Back,25,France,2.0,Benevento,Serie B,Loan,
+Opa Nguette,Left Winger,28,Senegal,2.0,FC Baniyas,UAE Pro League,Free,
+Samir Memisevic,Centre-Back,29,Bosnia-Herzegovina,2.0,Al-Nasr SC,UAE Pro League,Free,
+Roberto Torres,Attacking Midfield,33,Spain,2.0,Foolad,Persian Gulf Pro League,Free,
+Jürgen Locadia,Centre-Forward,28,Curacao,2.0,Persepolis,Persian Gulf Pro League,Free,
+Gustavo Maia,Left Winger,22,Brazil,2.0,Valencia B,Segunda Federación - Gr. III,Loan,
+Mikael,Centre-Forward,23,Brazil,2.0,Internacional,Série A,Loan,
+Bruno Rodrigues,Centre-Back,21,Portugal,2.0,Karagümrük,Süper Lig,Loan,
+Steven Caulker,Centre-Back,30,Sierra Leone,2.0,Karagümrük,Süper Lig,Free,
+Fernando González,Defensive Midfield,28,Mexico,2.0,Chivas,Liga MX Clausura,Unknown,
+Santiago Ormeño,Centre-Forward,28,Peru,2.0,Chivas,Liga MX Clausura,Unknown,
+Gabriel Poveda,Centre-Forward,24,Brazil,2.0,Bolívar,División Profesional,Loan,
+Darko Velkovski,Centre-Back,27,North Macedonia,2.0,Ettifaq FC,Saudi Pro League,Free,
+Roberto Massimo,Left Winger,21,Germany,2.0,Académico Viseu,Liga Sabseg,Loan,
+Santiago Naveda,Defensive Midfield,21,Mexico,2.0,Miedz Legnica,Ekstraklasa,Loan,
+Samuele Mulattieri,Centre-Forward,21,Italy,2.0,Frosinone,Serie B,Loan,
+Gianluca Frabotta,Left-Back,23,Italy,2.0,Frosinone,Serie B,Loan,
+Ali Gholizadeh,Right Winger,26,Iran,2.0,Kasimpasa,Süper Lig,Loan,
+Pierre Dwomoh,Central Midfield,18,Belgium,2.0,Braga B,League 3 Promotion Round,Loan,
+Tomás Pochettino,Attacking Midfield,26,Argentina,2.0,Fortaleza,Série A,Unknown,
+Thiago Galhardo,Centre-Forward,32,Brazil,2.0,Fortaleza,Série A,Loan,
+Pedro Rocha,Left Winger,27,Brazil,2.0,Fortaleza,Série A,Free,
+João Carlos Teixeira,Attacking Midfield,29,Portugal,2.0,Umm Salal SC,Stars League,Free,
+Alexander Callens,Centre-Back,30,Peru,2.0,Girona,LaLiga,Free,
+Rodrigo Riquelme,Left Winger,22,Spain,2.0,Girona,LaLiga,Loan,
+Paulo Gazzaniga,Goalkeeper,30,Argentina,2.0,Girona,LaLiga,Loan,
+Roberto López,Attacking Midfield,22,Spain,2.0,CD Mirandés,LaLiga2,Loan,
+Lucas Cavallini,Centre-Forward,30,Canada,2.0,Club Tijuana,Liga MX Clausura,Free,
+Heitor,Right-Back,22,Brazil,2.0,Ferroviária,Paulistão A1 - Primeira Fase,Loan,
+Ryad Boudebouz,Attacking Midfield,32,Algeria,2.0,Al-Ahli,Saudi Arabia,Free,
+Fabio Abreu,Centre-Forward,29,Angola,2.0,Khor Fakkan,UAE Pro League,Unknown,
+Mehdi Abeid,Central Midfield,30,Algeria,2.0,Khor Fakkan,UAE Pro League,Free,
+Darío Sarmiento,Right Winger,19,Argentina,2.0,Mvd City Torque,Primera División Clausura,Loan,
