@@ -35,7 +35,7 @@ Here's the link to the Tableau Dashboard for the scraped data:
 2. Go to the project directory
 
 ```bash
-  cd <your path>/Transfermarkt-Scraping
+  cd Transfermarkt-Scraping
 ```
 3. Initialize and activate Virtual Environment
 ```bash
